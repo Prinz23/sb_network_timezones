@@ -1,0 +1,643 @@
+1+1:Europe/Kiev
+2×2:Europe/Kaliningrad
+2BE:Europe/Brussels
+3sat:Europe/Berlin
+6'eren:Europe/Copenhagen
+A&E:US/Eastern
+AAG TV:Asia/Karachi
+Aaj TV:Asia/Karachi
+ABC Family:US/Eastern
+ABC News 24:Australia/Perth
+ABC:US/Eastern
+ABC1:Australia/Perth
+ABC2:Australia/Perth
+ABC3:Australia/Perth
+ABC4Kids:Australia/Perth
+ABS-CBN Broadcasting Company:Asia/Manila
+Abu Dhabi TV:Asia/Dubai
+Action:Canada/Eastern
+Adult Channel:Europe/London
+Al Alam:Asia/Tehran
+Al Arabiyya:Asia/Dubai
+Al Jazeera:Asia/Qatar
+Alpha TV GUJARATI:Asia/Kolkata
+Alpha TV PUNJABI:Asia/Kolkata
+AMC:US/Eastern
+America One Television Network:US/Eastern
+Animal Planet:US/Eastern
+Animax:Asia/Tokyo
+Anime Network:US/Eastern
+ANT1:Europe/Athens
+Antena 3:Europe/Madrid
+Antenne 2:Europe/Paris
+Arte:Europe/Paris
+ARTV:Canada/Eastern
+ARY Digital:Asia/Karachi
+ARY One World:Asia/Karachi
+ARY Shopping Channel:Asia/Karachi
+ARY Zouq:Asia/Karachi
+ATN Aastha Channel:Asia/Kolkata
+ATV:Europe/Vienna
+AT-X:Asia/Tokyo
+Audience Network:US/Eastern
+AVRO:Europe/Amsterdam
+AXN:US/Eastern
+B4U Movies:Europe/London
+B4U Music:Europe/London
+BabyFirstTV:US/Eastern
+BBC America:US/Eastern
+BBC Canada:Canada/Eastern
+BBC Four:Europe/London
+BBC HD:Europe/London
+BBC Kids:Canada/Eastern
+BBC News:Europe/London
+BBC One:Europe/London
+BBC Parliament:Europe/London
+BBC Prime:Europe/London
+BBC Three:Europe/London
+BBC Two:Europe/London
+BBC World News:Europe/London
+BET:US/Eastern
+Biography Channel:US/Eastern
+BNN:Europe/Amsterdam
+BNT1:Europe/Sofia
+Boomerang:US/Eastern
+BR:Europe/Berlin
+BR-alpha:Europe/Berlin
+Bravo!:Canada/Eastern
+Bravo:US/Eastern
+BS11:Asia/Tokyo
+bTV:Europe/Sofia
+Bubble Hits:Europe/Dublin
+BYU Television:US/Eastern
+C31:Australia/Perth
+Canal 10 Saeta:America/Montevideo
+Canal 4 Montecarlo:America/Montevideo
+Canal+:Europe/Paris
+Canale 5:Europe/Rome
+Canvas/Ketnet:Europe/Brussels
+Carlton Television:Europe/London
+Cartoon Network:US/Eastern
+Casa:Canada/Eastern
+CBBC:Europe/London
+CBC:Canada/Eastern
+CBeebies:Europe/London
+CBS:US/Eastern
+CCTV:Asia/Shanghai
+Česká televize:Europe/Prague
+Challenge:Europe/London
+Channel [V]:Asia/Shanghai
+Channel 4:Europe/London
+Channel 5:Asia/Singapore
+Channel 6:Europe/Dublin
+Channel 8:Asia/Singapore
+Channel U:Asia/Singapore
+Chart Show TV:Europe/London
+Chorus Sports:Europe/Dublin
+CI:Australia/Perth
+Cielo:Europe/Rome
+Cinemax:US/Eastern
+City Channel:Europe/Dublin
+City:Canada/Eastern
+Classic Arts Showcase:US/Eastern
+Classic FM TV:Europe/London
+Club RTL:Europe/Brussels
+CMT:US/Eastern
+CN8:US/Eastern
+CNBC TV18:Asia/Kolkata
+CNBC:US/Eastern
+CNN:US/Eastern
+Comedy Central:US/Eastern
+Comedy Channel:US/Eastern
+Cooking Channel:US/Eastern
+Court TV:US/Eastern
+CPAC:Canada/Eastern
+C-Span:US/Eastern
+CTC:Asia/Tokyo
+CTV:Canada/Eastern
+Cuatro:Europe/Madrid
+Current TV:US/Eastern
+Das Erste:Europe/Berlin
+Dave:Europe/London
+Dawn News:Asia/Karachi
+DD-Gujarati:Asia/Kolkata
+DDR1:Europe/Berlin
+Destination America:US/Eastern
+Deutsche Welle TV:Europe/Berlin
+Discovery HD World:Asia/Singapore
+Discovery Kids:US/Eastern
+Discovery Science:US/Eastern
+Discovery Turbo:US/Eastern
+Discovery:US/Eastern
+Dish TV:US/Eastern
+Disney Channel:US/Eastern
+Disney Cinemagic:Europe/London
+Disney XD:US/Eastern
+DIY Network:US/Eastern
+dk4:Europe/Copenhagen
+DMAX:Europe/Berlin
+Doordarshan National:Asia/Kolkata
+Doordarshan News:Asia/Kolkata
+Doordarshan Sports:Asia/Kolkata
+DR K:Europe/Copenhagen
+DR Ramasjang:Europe/Copenhagen
+DR1:Europe/Copenhagen
+DR2:Europe/Copenhagen
+DuMont Television Network:US/Eastern
+Duna TV:Europe/Budapest
+E!:US/Eastern
+E4:Europe/Dublin
+EBS:Asia/Seoul
+Eden:Europe/London
+één:Europe/Brussels
+Einsfestival:Europe/Berlin
+Encore:US/Eastern
+Encuentro:America/Buenos_Aires
+EO:Europe/Amsterdam
+eqhd:Canada/Eastern
+ERT:Europe/Athens
+ESPN Asia:Asia/Hong_Kong
+ESPN Hong Kong:Asia/Hong_Kong
+ESPN India:Asia/Kolkata
+ESPN Philippines:Asia/Manila
+ESPN Taiwan:Asia/Taipei
+ESPN:US/Eastern
+ETV Gujarati:Asia/Kolkata
+Eurosport:Europe/London
+Family:Canada/Eastern
+Fashion TV:Europe/Paris
+FEM:Europe/London
+Five Life:Europe/London
+Five US:Europe/London
+Five:Europe/London
+Food Network:US/Eastern
+Fox Business:US/Eastern
+Fox Crime:Europe/Rome
+Fox Life:Europe/Rome
+Fox Reality:US/Eastern
+FOX SPORTS:Australia/Perth
+FOX Traveller:Asia/Kolkata
+FOX:US/Eastern
+Fox8:Australia/Perth
+France 2:Europe/Paris
+France 3:Europe/Paris
+France 4:Europe/Paris
+France 5:Europe/Paris
+France Ô:Europe/Paris
+Fred TV:US/Eastern
+FTV:Asia/Taipei
+Fuel TV:US/Eastern
+Fuji TV:Asia/Tokyo
+FUNimation Channel:US/Eastern
+FX:US/Eastern
+G4 Canada:Canada/Eastern
+G4:US/Eastern
+GEO Super:Asia/Karachi
+Geo TV:Asia/Karachi
+Global:Canada/Eastern
+GMA:Asia/Manila
+GNT:America/Sao_Paulo
+GSN:US/Eastern
+Guardian Television Network:US/Eastern
+H2:US/Eastern
+Hallmark Channel:US/Eastern
+HBO:US/Eastern
+HDNet:US/Eastern
+here!:US/Eastern
+HGTV:US/Eastern
+HIFI:Canada/Eastern
+Hír TV:Europe/Budapest
+History Television:Canada/Eastern
+History:US/Eastern
+HOT:Asia/Jerusalem
+Hulu:US/Eastern
+ICTV:Europe/Kiev
+IFC:US/Eastern
+IKON:Europe/Amsterdam
+Indus Music:Asia/Karachi
+Indus News:Asia/Karachi
+Indus Vision:Asia/Karachi
+Investigation Discovery:US/Eastern
+Ion Television:US/Eastern
+Italia 1:Europe/Rome
+ITV Granada:Europe/London
+ITV:Europe/London
+ITV1:Europe/London
+ITV2:Europe/London
+ITV3:Europe/London
+ITV4:Europe/London
+JIM:Europe/Helsinki
+Joi:Europe/Rome
+Jupiter Broadcasting :US/Eastern
+KanaalTwee:Europe/Brussels
+Kanal 4:Europe/Copenhagen
+Kanal 5:Europe/Copenhagen
+Kanal D:Europe/Istanbul
+Kashish TV:Asia/Karachi
+KBS TV1:Asia/Seoul
+KBS TV2:Asia/Seoul
+KBS World:Asia/Seoul
+KBS:Asia/Seoul
+Kerrang! TV:Europe/London
+Kids and Teens TV:US/Eastern
+Kids Station:Asia/Tokyo
+KIKA:Europe/Berlin
+Kiss:Europe/London
+KRO:Europe/Amsterdam
+KTN:Asia/Karachi
+Kunskapskanalen:Europe/Stockholm
+Kyoto Broadcasting System:Asia/Tokyo
+La Deux:Europe/Brussels
+La Siete:Europe/Madrid
+La Trois:Europe/Brussels
+La Une:Europe/Brussels
+La7:Europe/Rome
+laSexta:Europe/Madrid
+LaSexta:Europe/Rome
+LCI:Europe/Paris
+Liberty Channel:US/Eastern
+Liberty TV:Europe/London
+LifeStyle FOOD:Australia/Perth
+LifeStyle HOME:Australia/Perth
+LifeStyle:Australia/Perth
+Lifetime:US/Eastern
+Living:Europe/London
+Logo:US/Eastern
+M6:Europe/Paris
+Magic:Europe/London
+Magyar Televízió:Europe/Budapest
+MATV:Europe/London
+MBS:Asia/Tokyo
+MDR:Europe/Berlin
+Mega Channel:Europe/Athens
+Military Channel:US/Eastern
+MNN:US/Eastern
+MoonTV:Europe/Helsinki
+More4:Europe/London
+Movie Central:Canada/Eastern
+MSNBC:US/Eastern
+MTV Base:Europe/London
+MTV Dance:Europe/London
+MTV Hits:US/Eastern
+MTV:US/Eastern
+MTV2:US/Eastern
+MTV3:Europe/Helsinki
+Multishow:America/Sao_Paulo
+Munhwa Broadcasting Corporation (MBC):Asia/Seoul
+MUTV:Europe/London
+Mya:Europe/Rome
+Nat Geo Wild:US/Eastern
+National Geographic Adventure:US/Eastern
+National Geographic:US/Eastern
+NBC:US/Eastern
+NCRV:Europe/Amsterdam
+NDR:Europe/Berlin
+NDTV 24x7:Asia/Kolkata
+NDTV India:Asia/Kolkata
+Nelonen:Europe/Helsinki
+NET 5:Europe/Amsterdam
+Netflix:US/Eastern
+Network Ten:Australia/Perth
+New Tang Dynasty TV:US/Eastern
+News One:Asia/Karachi
+NHK:Asia/Tokyo
+NHNZ:Pacific/Auckland
+Nick at Nite:US/Eastern
+Nick GAS:US/Eastern
+Nickelodeon:US/Eastern
+NickToons Network:US/Eastern
+Niconico:Asia/Tokyo
+Nine Network:Australia/Perth
+Noggin:US/Eastern
+NovaTV:Europe/Sofia
+NRK Super:Europe/Oslo
+NRK1:Europe/Oslo
+NRK2:Europe/Oslo
+NRK3:Europe/Oslo
+NT1:Europe/Paris
+NTA:Africa/Lagos
+NTR:Europe/Amsterdam
+NTV:Asia/Tokyo
+Oasis HD:Canada/Eastern
+OLN:Canada/Eastern
+ORF 1:Europe/Vienna
+ORF 2:Europe/Vienna
+ORTF:Europe/Paris
+Outdoor Channel:US/Eastern
+Ovation TV:US/Eastern
+OWN:US/Eastern
+Oxygen:US/Eastern
+Paramount Comedy:Europe/London
+PBS Kids Sprout:US/Eastern
+PBS:US/Eastern
+Phoenix TV:Asia/Shanghai
+Phoenix:Europe/Berlin
+Pick TV:Europe/London
+Planet Green:US/Eastern
+Playboy TV:US/Eastern
+Playhouse Disney:US/Eastern
+PlayJam:Europe/London
+Plug RTL:Europe/Brussels
+Press TV:Asia/Tehran
+Prima televize:Europe/Prague
+Prime:Pacific/Auckland
+PRO TV:Europe/Bucharest
+ProSieben:Europe/Berlin
+PTV Bolan:Asia/Karachi
+PTV Global:US/Eastern
+PTV Home:Asia/Karachi
+PTV News:Asia/Karachi
+Pub Channel:Europe/London
+Puls 4:Europe/Vienna
+Q TV:Europe/London
+QTV:Asia/Karachi
+QVC:US/Eastern
+Radio Bremen:Europe/Berlin
+Radio Canada:Canada/Eastern
+radX:Canada/Eastern
+Rai 1:Europe/Rome
+Rai 2:Europe/Rome
+Rai 3:Europe/Rome
+RAI:Europe/Rome
+RBB:Europe/Berlin
+RCTI:Asia/Jakarta
+Record:America/Sao_Paulo
+Red Hot TV:Europe/London
+Rede Globo:America/Sao_Paulo
+ReelzChannel:US/Eastern
+Rete 4:Europe/Rome
+Revelation TV:Europe/London
+Revision3:US/Eastern
+rmusic TV:Europe/London
+Rooster Teeth:US/Eastern
+Royal News:Asia/Karachi
+RT:Europe/Kaliningrad
+RTÉ One:Europe/Dublin
+RTÉ Two:Europe/Dublin
+RTL 4:Europe/Amsterdam
+RTL 5:Europe/Amsterdam
+RTL 7:Europe/Amsterdam
+RTL 8:Europe/Amsterdam
+RTL Television:Europe/Berlin
+RTL TVI:Europe/Brussels
+RTP Açores:Europe/Lisbon
+RTP África:Europe/Lisbon
+RTP Internacional:Europe/Lisbon
+RTP Madeira:Europe/Lisbon
+RTP N:Europe/Lisbon
+RTP1:Europe/Lisbon
+Russia Today:Europe/Kaliningrad
+RVU:Europe/Amsterdam
+S4/C:Europe/London
+S4C2:Europe/London
+Sab TV:Asia/Kolkata
+Sahara ONE:Asia/Kolkata
+Sanskar:Asia/Kolkata
+SAT.1:Europe/Berlin
+SBS 6:Europe/Amsterdam
+SBS:Australia/Perth
+SBT:America/Sao_Paulo
+Schweizer Fernsehen:Europe/Zurich
+Science Channel:US/Eastern
+SciFi:US/Eastern
+Scuzz:Europe/London
+Séries+:Canada/Eastern
+Servus TV:Europe/Vienna
+SET MAX:Asia/Kolkata
+SET TV:Asia/Taipei
+Setanta Ireland:Europe/Dublin
+Seven Network:Australia/Perth
+Show TV:Europe/Istanbul
+Showcase:Canada/Eastern
+Showtime:US/Eastern
+SIC Comédia:Europe/Lisbon
+SIC Mulher:Europe/Lisbon
+SIC Notícias:Europe/Lisbon
+SIC Radical:Europe/Lisbon
+SIC Sempre Gold:Europe/Lisbon
+SIC:Europe/Lisbon
+Sirasa:Asia/Colombo
+Sky Arts:Europe/London
+Sky Atlantic:Europe/London
+Sky Box Office:Europe/London
+Sky Cinema:Europe/London
+Sky Movies:Europe/London
+Sky News Ireland:Europe/Dublin
+Sky News:Europe/London
+Sky Sports:Europe/London
+Sky Travel:Europe/London
+Sky Uno:Europe/Rome
+Sky1:Europe/London
+Sky2:Europe/London
+Sky3:Europe/London
+Sleuth (TV):US/Eastern
+Slice:Canada/Eastern
+Smash Hits:Europe/London
+Smithsonian Channel:US/Eastern
+SOAPnet:US/Eastern
+Sony Entertainment Television:US/Eastern
+Sony TV:Asia/Kolkata
+Space:Canada/Eastern
+Speed:US/Eastern
+Spike TV:US/Eastern
+SR:Europe/Berlin
+STAR Gold:Asia/Kolkata
+STAR Movies:Asia/Hong_Kong
+STAR News:Asia/Kolkata
+STAR Plus:Asia/Kolkata
+STAR Sports Asia:Asia/Hong_Kong
+STAR Sports Hong Kong:Asia/Hong_Kong
+STAR Sports India:Asia/Kolkata
+STAR Sports Malaysia:Asia/Kuala_Lumpur
+STAR Sports Southeast Asia:Asia/Hong_Kong
+STAR Sports Taiwan:Asia/Taipei
+Star TV:Europe/Istanbul
+STAR Vijay:Asia/Kolkata
+Star World:Asia/Hong_Kong
+Starz!:US/Eastern
+Steel:Europe/Rome
+Studio 23:Asia/Manila
+STV:Europe/London
+Style:US/Eastern
+Sub:Europe/Helsinki
+SUN music:Asia/Kolkata
+SUN news:Asia/Kolkata
+SUN TV:Asia/Kolkata
+Sundance:US/Eastern
+SuoimiTV:Europe/Helsinki
+Superstation WGN:US/Eastern
+SVT:Europe/Stockholm
+SVT1:Europe/Stockholm
+SVT2:Europe/Stockholm
+SVT24:Europe/Stockholm
+SVTB:Europe/Stockholm
+Swarnawahini:Asia/Colombo
+SWR:Europe/Berlin
+Syfy:US/Eastern
+TBS Superstation:US/Eastern
+TCM:Europe/London
+Tele 5:Europe/Berlin
+Telecinco:Europe/Madrid
+Teledoce:America/Montevideo
+TeleG:Europe/London
+Telemundo:US/Eastern
+Télé-Québec:Canada/Eastern
+Teletoon:Canada/Eastern
+Télétoon:Europe/Paris
+Televisa:America/Mexico_City
+Television Osaka:Asia/Tokyo
+TEN Sports:Asia/Kolkata
+TevéCiudad:America/Montevideo
+TF1:Europe/Paris
+TFO:Canada/Eastern
+TG4:Europe/Dublin
+The Amp:Europe/London
+The Box:Europe/London
+The CW:US/Eastern
+The Den:Europe/Dublin
+The Hub:US/Eastern
+The Movie Network:Canada/Eastern
+The N:US/Eastern
+The Sportsman Channel:US/Eastern
+The WB:US/Eastern
+The Weather Channel:US/Eastern
+TLC:US/Eastern
+TMC:Europe/Monaco
+TMF:Europe/Amsterdam
+TNT Serie:Europe/Berlin
+TNT:US/Eastern
+TNU:America/Montevideo
+Tokyo Broadcasting System:Asia/Tokyo
+Tokyo MX:Asia/Tokyo
+Toon Disney:US/Eastern
+TQS:Canada/Eastern
+Travel Channel:US/Eastern
+Treehouse TV:Canada/Eastern
+TROS:Europe/Amsterdam
+truTV:US/Eastern
+Turner South:US/Eastern
+TV 2 Charlie:Europe/Copenhagen
+TV 2 Filmkanalen:Europe/Oslo
+TV 2 Nyhetskanalen:Europe/Oslo
+TV 2 Science Fiction:Europe/Oslo
+TV 2 Sport:Europe/Oslo
+TV 2 Zebra:Europe/Oslo
+TV 2 Zulu:Europe/Copenhagen
+TV 2:Europe/Copenhagen
+TV 3:Europe/Copenhagen
+TV 4:Europe/Warsaw
+TV Aichi:Asia/Tokyo
+TV Asahi:Asia/Tokyo
+TV Azteca:America/Mexico_City
+TV Cabo:Europe/Lisbon
+TV Chile:America/Santiago
+TV Guide Channel:US/Eastern
+TV Land:US/Eastern
+TV Nova:Europe/Prague
+TV Pública:America/Buenos_Aires
+TV Tokyo:Asia/Tokyo
+TV11:Europe/Stockholm
+TV3 Puls:Europe/Copenhagen
+TV3:Europe/Stockholm
+TV3+:Europe/Copenhagen
+TV4 Fakta:Europe/Stockholm
+TV4 Guld:Europe/Stockholm
+TV4 Komedi:Europe/Stockholm
+TV4 Plus:Europe/Stockholm
+TV4 Science Fiction:Europe/Stockholm
+TV4:Europe/Stockholm
+TV5 Monde:Europe/Paris
+TV6:Europe/Stockholm
+TV7:Europe/Stockholm
+TV8:Europe/Stockholm
+TVA:Canada/Eastern
+TVB:Asia/Shanghai
+TVBS:Asia/Shanghai
+TVE:Europe/Madrid
+TVG Network:US/Eastern
+TVI:Europe/Lisbon
+TVM:Europe/Malta
+TVN Turbo:Europe/Warsaw
+tvN:Asia/Seoul
+TVN:Europe/Warsaw
+TVNorge:Europe/Oslo
+TVNZ:Pacific/Auckland
+TVOne Global:Asia/Karachi
+TVP SA:Europe/Warsaw
+TVP1:Europe/Warsaw
+TVP2:Europe/Warsaw
+TVRI:Asia/Jakarta
+TVS Sydney:Australia/Perth
+TWiT:US/Eastern
+UK Entertainment Channel:Europe/London
+UKTV Drama:Europe/London
+UKTV Food:Europe/London
+UKTV Gold:Europe/London
+UKTV History:Europe/London
+UKTV Style:Europe/London
+Univision:US/Eastern
+UNTV 37:Asia/Manila
+UPN:US/Eastern
+USA Network:US/Eastern
+UTV:Europe/Dublin
+V:Canada/Eastern
+VARA:Europe/Amsterdam
+Varsity TV:US/Eastern
+Velocity:US/Eastern
+Veronica:Europe/Amsterdam
+VH1 Classics:US/Eastern
+VH1:US/Eastern
+Viasat 4:Europe/Oslo
+VIER:Europe/Brussels
+VijfTV:Europe/Brussels
+Volksmusik TV:Europe/Berlin
+Voyage:Europe/Paris
+VPRO:Europe/Amsterdam
+Vrak.TV:Canada/Eastern
+VT4:Europe/Brussels
+VTM:Europe/Brussels
+W:Australia/Perth
+W9:Europe/Paris
+Warner Channel:US/Eastern
+Watch:Europe/London
+WDR:Europe/Berlin
+WE tv:US/Eastern
+WealthTV:US/Eastern
+WOWOW:Asia/Tokyo
+XY TV:US/Eastern
+Yahoo! Screen:US/Eastern
+yes:Asia/Jerusalem
+YLE:Europe/Helsinki
+YouTube:US/Eastern
+YTV:Canada/Eastern
+ZDF.Kultur:Europe/Berlin
+ZDF:Europe/Berlin
+ZDFneo:Europe/Berlin
+Zee Cinema:Asia/Kolkata
+Zee Gujarati:Asia/Kolkata
+Zee Muzic:Asia/Kolkata
+Zee TV:Asia/Kolkata
+ZOOM:Asia/Kolkata
+Ztélé:Canada/Eastern
+Дождь:Europe/Kaliningrad
+Домашний:Europe/Kaliningrad
+ДТВ:Europe/Kaliningrad
+Звезда:Europe/Kaliningrad
+Інтер:Europe/Kiev
+НТВ:Europe/Kaliningrad
+Первый канал:Europe/Kaliningrad
+Пятый канал:Europe/Kaliningrad
+РЕН:Europe/Kaliningrad
+Россия 1:Europe/Kaliningrad
+Россия К:Europe/Kaliningrad
+СТС:Europe/Kaliningrad
+ТВ Центр:Europe/Kaliningrad
+ТВ3:Europe/Kaliningrad
+ТВС:Europe/Kaliningrad
+ТНТ:Europe/Kaliningrad
+הערוץ הראשון:Asia/Jerusalem
+טלעד:Asia/Jerusalem
+ערוץ 10:Asia/Jerusalem
+ערוץ הילדים‎:Asia/Jerusalem
+קשת:Asia/Jerusalem
+רשת:Asia/Jerusalem
