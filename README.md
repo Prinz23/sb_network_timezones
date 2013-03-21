@@ -28,4 +28,4 @@ Content:
 Zoneinfo-Filename md5hash
 
 
-Data-File: *zoneinfo-\*.tar.gz*
+Data-File: *zoneinfo-.....tar.gz*
