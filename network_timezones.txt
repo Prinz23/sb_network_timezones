@@ -7,12 +7,12 @@ A&E:US/Eastern
 AAG TV:Asia/Karachi
 Aaj TV:Asia/Karachi
 ABC Family:US/Eastern
-ABC News 24:Australia/Perth
+ABC News 24:Australia/Sydney
 ABC:US/Eastern
-ABC1:Australia/Perth
-ABC2:Australia/Perth
-ABC3:Australia/Perth
-ABC4Kids:Australia/Perth
+ABC1:Australia/Sydney
+ABC2:Australia/Sydney
+ABC3:Australia/Sydney
+ABC4Kids:Australia/Sydney
 ABS-CBN Broadcasting Company:Asia/Manila
 Abu Dhabi TV:Asia/Dubai
 Action:Canada/Eastern
@@ -70,7 +70,7 @@ BS11:Asia/Tokyo
 bTV:Europe/Sofia
 Bubble Hits:Europe/Dublin
 BYU Television:US/Eastern
-C31:Australia/Perth
+C31:Australia/Sydney
 Canal 10 Saeta:America/Montevideo
 Canal 4 Montecarlo:America/Montevideo
 Canal+:Europe/Paris
@@ -94,7 +94,7 @@ Channel 8:Asia/Singapore
 Channel U:Asia/Singapore
 Chart Show TV:Europe/London
 Chorus Sports:Europe/Dublin
-CI:Australia/Perth
+CI:Australia/Sydney
 Cielo:Europe/Rome
 Cinemax:US/Eastern
 City Channel:Europe/Dublin
@@ -175,10 +175,10 @@ Fox Business:US/Eastern
 Fox Crime:Europe/Rome
 Fox Life:Europe/Rome
 Fox Reality:US/Eastern
-FOX SPORTS:Australia/Perth
+FOX SPORTS:Australia/Sydney
 FOX Traveller:Asia/Kolkata
 FOX:US/Eastern
-Fox8:Australia/Perth
+Fox8:Australia/Sydney
 France 2:Europe/Paris
 France 3:Europe/Paris
 France 4:Europe/Paris
@@ -257,9 +257,9 @@ LaSexta:Europe/Rome
 LCI:Europe/Paris
 Liberty Channel:US/Eastern
 Liberty TV:Europe/London
-LifeStyle FOOD:Australia/Perth
-LifeStyle HOME:Australia/Perth
-LifeStyle:Australia/Perth
+LifeStyle FOOD:Australia/Sydney
+LifeStyle HOME:Australia/Sydney
+LifeStyle:Australia/Sydney
 Lifetime:US/Eastern
 Living:Europe/London
 Logo:US/Eastern
@@ -297,7 +297,7 @@ NDTV India:Asia/Kolkata
 Nelonen:Europe/Helsinki
 NET 5:Europe/Amsterdam
 Netflix:US/Eastern
-Network Ten:Australia/Perth
+Network Ten:Australia/Sydney
 New Tang Dynasty TV:US/Eastern
 News One:Asia/Karachi
 NHK:Asia/Tokyo
@@ -307,7 +307,7 @@ Nick GAS:US/Eastern
 Nickelodeon:US/Eastern
 NickToons Network:US/Eastern
 Niconico:Asia/Tokyo
-Nine Network:Australia/Perth
+Nine Network:Australia/Sydney
 Noggin:US/Eastern
 NovaTV:Europe/Sofia
 NRK Super:Europe/Oslo
@@ -395,7 +395,7 @@ Sahara ONE:Asia/Kolkata
 Sanskar:Asia/Kolkata
 SAT.1:Europe/Berlin
 SBS 6:Europe/Amsterdam
-SBS:Australia/Perth
+SBS:Australia/Sydney
 SBT:America/Sao_Paulo
 Schweizer Fernsehen:Europe/Zurich
 Science Channel:US/Eastern
@@ -406,7 +406,7 @@ Servus TV:Europe/Vienna
 SET MAX:Asia/Kolkata
 SET TV:Asia/Taipei
 Setanta Ireland:Europe/Dublin
-Seven Network:Australia/Perth
+Seven Network:Australia/Sydney
 Show TV:Europe/Istanbul
 Showcase:Canada/Eastern
 Showtime:US/Eastern
@@ -567,7 +567,7 @@ TVP SA:Europe/Warsaw
 TVP1:Europe/Warsaw
 TVP2:Europe/Warsaw
 TVRI:Asia/Jakarta
-TVS Sydney:Australia/Perth
+TVS Sydney:Australia/Sydney
 TWiT:US/Eastern
 UK Entertainment Channel:Europe/London
 UKTV Drama:Europe/London
@@ -596,7 +596,7 @@ VPRO:Europe/Amsterdam
 Vrak.TV:Canada/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
-W:Australia/Perth
+W:Australia/Sydney
 W9:Europe/Paris
 Warner Channel:US/Eastern
 Watch:Europe/London
