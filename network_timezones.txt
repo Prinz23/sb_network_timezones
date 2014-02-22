@@ -603,6 +603,7 @@ Watch:Europe/London
 WDR:Europe/Berlin
 WE tv:US/Eastern
 WealthTV:US/Eastern
+WGN America:US/Eastern
 WOWOW:Asia/Tokyo
 XY TV:US/Eastern
 Yahoo! Screen:US/Eastern
