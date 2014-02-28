@@ -474,7 +474,7 @@ SVTB:Europe/Stockholm
 Swarnawahini:Asia/Colombo
 SWR:Europe/Berlin
 Syfy:US/Eastern
-TBS Superstation:US/Eastern
+TBS:US/Eastern
 TCM:Europe/London
 Tele 5:Europe/Berlin
 Telecinco:Europe/Madrid
