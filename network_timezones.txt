@@ -210,6 +210,7 @@ FOX Sports 2:US/Eastern
 FOX SPORTS:Australia/Sydney
 FOX Traveller:Asia/Kolkata
 FOX:US/Eastern
+Fox:Europe/Rome
 Fox8:Australia/Sydney
 France 2:Europe/Paris
 France 3:Europe/Paris
