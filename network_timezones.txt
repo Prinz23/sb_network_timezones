@@ -209,8 +209,8 @@ FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX SPORTS:Australia/Sydney
 FOX Traveller:Asia/Kolkata
-FOX:US/Eastern
 Fox:Europe/Rome
+FOX:US/Eastern
 Fox8:Australia/Sydney
 France 2:Europe/Paris
 France 3:Europe/Paris
@@ -306,6 +306,7 @@ LifeStyle HOME:Australia/Sydney
 LifeStyle:Australia/Sydney
 Lifetime:US/Eastern
 Living:Europe/London
+LMN:US/Eastern
 Logo:US/Eastern
 M6:Europe/Paris
 Magic:Europe/London
