@@ -464,6 +464,7 @@ COMEDY CENTRAL (UK):Europe/London
 Comedy Central (US):US/Eastern
 COMEDY CENTRAL EXTRA (UK):Europe/London
 Comedy Central:US/Eastern
+Comedy Central (US):US/Eastern
 comedy channel (AU):Australia/Sydney
 Comedy Channel:US/Eastern
 Comedy MOVIES (AU):Australia/Sydney
