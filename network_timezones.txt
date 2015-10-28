@@ -782,6 +782,7 @@ France 5:Europe/Paris
 France Ô:Europe/Paris
 FRANCE24 (US):US/Eastern
 Fred TV:US/Eastern
+Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
