@@ -1908,6 +1908,7 @@ TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT Serie:Europe/Berlin
 TNT:US/Eastern
+TNT (US):US/Eastern
 TNU:America/Montevideo
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
