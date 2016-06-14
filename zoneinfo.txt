@@ -1,1 +1,1 @@
-zoneinfo-2016d.tar.gz 1eca393fb836d100567ebb3470ed956f
+zoneinfo-2016e.tar.gz bf057da0796560a055c4b9cecc32824b
