@@ -1245,7 +1245,7 @@ NEN (AU):Australia/Sydney
 neonalley.com (US):US/Eastern
 NET 5:Europe/Amsterdam
 Netflix (UK):Europe/London
-Netflix:US/Eastern
+Netflix:US/Pacific
 Network Ten:Australia/Sydney
 NEW (AU):Australia/Sydney
 New England Sports Network (US):US/Eastern
