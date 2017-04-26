@@ -1604,7 +1604,7 @@ SHO NEXT (US):US/Eastern
 sho.com (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
 Show TV:Europe/Istanbul
-showcase (AU):Australia/Sydney
+Showcase (AU):Australia/Sydney
 Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
 SHOWCASE (US):US/Eastern
