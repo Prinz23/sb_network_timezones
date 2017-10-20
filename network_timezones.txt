@@ -1883,8 +1883,10 @@ TEN Sports:Asia/Kolkata
 TENNIS CHANNEL (US):US/Eastern
 TET:Europe/Kiev
 TF1:Europe/Paris
+TF1 Séries:Europe/Paris
 TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
+TFX:Europe/Paris
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
 THRILLER MOVIES (AU):Australia/Sydney
