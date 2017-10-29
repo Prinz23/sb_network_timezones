@@ -784,6 +784,7 @@ Family (CA):Canada/Eastern
 Family CHRGD:Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
 Family Gekijou (JP):Asia/Tokyo
+Fantastic TV:Asia/Hong_Kong
 Fashion TV:Europe/Paris
 Feeln:US/Eastern
 Filles TV:Europe/Paris
