@@ -1974,6 +1974,7 @@ TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
 TV2:Pacific/Auckland
 TV2 (NO):Europe/Oslo
+TV2 (NZ):Pacific/Auckland
 TV3:Europe/Stockholm
 TV3 (ES):Europe/Madrid
 TV3 (IE):Europe/Dublin
