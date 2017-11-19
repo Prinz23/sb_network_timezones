@@ -168,6 +168,7 @@ Alnabaa:Africa/Tripoli
 Alpha TV:Europe/Athens
 Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
+Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
 Amazon:US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
@@ -560,6 +561,7 @@ DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Dare to Dream Network (US):US/Eastern
+Dark:Europe/Madrid
 Das Erste:Europe/Berlin
 Dating Channel (UK):Europe/London
 Daum tvPot:Asia/Seoul
@@ -1450,6 +1452,7 @@ Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
 Paramount Comedy:Europe/London
+Paramount Network:US/Eastern
 Paris Première:Europe/Paris
 Paris Première (FR):Europe/Paris
 Pastor Scott (US):US/Eastern
@@ -1479,6 +1482,7 @@ Playhouse Disney:US/Eastern
 Playhouse Disney France:Europe/Paris
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
+Polynésie 1ère:Europe/Paris
 Pop:US/Eastern
 Pop Girl (UK):Europe/London
 PowNed:Europe/Amsterdam
@@ -1885,6 +1889,7 @@ TENNIS CHANNEL (US):US/Eastern
 TET:Europe/Kiev
 TF1:Europe/Paris
 TF1 Séries:Europe/Paris
+TF1 Séries Films:Europe/Paris
 TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TFX:Europe/Paris
