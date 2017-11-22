@@ -1524,6 +1524,7 @@ RCTV:America/Caracas
 RDI:Canada/Eastern
 REALLY (UK):Europe/London
 RECIPE.TV (US):US/Eastern
+RED+:America/Bogota
 REVOLT (US):US/Eastern
 RFD-TV (US):US/Eastern
 RHC (AU):Australia/Sydney
