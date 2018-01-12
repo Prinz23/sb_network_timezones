@@ -528,6 +528,7 @@ Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
 Crime & Investigation Network:US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
+Crime & Investigation Network (Europe):Europe/London
 Crime & Investigation Network (US):US/Eastern
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
@@ -780,6 +781,7 @@ FX CANADA:Canada/Eastern
 FX MOVIE CHANNEL (US):US/Eastern
 FXX:US/Eastern
 FYI:US/Eastern
+Facebook Watch:US/Eastern
 Faith World TV (UK):Europe/London
 Family:Canada/Eastern
 Family (CA):Canada/Eastern
@@ -796,6 +798,7 @@ Fitness Channel (UK):Europe/London
 Five:Europe/London
 Five Life:Europe/London
 Five US:Europe/London
+Fix & Foxi:Europe/Berlin
 Flow TV (US):US/Eastern
 Food Network:US/Eastern
 Food Network (UK):Europe/London
@@ -827,6 +830,7 @@ Fox Comedy:America/Buenos_Aires
 Fox Crime:Europe/Rome
 Fox Family:US/Eastern
 Fox Family (Latin America):America/Buenos_Aires
+Fox Kids:US/Eastern
 Fox Life:Europe/Rome
 Fox Life (BR):America/Sao_Paulo
 Fox Life (IT):Europe/Rome
@@ -2119,6 +2123,7 @@ Time Warner Cable News North Carolina (US):US/Eastern
 Time Warner Cable News Rochester (US):US/Eastern
 Tiny Pop (UK):Europe/London
 Toei Channel:Asia/Tokyo
+Toggle:Asia/Singapore
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
