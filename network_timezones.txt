@@ -1614,6 +1614,7 @@ RTV Oost (NL):Europe/Amsterdam
 RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
+RTVS:Europe/Bratislava
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Two:Europe/Dublin
