@@ -480,6 +480,7 @@ Chart Show Dance (UK):Europe/London
 Chart Show TV:Europe/London
 Chat Box (UK):Europe/London
 Chiba TV (JP):Asia/Tokyo
+Chilevisión:America/Santiago
 Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
@@ -876,6 +877,7 @@ Fuji TV:Asia/Tokyo
 Fullscreen:US/Eastern
 Fusion:US/Eastern
 Fusion (US):US/Eastern
+Futura:America/Sao_Paulo
 G4:US/Eastern
 G4 Canada:Canada/Eastern
 GBN (US):US/Eastern
@@ -1637,6 +1639,7 @@ Real Hip-Hop Network (US):US/Eastern
 Real Time:Europe/Rome
 Really:Europe/London
 Record:America/Sao_Paulo
+Record News:America/Sao_Paulo
 Record TV (UK):Europe/London
 Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
@@ -1848,6 +1851,7 @@ Space (Latin America):America/Buenos_Aires
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
+Spike (NL):Europe/Amsterdam
 Spike TV:US/Eastern
 Spirit (US):US/Eastern
 Spirit Word (US):US/Eastern
