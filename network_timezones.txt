@@ -1821,6 +1821,7 @@ Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
 SkyPerfecTV (JP):Asia/Tokyo
+Slash:Europe/Paris
 Sleuth:US/Eastern
 Sleuth (TV):US/Eastern
 Slice:Canada/Eastern
