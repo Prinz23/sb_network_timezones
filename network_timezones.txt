@@ -598,6 +598,8 @@ DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 Discovery:US/Eastern
+Discovery (NL):Europe/Amsterdam
+Discovery (US):US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
 Discovery Channel (AU):Australia/Sydney
@@ -1405,6 +1407,7 @@ Nickelodeon (Latin America):America/Buenos_Aires
 Nickelodeon (NL):Europe/Amsterdam
 Niconico:Asia/Tokyo
 Nine Network:Australia/Sydney
+Nitro:Europe/Berlin
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
@@ -1596,6 +1599,7 @@ RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL XL:Europe/Amsterdam
 RTL2:Europe/Budapest
+RTLplus:Europe/Berlin
 RTM2 (MY):Asia/Kuala_Lumpur
 RTP Açores:Europe/Lisbon
 RTP Internacional:Europe/Lisbon
@@ -2226,6 +2230,7 @@ Ummah Channel (UK):Europe/London
 Unis TV:Canada/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
+Universal Kids:US/Eastern
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
 Univision:US/Eastern
@@ -2281,6 +2286,7 @@ Veronica:Europe/Amsterdam
 Versus:US/Eastern
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
+Viasat3:Europe/Budapest
 Viceland (CA):Canada/Eastern
 Viceland (UK):Europe/London
 Viceland (US):US/Eastern
@@ -2436,6 +2442,7 @@ diy network (CA):Canada/Eastern
 dk4:Europe/Copenhagen
 documentary (CA):Canada/Eastern
 documentary Channel:Canada/Eastern
+e.tv:Africa/Johannesburg
 eNCA Africa (UK):Europe/London
 eXPO CHANNEL (AU):Australia/Sydney
 element14:US/Eastern
