@@ -981,6 +981,7 @@ History (CA):Canada/Eastern
 History (UK):Europe/London
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
+Hoichoi:Asia/Kolkata
 Holiday & Cruise (UK):Europe/London
 Home Team Networks (US):US/Eastern
 Hope CHANNEL (US):US/Eastern
@@ -1057,6 +1058,7 @@ Jupiter Broadcasting :US/Eastern
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS:Asia/Seoul
+KBS Joy:Asia/Seoul
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
@@ -2192,6 +2194,7 @@ True Drama (UK):Europe/London
 True Entertainment (UK):Europe/London
 True Movies 1 (UK):Europe/London
 True Movies 2 (UK):Europe/London
+TrueID:Asia/Bangkok
 TrueVisions:Asia/Bangkok
 Turner South:US/Eastern
 Twitch:US/Eastern
@@ -2254,6 +2257,7 @@ Unknown (US):US/Eastern
 Ustream:US/Eastern
 V:Canada/Eastern
 V Channel (UK):Europe/London
+V LIVE:Asia/Seoul
 V télé:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
@@ -2351,6 +2355,7 @@ Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
+XtvN:Asia/Seoul
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
 YLE:Europe/Helsinki
@@ -2525,6 +2530,7 @@ nickelodeon (AU):Australia/Sydney
 nickelodeon (CA):Canada/Eastern
 nickelodeon (UK):Europe/London
 nova (CZ):Europe/Prague
+oksusu:Asia/Seoul
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
