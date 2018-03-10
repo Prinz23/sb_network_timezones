@@ -839,6 +839,7 @@ Fox 1 (Latin America):America/Buenos_Aires
 Fox 8 (NL):Europe/Amsterdam
 Fox Action (Brazil):America/Sao_Paulo
 Fox Action (Latin America):America/Buenos_Aires
+Fox Action Movies:Asia/Shanghai
 Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
 Fox Channel (BR):America/Sao_Paulo
@@ -2254,6 +2255,7 @@ Unknown (RU):Europe/Kaliningrad
 Unknown (SE):Europe/Stockholm
 Unknown (UK):Europe/London
 Unknown (US):US/Eastern
+Urdu 1:Asia/Karachi
 Ustream:US/Eastern
 V:Canada/Eastern
 V Channel (UK):Europe/London
