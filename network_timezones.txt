@@ -144,6 +144,7 @@ Adventist TV (US):US/Eastern
 Africa Channel (US):US/Eastern
 Afrotainment (US):US/Eastern
 Afrotainment Music (US):US/Eastern
+Aftenposten:Europe/Oslo
 Ahlebait TV (UK):Europe/London
 Ahlulbayt TV (UK):Europe/London
 Aizo TV:Asia/Taipei
@@ -429,6 +430,7 @@ Canal J:Europe/Paris
 Canal Off:America/Sao_Paulo
 Canal Once:America/Mexico_City
 Canal Q:Europe/Lisbon
+Canal Sony:America/Sao_Paulo
 Canal Sur:Europe/Madrid
 Canal Vie:Canada/Eastern
 Canal de las Estrellas:America/Mexico_City
@@ -1171,6 +1173,7 @@ Living Asia Channel (PH):Asia/Manila
 Living Faith TV (US):US/Eastern
 Local 4 (US):US/Eastern
 Logo:US/Eastern
+Longhorn Network:US/Eastern
 Loveworld TV (UK):Europe/London
 Luxury TV (UK):Europe/London
 Lâlegül TV:Europe/Istanbul
@@ -1207,6 +1210,7 @@ MILITARY HISTORY (US):US/Eastern
 MKTV (US):US/Eastern
 MLB EXTRA INNINGS (US):US/Eastern
 MLB NETWORK (US):US/Eastern
+MLB Network:US/Eastern
 MLS DIRECT KICK (US):US/Eastern
 MNN:US/Eastern
 MOJO (US):US/Eastern
@@ -1222,6 +1226,7 @@ MTV (AU):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (FR):Europe/Paris
+MTV (PL):Europe/Warsaw
 MTV (UK):Europe/London
 MTV (US):US/Eastern
 MTV Base:Europe/London
@@ -1238,6 +1243,7 @@ MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
 MTV LIVE (UK):Europe/London
 MTV Latin America:US/Eastern
+MTV Live:US/Eastern
 MTV MUSIC (AU):Australia/Sydney
 MTV MUSIC (UK):Europe/London
 MTV Mandarin:Asia/Taipei
@@ -1693,6 +1699,7 @@ SBS2 (AU):Australia/Sydney
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
 SEC ESPN NETWORK (US):US/Eastern
+SEC Network:US/Eastern
 SES (AU):Australia/Sydney
 SET MAX:Asia/Kolkata
 SET Max (UK):Europe/London
@@ -1855,6 +1862,7 @@ Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
 Southern Cross Ten (AU):Australia/Sydney
 Space:Canada/Eastern
+Space (Brasil):America/Sao_Paulo
 Space (Latin America):America/Buenos_Aires
 Speed:US/Eastern
 Spektrum:Europe/Budapest
@@ -1873,6 +1881,7 @@ Sportsnet 360 (CA):Canada/Eastern
 Sportsnet Ontario (CA):Canada/Eastern
 Sprout (US):US/Eastern
 Stan:Australia/Sydney
+Star Bharat:Asia/Kolkata
 Star Channel (GR):Europe/Athens
 Star Gold (UK):Europe/London
 Star Life Ok (UK):Europe/London
