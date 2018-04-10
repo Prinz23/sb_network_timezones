@@ -484,6 +484,7 @@ Chat Box (UK):Europe/London
 Chiba TV (JP):Asia/Tokyo
 Chilevisión:America/Santiago
 Chiller:US/Eastern
+Choice:Pacific/Auckland
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Broadcasting Network:US/Eastern
@@ -810,6 +811,7 @@ Family:Canada/Eastern
 Family (CA):Canada/Eastern
 Family CHRGD:Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
+Family Gekijo:Asia/Tokyo
 Family Gekijou (JP):Asia/Tokyo
 Fantastic TV:Asia/Hong_Kong
 Fashion TV:Europe/Paris
@@ -853,6 +855,7 @@ Fox Cinéma:America/Buenos_Aires
 Fox Classics:America/Buenos_Aires
 Fox Comedy:America/Buenos_Aires
 Fox Crime:Europe/Rome
+Fox España:Europe/Madrid
 Fox Family:US/Eastern
 Fox Family (Latin America):America/Buenos_Aires
 Fox Kids:US/Eastern
@@ -1186,6 +1189,7 @@ MAD World (AU):Australia/Sydney
 MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
 MATV:Europe/London
+MAX:Europe/Oslo
 MAX (NL):Europe/Amsterdam
 MBC:Asia/Seoul
 MBC 1:Asia/Dubai
@@ -1474,6 +1478,7 @@ PIX 11 (US):US/Eastern
 POP (UK):Europe/London
 PPTV:Asia/Bangkok
 PREMIERE MOVIES (AU):Australia/Sydney
+PRIMA TV:Europe/Bucharest
 PRO TV:Europe/Bucharest
 PRiME7 (AU):Australia/Sydney
 PTC Global (UK):Europe/London
@@ -1789,6 +1794,7 @@ Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
+Señal Colombia:America/Bogota
 Shalom TV (US):US/Eastern
 Shandong Television:Asia/Shanghai
 Sheffield Live! (UK):Europe/London
@@ -2064,6 +2070,7 @@ TV4 Science Fiction:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
 TV5 (CA):Canada/Eastern
 TV5 (FI):Europe/Helsinki
+TV5 (PH):Asia/Manila
 TV5 Monde:Europe/Paris
 TV5MONDE Europe (UK):Europe/London
 TV6:Europe/Stockholm
@@ -2135,6 +2142,7 @@ Telecinco:Europe/Madrid
 Telecinco 5 (ES):Europe/Madrid
 Teledoce:America/Montevideo
 Telefe:America/Buenos_Aires
+Telefuturo:America/Asuncion
 Telemundo:US/Eastern
 Telemundo (MX):America/Mexico_City
 Teletama:Europe/Madrid
@@ -2158,6 +2166,7 @@ That's Reading (UK):Europe/London
 That's Salisbury (UK):Europe/London
 That's Solent (UK):Europe/London
 That's Surrey (UK):Europe/London
+The 5 Network:Asia/Manila
 The Africa Channel:Europe/London
 The Africa Channel (UK):Europe/London
 The Africa Channel (US):US/Eastern
@@ -2299,6 +2308,7 @@ Venevision:America/Caracas
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
 Versus:US/Eastern
+Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viasat3:Europe/Budapest
@@ -2489,6 +2499,7 @@ heartland (US):US/Eastern
 heat (UK):Europe/London
 here!:US/Eastern
 home (UK):Europe/London
+hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
@@ -2557,6 +2568,7 @@ rocketjump.com (US):US/Eastern
 roosterteeth.com (US):US/Eastern
 rox.com (US):US/Eastern
 rté jr (IE):Europe/Dublin
+serieclub:Europe/Paris
 sho.com (US):US/Eastern
 sky 3D (UK):Europe/London
 sky ARTS 2 (UK):Europe/London
