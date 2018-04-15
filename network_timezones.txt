@@ -1432,6 +1432,7 @@ Nou Televisió:Europe/Madrid
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 Now TV:Asia/Hong_Kong
+Numéro 23:Europe/Paris
 OCN:Canada/Eastern
 OCS:Europe/Paris
 OLN:Canada/Eastern
