@@ -446,6 +446,7 @@ Canvas/Ketnet:Europe/Brussels
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Television:Europe/London
+Cartoon Hangover:US/Eastern
 Cartoon Network:US/Eastern
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network (UK):Europe/London
