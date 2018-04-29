@@ -827,6 +827,7 @@ Five:Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Fix & Foxi:Europe/Berlin
+Flooxer:Europe/Madrid
 FlopTV:Europe/Rome
 Flow TV (US):US/Eastern
 Food Network:US/Eastern
@@ -1534,6 +1535,7 @@ PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 Playhouse Disney France:Europe/Paris
+Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
