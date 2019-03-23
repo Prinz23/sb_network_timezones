@@ -518,6 +518,7 @@ Comcast/Charter Sports Southeast (US):US/Eastern
 Comedy (CA):Canada/Eastern
 Comedy Central:US/Eastern
 Comedy Central (DE):Europe/Berlin
+Comedy Central (FR):Europe/Paris
 Comedy Central (Latin America):US/Eastern
 Comedy Central (NL):Europe/Amsterdam
 Comedy Central (UK):Europe/London
@@ -640,6 +641,7 @@ Dish TV:US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (BR):America/Sao_Paulo
 Disney Channel (DE):Europe/Berlin
+Disney Channel (FR):Europe/Paris
 Disney Channel (Germany):Europe/Berlin
 Disney Channel (IT):Europe/Rome
 Disney Channel (Latin America):America/Buenos_Aires
@@ -653,6 +655,7 @@ Disney Junior (UK):Europe/London
 Disney XD:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
+DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
 Doordarshan National:Asia/Kolkata
@@ -1426,6 +1429,7 @@ Nickelodeon (NL):Europe/Amsterdam
 Niconico:Asia/Tokyo
 Nine Network:Australia/Sydney
 Nitro:Europe/Berlin
+NoA:US/Eastern
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
@@ -1507,6 +1511,7 @@ Pac-12 Oregon (US):US/Eastern
 Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
+Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paris Première:Europe/Paris
@@ -1590,6 +1595,7 @@ RIPE TV (US):US/Eastern
 RKK (NL):Europe/Amsterdam
 RLTV:US/Eastern
 RMC Découverte:Europe/Paris
+RMC Story:Europe/Paris
 ROCKS TV (US):US/Eastern
 ROGERS TV (CA):Canada/Eastern
 ROOT SPORTS NORTHWEST (US):US/Eastern
@@ -1844,6 +1850,7 @@ Sky News Ireland:Europe/Dublin
 Sky Sports:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
+Sky Witness:Europe/London
 Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
@@ -2321,6 +2328,7 @@ Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viasat3:Europe/Budapest
 Viceland (CA):Canada/Eastern
+Viceland (FR):Europe/Paris
 Viceland (UK):Europe/London
 Viceland (US):US/Eastern
 Victory Television Network (US):US/Eastern
@@ -2374,6 +2382,7 @@ Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
+Warner TV:US/Eastern
 Watch:Europe/London
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
