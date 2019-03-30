@@ -194,6 +194,7 @@ Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
+AppleTV+:US/Eastern
 Arabic Channel (US):US/Eastern
 Arena:Australia/Sydney
 Argos TV (UK):Europe/London
@@ -1822,6 +1823,7 @@ Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
 Showcase 2 (UK):Europe/London
 Showtime:US/Eastern
+Shudder:US/Eastern
 Sikh Channel (UK):Europe/London
 Sino TV (US):US/Eastern
 Sirasa:Asia/Colombo
@@ -1913,6 +1915,7 @@ Star World:Asia/Hong_Kong
 Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
+Starz:US/Eastern
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Steel:Europe/Rome
