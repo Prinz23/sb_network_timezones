@@ -874,6 +874,7 @@ Fox Life (IT):Europe/Rome
 Fox Life (Latin America):America/Buenos_Aires
 Fox Life (NL):Europe/Amsterdam
 Fox Movies:America/Buenos_Aires
+Fox News:US/Eastern
 Fox Reality:US/Eastern
 Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports (AU):Australia/Sydney
@@ -1867,6 +1868,7 @@ Smile of a Child TV (US):US/Eastern
 Smithsonian Channel:US/Eastern
 Smithsonian Channel (CA):Canada/Eastern
 Smooth (AU):Australia/Sydney
+Snapchat Originals:US/Eastern
 SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
