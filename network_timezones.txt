@@ -1985,6 +1985,7 @@ TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
 THRILLER MOVIES (AU):Australia/Sydney
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
+TIMvision:Europe/Rome
 TITV:Asia/Taipei
 TLC:US/Eastern
 TLC (AU):Australia/Sydney
