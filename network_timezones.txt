@@ -656,6 +656,7 @@ Disney Junior (UK):Europe/London
 Disney XD:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
+Disney+:US/Eastern
 DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
