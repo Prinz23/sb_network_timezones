@@ -1,1 +1,1 @@
-zoneinfo-2019a.tar.gz 951daab7d9b2b12f047dd3f43fc92b02
+zoneinfo-2019b.tar.gz 7549e5a220644e9c716f984ac952336e
