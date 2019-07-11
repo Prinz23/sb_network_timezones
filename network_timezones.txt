@@ -1583,6 +1583,7 @@ QVC Extra (UK):Europe/London
 QVC Style (UK):Europe/London
 Qatar TV:Asia/Qatar
 Quest:Europe/London
+Quibi:US/Eastern
 R&R:US/Eastern
 RAI:Europe/Rome
 RBB:Europe/Berlin
