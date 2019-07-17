@@ -1013,6 +1013,7 @@ Hulu:US/Eastern
 Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
+IB3:Europe/Madrid
 IBC (PH):Asia/Manila
 ICE TV:Indian/Maldives
 ICI Explora:Canada/Eastern
@@ -2207,6 +2208,7 @@ The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
 The Weather Channel:US/Eastern
+The Zeus Network:US/Pacific
 TheBlaze:US/Eastern
 This TV:US/Eastern
 Tien (NL):Europe/Amsterdam
