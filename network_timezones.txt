@@ -1411,7 +1411,7 @@ National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Neox:Europe/Madrid
-Netflix:US/Pacific
+Netflix:US/Eastern
 Netflix (UK):Europe/London
 Network Ten:Australia/Sydney
 New England Sports Network (US):US/Eastern
