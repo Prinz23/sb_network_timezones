@@ -1411,7 +1411,7 @@ National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Neox:Europe/Madrid
-Netflix:US/Pacific
+Netflix:US/Eastern
 Netflix (UK):Europe/London
 Network Ten:Australia/Sydney
 New England Sports Network (US):US/Eastern
@@ -2208,7 +2208,7 @@ The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
 The Weather Channel:US/Eastern
-The Zeus Network:US/Pacific
+The Zeus Network:US/Eastern
 TheBlaze:US/Eastern
 This TV:US/Eastern
 Tien (NL):Europe/Amsterdam
