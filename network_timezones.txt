@@ -2445,6 +2445,7 @@ Zee Gujarati:Asia/Kolkata
 Zee Muzic:Asia/Kolkata
 Zee Punjabi (UK):Europe/London
 Zee TV:Asia/Kolkata
+Zee5:US/Eastern
 Zeste:Canada/Eastern
 Zhejiang TV:Asia/Shanghai
 Zing (UK):Europe/London
