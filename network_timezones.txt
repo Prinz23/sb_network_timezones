@@ -1517,6 +1517,7 @@ Nagoya Broadcasting Network:Asia/Tokyo
 Nagoya Broadcasting Network (JP):Asia/Tokyo
 Nat Geo Wild:US/Eastern
 National Broadcasting Company:US/Eastern
+National Geographic:US/Eastern
 National Geographic (AU):Australia/Sydney
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
@@ -2572,6 +2573,7 @@ Volksmusik TV:Europe/Berlin
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 Vrak.TV:Canada/Eastern
+Vudu:US/Eastern
 W:Australia/Sydney
 W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
