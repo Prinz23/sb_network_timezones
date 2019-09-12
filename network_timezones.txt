@@ -276,6 +276,7 @@ BET (UK):Europe/London
 BET Gospel (US):US/Eastern
 BET HIP HOP (US):US/Eastern
 BET Plus:US/Eastern
+BET+:US/Eastern
 BHSN (US):US/Eastern
 BIOGRAPHY CHANNEL (CA):Canada/Eastern
 BKN (AU):Australia/Sydney
