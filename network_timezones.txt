@@ -200,6 +200,7 @@ Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
+Antena 1:Europe/Bucharest
 Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
@@ -369,6 +370,7 @@ CATHOLICTV (US):US/Eastern
 CBBC:Europe/London
 CBC:Canada/Eastern
 CBC (CA):Canada/Eastern
+CBC (EG):Africa/Cairo
 CBC (JP):Asia/Tokyo
 CBC News Network:Canada/Eastern
 CBC Newsworld:Canada/Eastern
