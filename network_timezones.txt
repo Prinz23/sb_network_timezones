@@ -351,6 +351,7 @@ Bravo (UK):Europe/London
 Bravo (US):US/Eastern
 Bravo!:Canada/Eastern
 Brit Asia TV (UK):Europe/London
+BritBox:Europe/London
 British Eurosport 2:Europe/London
 Bubble Hits:Europe/Dublin
 Business News Network (CA):Canada/Eastern
@@ -1214,6 +1215,7 @@ Kawish Television Network:Asia/Karachi
 Kenya Television Network:Asia/Karachi
 Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
+Ketnet:Europe/Brussels
 Ketnet (BE):Europe/Brussels
 KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
@@ -2695,6 +2697,7 @@ azteca america (US):US/Eastern
 bTV:Europe/Sofia
 bafta.org (UK):Europe/London
 beIN SPORT (US):US/Eastern
+beIN SPORTS:US/Eastern
 beats per minute television (CA):Canada/Eastern
 biTe (CA):Canada/Eastern
 bio. (AU):Australia/Sydney
