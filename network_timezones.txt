@@ -140,6 +140,7 @@ AZN Television (US):US/Eastern
 Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
+Abema TV:Asia/Tokyo
 Abu Dhabi TV:Asia/Dubai
 Abu Dhabi TV (UK):Europe/London
 Acasă (RO):Europe/Bucharest
@@ -161,6 +162,7 @@ Al Alam:Asia/Tehran
 Al Arabiyya:Asia/Dubai
 Al Badeel:Africa/Tripoli
 Al Hidaya Al Libiya:Africa/Tripoli
+Al Jadeed:Asia/Beirut
 Al Jamahiriya TV English:Africa/Tripoli
 Al Jazeera:Asia/Qatar
 Al Jazeera America:US/Eastern
@@ -335,6 +337,7 @@ Bloomberg Television:US/Eastern
 Bloomberg Television (UK):Europe/London
 BluTV:Europe/Istanbul
 Blue Ridge Communications (US):US/Eastern
+Blue Sky (Greece):Europe/Athens
 Bnn:Canada/Eastern
 Bon Appétit:US/Eastern
 Book TELEVISION (CA):Canada/Eastern
@@ -560,6 +563,7 @@ Clubland (UK):Europe/London
 Colorado's Own Channel 2 (US):US/Eastern
 Colors:Asia/Kolkata
 Colors (UK):Europe/London
+Colors TV:Asia/Kolkata
 Comcast Entertainment Television (US):US/Eastern
 Comcast Network:US/Eastern
 Comcast Television (US):US/Eastern
@@ -790,6 +794,7 @@ El Rey Network:US/Eastern
 El Trece:America/Buenos_Aires
 Eleven:Australia/Sydney
 Eleven (AU):Australia/Sydney
+Elisa Viihde:Europe/Helsinki
 Emmanuel TV (US):US/Eastern
 Encore:US/Eastern
 Encore Westerns East (US):US/Eastern
@@ -998,6 +1003,7 @@ GTS (AU):Australia/Sydney
 GTV:Asia/Taipei
 GTV (AU):Australia/Sydney
 GWN7 (AU):Australia/Sydney
+GYAO!:Asia/Tokyo
 Gaiam TV:US/Eastern
 Gaiam TV :US/Eastern
 Galavisión (US):US/Eastern
@@ -1266,6 +1272,7 @@ La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
 LeSEA broadcasting network (US):US/Eastern
+Lebanese Broadcasting Corporation International:Asia/Beirut
 Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Libya Al Ahrar TV:Africa/Tripoli
@@ -1283,6 +1290,7 @@ Lifetime:US/Eastern
 Lifetime (CA):Canada/Eastern
 Lifetime (UK):Europe/London
 Lifetime (US):US/Eastern
+Lifetime Korea:Asia/Seoul
 Lifetime UK:Europe/London
 Line TV:Asia/Taipei
 Liquidation Channel (US):US/Eastern
@@ -1311,7 +1319,11 @@ MAX:Europe/Oslo
 MAX (NL):Europe/Amsterdam
 MBC:Asia/Seoul
 MBC 1:Asia/Dubai
+MBC 2 (UAE):Asia/Dubai
+MBC 3 (UAE):Asia/Dubai
+MBC 4 (UAE):Asia/Dubai
 MBC Drama:Asia/Seoul
+MBC Drama (UAE):Asia/Dubai
 MBC Every 1:Asia/Seoul
 MBC Every1:Asia/Seoul
 MBC Plus Media:Asia/Seoul
@@ -1348,6 +1360,7 @@ MTV (AU):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (FR):Europe/Paris
+MTV (Lebanon):Asia/Beirut
 MTV (PL):Europe/Warsaw
 MTV (UK):Europe/London
 MTV (US):US/Eastern
@@ -1653,6 +1666,7 @@ Pakistan Television Corporation (PK):Asia/Karachi
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
+Paravi:Asia/Tokyo
 Paris Première:Europe/Paris
 Paris Première (FR):Europe/Paris
 Pastor Scott (US):US/Eastern
@@ -1709,6 +1723,8 @@ Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
 Public Broadcasting Service:US/Eastern
 Puls 4:Europe/Vienna
+Pureflix:US/Eastern
+Pursuit Channel:US/Eastern
 Q (PH):Asia/Manila
 Q TV:Europe/London
 Q Television Network (US):US/Eastern
@@ -1970,6 +1986,7 @@ Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
+Shahid (UAE):Asia/Dubai
 Shalom TV (US):US/Eastern
 Shandong Television:Asia/Shanghai
 Sheffield Live! (UK):Europe/London
@@ -2071,7 +2088,9 @@ Sprout (US):US/Eastern
 Stan:Australia/Sydney
 Star Bharat:Asia/Kolkata
 Star Channel (GR):Europe/Athens
+Star Channel (Greece):Europe/Athens
 Star Gold (UK):Europe/London
+Star Jalsha:Asia/Kolkata
 Star Life Ok (UK):Europe/London
 Star Media:Europe/Kaliningrad
 Star Plus (UK):Europe/London
@@ -2165,10 +2184,12 @@ TLC (UK):Europe/London
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
+TNN:US/Eastern
 TNQ (AU):Australia/Sydney
 TNT:US/Eastern
 TNT (US):US/Eastern
 TNT Brasil:America/Sao_Paulo
+TNT Comedy (Germany):Europe/Berlin
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
 TNU:America/Montevideo
@@ -2199,6 +2220,7 @@ TUFF TV (US):US/Eastern
 TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
 TV 2:Europe/Copenhagen
+TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Nyhetskanalen:Europe/Oslo
@@ -2286,6 +2308,7 @@ TV7 (SE):Europe/Stockholm
 TV8:Europe/Stockholm
 TV8 (IT):Europe/Rome
 TV8 (SE):Europe/Stockholm
+TV8 (TR):Europe/Istanbul
 TV9:Asia/Kolkata
 TVA:Canada/Eastern
 TVA (JP):Asia/Tokyo
@@ -2428,6 +2451,7 @@ Tokyo Metropolitan Television:Asia/Tokyo
 TomGreen.com:US/Eastern
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Total Variety Network:Asia/Seoul
 Tou.tv:Canada/Eastern
 Toute l'histoire:Europe/Paris
 Trace Sports (UK):Europe/London
@@ -2515,6 +2539,8 @@ Unknown (RU):Europe/Kaliningrad
 Unknown (SE):Europe/Stockholm
 Unknown (UK):Europe/London
 Unknown (US):US/Eastern
+Urban America Television:US/Eastern
+Urban Movie Channel:US/Eastern
 Urdu 1:Asia/Karachi
 Ustream:US/Eastern
 V:Canada/Eastern
@@ -2560,6 +2586,7 @@ Viceland (FR):Europe/Paris
 Viceland (UK):Europe/London
 Viceland (US):US/Eastern
 Victory Television Network (US):US/Eastern
+VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Vidol:Asia/Taipei
@@ -2927,6 +2954,7 @@ ztv:Europe/Stockholm
 ТНТ:Europe/Kaliningrad
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
+כאן:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
