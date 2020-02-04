@@ -1170,6 +1170,7 @@ Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
 Joiz (CH):Europe/Zurich
 Joiz (DE):Europe/Berlin
+Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting:US/Eastern
 Jupiter Broadcasting :US/Eastern
@@ -1813,6 +1814,7 @@ RTV Slovenija:Europe/Bratislava
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
 RTVS:Europe/Bratislava
+RTVSLO:Europe/Ljubljana
 RTÉ:Europe/Dublin
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
@@ -2335,6 +2337,7 @@ TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVNORGE:Europe/Oslo
+TVNOW (Germany):Europe/Berlin
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
@@ -2646,6 +2649,7 @@ Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
 Westdeutscher Rundfunk:Europe/Berlin
+Weverse (KR):Asia/Seoul
 Womens Entertainment Network:US/Eastern
 Word Network (UK):Europe/London
 Workpoint TV:Asia/Bangkok
