@@ -190,8 +190,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -1585,6 +1585,7 @@ Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
 Northern Television (CA):Canada/Eastern
+Northern Visions Television:Europe/Dublin
 Notts TV (UK):Europe/London
 Nou 24:Europe/Madrid
 Nou Televisió:Europe/Madrid
