@@ -1023,6 +1023,7 @@ Global:Canada/Eastern
 Global Television Network:Canada/Eastern
 Globo International (AU):Australia/Sydney
 GloboNews:America/Sao_Paulo
+Globoplay:America/Sao_Paulo
 Gloob:America/Sao_Paulo
 Glory TV (UK):Europe/London
 Go90:US/Eastern
@@ -2026,6 +2027,7 @@ Sky Box Office:Europe/London
 Sky Cinema:Europe/London
 Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
+Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
@@ -2195,6 +2197,7 @@ TNT Brasil:America/Sao_Paulo
 TNT Comedy (Germany):Europe/Berlin
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
+TNT Spain:Europe/Madrid
 TNU:America/Montevideo
 TPC (US):US/Eastern
 TPS Star (FR):Europe/Paris
