@@ -915,6 +915,7 @@ Flow TV (US):US/Eastern
 Food Network:US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
+Formula 1 TV (USA):US/Eastern
 Fox:Europe/Rome
 Fox (BZ):America/Belize
 Fox (CR):America/Costa_Rica
@@ -1642,6 +1643,7 @@ PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
 PPTV:Asia/Bangkok
+PREMIER (Russia):Europe/Kaliningrad
 PREMIERE MOVIES (AU):Australia/Sydney
 PRIMA TV:Europe/Bucharest
 PRO TV:Europe/Bucharest
