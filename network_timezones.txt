@@ -36,6 +36,7 @@
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
 6ter:Europe/Paris
+7 RM Spain:Europe/Madrid
 7NBC (US):US/Eastern
 7TWO (AU):Australia/Sydney
 7mate:Australia/Sydney
@@ -190,8 +191,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -1412,6 +1413,7 @@ MavTV:US/Eastern
 Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
+MeVue (USA):US/Eastern
 MediaCorp Channel 5:Asia/Singapore
 MediaCorp Channel 8:Asia/Singapore
 MediaCorp Channel U:Asia/Singapore
@@ -1817,6 +1819,7 @@ RTV Rijnmond (NL):Europe/Amsterdam
 RTV Slovenija:Europe/Bratislava
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
+RTVC Spain:Europe/Madrid
 RTVS:Europe/Bratislava
 RTVSLO:Europe/Ljubljana
 RTÉ:Europe/Dublin
@@ -2170,6 +2173,7 @@ TDT (AU):Australia/Sydney
 TEENick:US/Eastern
 TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
+TEN Spain:Europe/Madrid
 TEN Sports:Asia/Kolkata
 TENNIS CHANNEL (US):US/Eastern
 TET:Europe/Kiev
@@ -2822,6 +2826,7 @@ itv YORKSHIRE (UK):Europe/London
 itv play (UK):Europe/London
 itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
+ivi (Russia):Europe/Kaliningrad
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
 jts.tv (US):US/Eastern
