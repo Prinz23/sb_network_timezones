@@ -191,8 +191,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -1013,6 +1013,7 @@ Gamavision (MX):America/Mexico_City
 Game One:Europe/Paris
 Game Show Network:US/Eastern
 Game Show Network (US):US/Eastern
+GameTV Canada:Canada/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
 Gazeta:America/Sao_Paulo
@@ -1431,6 +1432,7 @@ Mondo TV:Europe/Rome
 MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
+MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
