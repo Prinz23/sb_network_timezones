@@ -191,8 +191,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -1083,6 +1083,7 @@ Hessischer Rundfunk:Europe/Berlin
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
+Hikari TV:Asia/Tokyo
 Histoire:Europe/Paris
 Historia:Europe/Madrid
 Historia (CA):Canada/Eastern
