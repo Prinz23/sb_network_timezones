@@ -191,8 +191,9 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
+And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -591,6 +592,7 @@ Cooking Channel:US/Eastern
 Coptic TV (US):US/Eastern
 Cornerstone Television (US):US/Eastern
 Cosmopolitan TV:America/Buenos_Aires
+Cottage Life:Canada/Eastern
 Cottage Life (CA):Canada/Eastern
 Coture:Asia/Taipei
 Country Music Television (US):US/Eastern
@@ -1664,6 +1666,7 @@ PTV Global:US/Eastern
 PTV Home:Asia/Karachi
 PTV News:Asia/Karachi
 PUNCH TV NETWORK (US):US/Eastern
+PVC (UK):Europe/London
 Pac-12 Arizona (US):US/Eastern
 Pac-12 Bay Area (US):US/Eastern
 Pac-12 Los Angeles (US):US/Eastern
@@ -2005,6 +2008,7 @@ Sheffield Live! (UK):Europe/London
 Shenzhen TV:Asia/Shanghai
 Shepherd's Chapel Network (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
+Shout! Factory (USA):US/Eastern
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
 Showcase:Canada/Eastern
@@ -2374,6 +2378,7 @@ TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
 TXCN (US):US/Eastern
+TXN (Japan):Asia/Tokyo
 TYT Network:US/Eastern
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
