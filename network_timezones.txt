@@ -25,6 +25,7 @@
 3e (IE):Europe/Dublin
 3net (US):US/Eastern
 3sat:Europe/Berlin
+4+:Europe/Zurich
 44 Adelaide (AU):Australia/Sydney
 47 (UK):Europe/London
 4Music (UK):Europe/London
@@ -32,9 +33,11 @@
 4SD (US):US/Eastern
 5 abc (US):US/Eastern
 5* (UK):Europe/London
+5+:Europe/Zurich
 5Star:Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
+6+:Europe/Zurich
 6ter:Europe/Paris
 7 RM Spain:Europe/Madrid
 7NBC (US):US/Eastern
@@ -191,8 +194,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -1281,6 +1284,7 @@ LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
 LeSEA broadcasting network (US):US/Eastern
 Lebanese Broadcasting Corporation International:Asia/Beirut
+LewSpears (Australia):Australia/Sydney
 Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Libya Al Ahrar TV:Africa/Tripoli
@@ -1727,6 +1731,7 @@ Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
+Prime Box Brazil:America/Sao_Paulo
 Primetime (UK):Europe/London
 Pro TV:Europe/Bucharest
 ProSieben:Europe/Berlin
@@ -1887,6 +1892,7 @@ Russia Today:Europe/Kaliningrad
 RÚV:Iceland
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 Rúv:Iceland
+S1TV:Europe/Zurich
 S4/C:Europe/London
 S4C2:Europe/London
 SAB tv (UK):Europe/London
@@ -2296,6 +2302,8 @@ TV2 Denmark:Europe/Copenhagen
 TV2 Norge:Europe/Oslo
 TV2 Norway:Europe/Oslo
 TV2 Zulu:Europe/Copenhagen
+TV24 (CH):Europe/Zurich
+TV25 (CH):Europe/Zurich
 TV3:Europe/Stockholm
 TV3 (ES):Europe/Madrid
 TV3 (IE):Europe/Dublin
