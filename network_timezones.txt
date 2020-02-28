@@ -2122,6 +2122,7 @@ Star World:Asia/Hong_Kong
 Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
+Start Russia:Europe/Kaliningrad
 Starz:US/Eastern
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
