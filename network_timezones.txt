@@ -122,6 +122,7 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
+ATRESplayer Premium:Europe/Madrid
 ATV:Europe/Vienna
 ATV (AT):Europe/Vienna
 ATV (AU):Australia/Sydney
@@ -194,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -1575,6 +1576,7 @@ NewsChannel 8 (US):US/Eastern
 NewsOn6NOW (US):US/Eastern
 NewsWatch 15 (US):US/Eastern
 Nick (DE):Europe/Berlin
+Nick App:US/Eastern
 Nick GAS:US/Eastern
 Nick Jr.:US/Eastern
 Nick at Nite:US/Eastern
@@ -1664,6 +1666,7 @@ PTC Prime (UK):Europe/London
 PTC Punjabi (UK):Europe/London
 PTS:Asia/Taipei
 PTS HD:Asia/Taipei
+PTS Taigi:Asia/Taipei
 PTV (AU):Australia/Sydney
 PTV Bolan:Asia/Karachi
 PTV Global:US/Eastern
@@ -2806,6 +2809,7 @@ france.3:Europe/Paris
 france.4:Europe/Paris
 france.5:Europe/Paris
 france.Ô:Europe/Paris
+fridayVideo:Asia/Taipei
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
 fyi (CA):Canada/Eastern
@@ -2864,6 +2868,7 @@ mtvU (US):US/Eastern
 mun2 (US):US/Eastern
 my38 (US):US/Eastern
 my9 (US):US/Eastern
+myVideo:Asia/Taipei
 mynetworkTV (US):US/Eastern
 myspace.com (US):US/Eastern
 mystery TV (CA):Canada/Eastern
@@ -2978,6 +2983,7 @@ ztv:Europe/Stockholm
 Радио-телевизија Србије (PTC):Europe/Belgrade
 Россия 1:Europe/Kaliningrad
 Россия К:Europe/Kaliningrad
+СТБ:Europe/Kiev
 СТС:Europe/Kaliningrad
 ТВ Центр:Europe/Kaliningrad
 ТВ3:Europe/Kaliningrad
