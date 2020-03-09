@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -2610,6 +2610,7 @@ Venevision:America/Caracas
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
 Versus:US/Eastern
+Veteran Television:US/Eastern
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
