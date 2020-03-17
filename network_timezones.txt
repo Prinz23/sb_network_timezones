@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -1403,6 +1403,7 @@ MTV2 (CA):Canada/Eastern
 MTV3:Europe/Helsinki
 MUNDOFOX (US):US/Eastern
 MUTV:Europe/London
+MX:Asia/Kolkata
 MYXTV (US):US/Eastern
 Madani Channel (UK):Europe/London
 Made in Bristol (UK):Europe/London
