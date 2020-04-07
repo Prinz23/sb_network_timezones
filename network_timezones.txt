@@ -1251,6 +1251,7 @@ Kyushu Asahi Broadcasting:Asia/Tokyo
 Kyushu Asahi Broadcasting (KBC):Asia/Tokyo
 L Équipe 21:Europe/Paris
 L!VETV (UK):Europe/London
+L'Équipe 21:Europe/Paris
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
 LCI:Europe/Paris
@@ -2077,6 +2078,7 @@ Smithsonian Channel (CA):Canada/Eastern
 Smooth (AU):Australia/Sydney
 Snapchat Originals:US/Eastern
 SoHo:Australia/Sydney
+Sohu TV:Asia/Shanghai
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
@@ -2810,6 +2812,7 @@ france.2:Europe/Paris
 france.3:Europe/Paris
 france.4:Europe/Paris
 france.5:Europe/Paris
+france.tv:Europe/Paris
 france.Ô:Europe/Paris
 fridayVideo:Asia/Taipei
 funnyordie.com (US):US/Eastern
