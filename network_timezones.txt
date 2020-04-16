@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -1562,6 +1562,8 @@ National Geographic Nederland-België:Europe/Amsterdam
 National Geographiс:US/Eastern
 National Jewish Television (US):US/Eastern
 Nederland 3:Europe/Amsterdam
+Nederlandse Publieke Omroep 1:Europe/Amsterdam
+Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Neox:Europe/Madrid
