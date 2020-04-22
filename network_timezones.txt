@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -1012,6 +1012,7 @@ GTV:Asia/Taipei
 GTV (AU):Australia/Sydney
 GWN7 (AU):Australia/Sydney
 GYAO!:Asia/Tokyo
+Gaia:US/Eastern
 Gaiam TV:US/Eastern
 Gaiam TV :US/Eastern
 Galavisión (US):US/Eastern
@@ -2316,6 +2317,7 @@ TV25 (CH):Europe/Zurich
 TV3:Europe/Stockholm
 TV3 (ES):Europe/Madrid
 TV3 (IE):Europe/Dublin
+TV3 (MY):Asia/Kuala_Lumpur
 TV3 (NO):Europe/Oslo
 TV3 (NZ):Pacific/Auckland
 TV3 (SE):Europe/Stockholm
