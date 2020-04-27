@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Lima
 América TV:America/Buenos_Aires
+América TV:America/Lima
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -739,6 +739,7 @@ Draemong:Asia/Seoul
 Dragon TV:Asia/Shanghai
 DramaH:Asia/Seoul
 DramaX:Asia/Seoul
+DrinkTV:US/Eastern
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
 E!:US/Eastern
