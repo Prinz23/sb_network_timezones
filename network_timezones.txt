@@ -195,8 +195,8 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
-América TV:America/Buenos_Aires
 América TV:America/Lima
+América TV:America/Buenos_Aires
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
@@ -2493,6 +2493,7 @@ TomGreen.com:US/Eastern
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
 Total Variety Network:Asia/Seoul
+Total Variety Network (tvN):Asia/Seoul
 Tou.tv:Canada/Eastern
 Toute l'histoire:Europe/Paris
 Trace Sports (UK):Europe/London
