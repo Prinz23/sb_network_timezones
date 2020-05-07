@@ -1128,6 +1128,7 @@ ICTV (AU):Australia/Sydney
 IFC:US/Eastern
 IFC (CA):Canada/Eastern
 IKON:Europe/Amsterdam
+IMDb TV:US/Eastern
 INSP:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
