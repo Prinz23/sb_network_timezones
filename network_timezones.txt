@@ -2908,6 +2908,7 @@ pursuit CHANNEL (US):US/Eastern
 qubo (US):US/Eastern
 radX:Canada/Eastern
 retro tv (US):US/Eastern
+revry:US/Eastern
 rmusic TV:Europe/London
 rocketjump.com (US):US/Eastern
 roosterteeth.com (US):US/Eastern
