@@ -1727,6 +1727,7 @@ Playhouse Disney:US/Eastern
 Playhouse Disney France:Europe/Paris
 Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
+Podcast (All Platforms):US/Eastern
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Pop:US/Eastern
