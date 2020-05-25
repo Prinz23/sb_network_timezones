@@ -3,6 +3,7 @@
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
 13TH STREET (AU):Australia/Sydney
+13th Street:Europe/Berlin
 13th Street (NL):Europe/Amsterdam
 13th Street Germany:Europe/Berlin
 13ème rue:Europe/Paris
@@ -2377,6 +2378,7 @@ TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVNORGE:Europe/Oslo
+TVNOW:Europe/Berlin
 TVNOW (Germany):Europe/Berlin
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
@@ -2397,6 +2399,7 @@ TVSN (AU):Australia/Sydney
 TVT (AU):Australia/Sydney
 TVU music television (US):US/Eastern
 TVW (AU):Australia/Sydney
+TVn:America/Santiago
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
