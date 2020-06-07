@@ -2609,6 +2609,7 @@ VIVA (DE):Europe/Berlin
 VIVA (PL):Europe/Warsaw
 VIVA (UK):Europe/London
 VK3RTV (AU):Australia/Sydney
+VLIVE:Asia/Seoul
 VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
