@@ -62,7 +62,9 @@ ABC (JA):Asia/Tokyo
 ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
+ABC Comedy:Australia/Sydney
 ABC Family:US/Eastern
+ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC iview:Australia/Sydney
 ABC1:Australia/Sydney
@@ -196,6 +198,7 @@ Amazon Prime Instant Video (UK):Europe/London
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
+Amman TV:Asia/Amman
 América TV:America/Buenos_Aires
 América TV:America/Lima
 And TV:Asia/Kolkata
@@ -228,6 +231,7 @@ Arte1:America/Sao_Paulo
 Asahi Broadcasting Corporation:Asia/Tokyo
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
+Audience:US/Eastern
 Audience Network:US/Eastern
 Australian Broadcasting Corporation:Australia/Sydney
 Australian Christian Channel:Australia/Sydney
@@ -605,6 +609,7 @@ Country Music Television (US):US/Eastern
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
+Crave:Canada/Eastern
 CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
@@ -1160,6 +1165,7 @@ Information TV (UK):Europe/London
 Inmigrante TV (US):US/Eastern
 Inspiration (UK):Europe/London
 Inspiration Network International (US):US/Eastern
+Instagram / IGTV:US/Eastern
 Internet:UTC
 Investigation:Canada/Eastern
 Investigation Discovery:US/Eastern
@@ -1832,6 +1838,7 @@ RTP África:Europe/Lisbon
 RTP1:Europe/Lisbon
 RTP2:Europe/Lisbon
 RTP2 (PT):Europe/Lisbon
+RTP3:Europe/Lisbon
 RTQ (AU):Australia/Sydney
 RTS (AU):Australia/Sydney
 RTS Un:Europe/Zurich
@@ -1899,6 +1906,7 @@ Rocks & Co. (UK):Europe/London
 Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Rooster Teeth Productions:US/Eastern
+Roya TV:Asia/Amman
 Royal News:Asia/Karachi
 Rundfunk Berlin-Brandenburg:Europe/Berlin
 Russia Today:Europe/Kaliningrad
@@ -2004,6 +2012,7 @@ Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
+Sama TV:Asia/Damascus
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
 Sat 1:Europe/Berlin
