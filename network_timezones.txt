@@ -1368,6 +1368,7 @@ Lifetime UK:Europe/London
 Line TV:Asia/Taipei
 Liquidation Channel (US):US/Eastern
 Live Well NETWORK (US):US/Eastern
+Live Well Network:US/Eastern
 Living:Europe/London
 Living Asia Channel (PH):Asia/Manila
 Living Faith TV (US):US/Eastern
