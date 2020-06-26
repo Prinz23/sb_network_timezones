@@ -358,6 +358,7 @@ Bid Plus (UK):Europe/London
 Big Ten Network (BTN):US/Eastern
 Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
+Bio:US/Eastern
 Biography Channel:US/Eastern
 Blackpills:US/Eastern
 Blaze:Europe/London
@@ -813,6 +814,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
+ESPN+:US/Eastern
 ESPN2:Australia/Sydney
 ESPN2 (AU):Australia/Sydney
 ESPNEWS (US):US/Eastern
@@ -858,6 +860,7 @@ European Broadcasting Union (EBU):Europe/Zurich
 Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
+Express Entertainment:Asia/Karachi
 Extreme Sports Channel (UK):Europe/London
 FEARNet:US/Eastern
 FEARnet:US/Eastern
@@ -1021,6 +1024,7 @@ France Inter:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 Freeform:US/Eastern
+Frissons TV:Canada/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
@@ -1840,6 +1844,7 @@ QVC Beauty (UK):Europe/London
 QVC Extra (UK):Europe/London
 QVC Style (UK):Europe/London
 Qatar TV:Asia/Qatar
+Queens Public Television:US/Eastern
 Quest:Europe/London
 Quibi:US/Eastern
 R&R:US/Eastern
@@ -2190,6 +2195,7 @@ Spectrum:US/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
+Spike:US/Eastern
 Spike (NL):Europe/Amsterdam
 Spike TV:US/Eastern
 Spirit (US):US/Eastern
@@ -2370,6 +2376,7 @@ TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
+TV Joj:Europe/Bratislava
 TV Kanagawa:Asia/Tokyo
 TV Kanagawa (JP):Asia/Tokyo
 TV Land:US/Eastern
@@ -2561,11 +2568,13 @@ The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Discovery Channel Canada:Canada/Eastern
 The Family Channel:US/Eastern
+The Great Courses:US/Eastern
 The History Channel:US/Eastern
 The History Channel International:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
 The Music Factory:Europe/Amsterdam
+The National Network:US/Eastern
 The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
