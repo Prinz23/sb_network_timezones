@@ -434,9 +434,11 @@ CCTV:Asia/Shanghai
 CCTV News (UK):Europe/London
 CCTV-4 (US):US/Eastern
 CDA:America/Buenos_Aires
+CFPL-TV:Canada/Eastern
 CGN TV (US):US/Eastern
 CGV:Asia/Seoul
 CHCH (CA):Canada/Eastern
+CHCH-TV:Canada/Eastern
 CHELSEA TV (UK):Europe/London
 CHOCO TV:Asia/Taipei
 CI:Australia/Sydney
