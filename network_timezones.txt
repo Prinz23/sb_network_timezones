@@ -1005,6 +1005,7 @@ Fox Life (IT):Europe/Rome
 Fox Life (Latin America):America/Buenos_Aires
 Fox Life (NL):Europe/Amsterdam
 Fox Movies:America/Buenos_Aires
+Fox Nation:US/Eastern
 Fox News:US/Eastern
 Fox Reality:US/Eastern
 Fox Showcase:Australia/Sydney
@@ -2089,6 +2090,7 @@ Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
+Sama Dubai TV:Asia/Dubai
 Sama TV:Asia/Damascus
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
@@ -2525,6 +2527,7 @@ Telecinco 5 (ES):Europe/Madrid
 Teledoce:America/Montevideo
 Telefe:America/Buenos_Aires
 Telefuturo:America/Asuncion
+Telelatino:Canada/Eastern
 Telemundo:US/Eastern
 Telemundo (MX):America/Mexico_City
 Teletama:Europe/Madrid
