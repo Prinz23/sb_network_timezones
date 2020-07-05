@@ -832,6 +832,7 @@ ETV Gujarati:Asia/Kolkata
 EUROCHANNEL (US):US/Eastern
 EUROSPORT (AU):Australia/Sydney
 EWTN TV (UK):Europe/London
+Earwolf Podcast Network:US/Eastern
 EbonyLife TV:Africa/Lagos
 Echorouk TV:Africa/Algiers
 Eden:Europe/London
