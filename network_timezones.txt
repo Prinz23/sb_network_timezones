@@ -1724,6 +1724,7 @@ Open Heaven TV (UK):Europe/London
 Open TV:Europe/Athens
 Oprah Winfrey Network:US/Eastern
 Ora TV:US/Eastern
+Orange TV España:Europe/Madrid
 Orbit Network (PK):Asia/Karachi
 Orbit Showtime Network:Asia/Dubai
 Ouatch:Europe/Paris
