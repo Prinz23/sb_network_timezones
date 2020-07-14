@@ -43,6 +43,7 @@
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
 6+:Europe/Zurich
+6play:Europe/Paris
 6ter:Europe/Paris
 7 RM Spain:Europe/Madrid
 7NBC (US):US/Eastern
@@ -263,6 +264,7 @@ BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
 BBC Choice:Europe/London
 BBC FOUR:Europe/London
+BBC First:Australia/Sydney
 BBC Five:Europe/London
 BBC Four:Europe/London
 BBC HD:Europe/London
@@ -534,6 +536,7 @@ Cartoon Network:US/Eastern
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network (UK):Europe/London
 Cartoon Network Australia:Australia/Sydney
+Cartoon Network Brasil:America/Sao_Paulo
 Cartoonito:Europe/London
 Casa:Canada/Eastern
 Caution Zero:US/Eastern
@@ -848,6 +851,7 @@ El Trece:America/Buenos_Aires
 Eleven:Australia/Sydney
 Eleven (AU):Australia/Sydney
 Elisa Viihde:Europe/Helsinki
+Elle Girl:Europe/Paris
 Emmanuel TV (US):US/Eastern
 Encore:US/Eastern
 Encore Westerns East (US):US/Eastern
@@ -1051,6 +1055,7 @@ GLV (AU):Australia/Sydney
 GMA:Asia/Manila
 GMA Network:Asia/Manila
 GMM One:Asia/Bangkok
+GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
 GO! (AU):Australia/Sydney
@@ -1538,6 +1543,7 @@ My Channel (UK):Europe/London
 My family tv (US):US/Eastern
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
+MyTF1:Europe/Paris
 Mya:Europe/Rome
 Māori Television:Pacific/Auckland
 NASA TELEVISION (US):US/Eastern
@@ -1637,6 +1643,7 @@ National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographiс:US/Eastern
 National Jewish Television (US):US/Eastern
+National Media Authority:Africa/Cairo
 Nederland 3:Europe/Amsterdam
 Nederlandse Publieke Omroep 1:Europe/Amsterdam
 Nederlandse Publieke Omroep 3:Europe/Amsterdam
