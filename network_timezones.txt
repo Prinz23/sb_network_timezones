@@ -2165,6 +2165,7 @@ Sky News:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky One (DE):Europe/Berlin
 Sky Sports:Europe/London
+Sky Sports F1:Europe/London
 Sky Three:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
@@ -2237,6 +2238,7 @@ Star World:Asia/Hong_Kong
 Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
+Stargate Command:US/Eastern
 Start Russia:Europe/Kaliningrad
 Starz:US/Eastern
 Starz TV (UK):Europe/London
