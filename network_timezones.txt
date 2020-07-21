@@ -1490,6 +1490,7 @@ Made in Cardiff (UK):Europe/London
 Made in Leeds (UK):Europe/London
 Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
+MagentaTV:Europe/Berlin
 Magic:Europe/London
 Magyar Televizió:Europe/Budapest
 Magyar Televízió:Europe/Budapest
