@@ -190,6 +190,7 @@ Al Karma TV (US):US/Eastern
 Al Libiya:Africa/Tripoli
 Al Mayadeen:Asia/Beirut
 Al Mounawaa:Africa/Tripoli
+Al Nahar:Africa/Cairo
 Al Shababiyah:Africa/Tripoli
 Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
