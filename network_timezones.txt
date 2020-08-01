@@ -1805,6 +1805,7 @@ Pets.tv (US):US/Eastern
 Phoenix:Europe/Berlin
 Phoenix TV:Asia/Shanghai
 Phoenix XNE (UK):Europe/London
+Piccoma TV - ピッコマTV:Asia/Tokyo
 Pick TV:Europe/London
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
