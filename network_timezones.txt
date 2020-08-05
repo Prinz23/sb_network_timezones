@@ -1472,6 +1472,7 @@ MTV Dance:Europe/London
 MTV España:Europe/Madrid
 MTV HITS (UK):Europe/London
 MTV Hits:US/Eastern
+MTV India:Asia/Kolkata
 MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
 MTV LIVE (UK):Europe/London
@@ -1498,6 +1499,7 @@ Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
 MagentaTV:Europe/Berlin
 Magic:Europe/London
+Magnolia Network:US/Eastern
 Magyar Televizió:Europe/Budapest
 Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
