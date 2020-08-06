@@ -720,6 +720,7 @@ DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
+Direct-to-video:US/Eastern
 Discovery:US/Eastern
 Discovery (NL):Europe/Amsterdam
 Discovery (US):US/Eastern
@@ -1641,6 +1642,7 @@ NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Nagoya Broadcasting Network:Asia/Tokyo
 Nagoya Broadcasting Network (JP):Asia/Tokyo
+Nat Geo Kids (BR):America/Sao_Paulo
 Nat Geo Wild:US/Eastern
 National Broadcasting Company:US/Eastern
 National Geographic:US/Eastern
