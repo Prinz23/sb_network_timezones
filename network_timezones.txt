@@ -1708,6 +1708,7 @@ Nou Televisió:Europe/Madrid
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 Now TV:Asia/Hong_Kong
+Nuevo Siglo TV:America/Montevideo
 Numéro 23:Europe/Paris
 OBS Gyeongin TV:Asia/Seoul
 OCN:Canada/Eastern
