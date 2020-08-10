@@ -472,6 +472,7 @@ COMCAST Sports Net Chicago (US):US/Eastern
 COMCAST Sports Net New England (US):US/Eastern
 COMEDY CENTRAL (UK):Europe/London
 COMEDY CENTRAL EXTRA (UK):Europe/London
+CONtv:US/Eastern
 COOLTV (US):US/Eastern
 CORK COMMUNITY TV (IE):Europe/Dublin
 COSMOPOLITANTV (CA):Canada/Eastern
