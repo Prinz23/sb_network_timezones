@@ -330,6 +330,7 @@ BR-alpha:Europe/Berlin
 BRT:Europe/Istanbul
 BRT2:Europe/Istanbul
 BRTN:Europe/Istanbul
+BRTN TV2:Europe/Brussels
 BS Fuji:Asia/Tokyo
 BS Fuji (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
@@ -1610,6 +1611,7 @@ NHK Animax:Asia/Tokyo
 NHK World (UK):Europe/London
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
+NHL Network:US/Eastern
 NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
 NOGGIN:US/Eastern
@@ -2177,6 +2179,7 @@ Sky Deutschland:Europe/Berlin
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
 Sky Movies:Europe/London
+Sky Nature:Europe/London
 Sky News:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky One (DE):Europe/Berlin
@@ -2833,6 +2836,7 @@ Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
 Watch:Europe/London
+Wavve:Asia/Seoul
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
