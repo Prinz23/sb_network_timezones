@@ -3163,6 +3163,7 @@ ztv:Europe/Stockholm
 טלעד:Asia/Jerusalem
 כאן:Asia/Jerusalem
 כאן (Kan):Asia/Jerusalem
+כאן 11:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
