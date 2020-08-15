@@ -742,6 +742,7 @@ Discovery Channel (UK):Europe/London
 Discovery Channel Canada:Canada/Eastern
 Discovery Family:US/Eastern
 Discovery Family (US):US/Eastern
+Discovery GO:US/Eastern
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
 Discovery Health:Europe/London
@@ -2703,6 +2704,7 @@ UTV (UK):Europe/London
 Ulster Television:Europe/Dublin
 Ummah Channel (UK):Europe/London
 Unis TV:Canada/Eastern
+United Nations Television:US/Eastern
 United Paramount Network:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
@@ -2737,6 +2739,7 @@ V LIVE:Asia/Seoul
 V télé:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
+VENN:US/Eastern
 VH1:US/Eastern
 VH1 (UK):Europe/London
 VH1 Brasil:America/Sao_Paulo
