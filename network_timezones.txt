@@ -2731,6 +2731,7 @@ Unknown (UK):Europe/London
 Unknown (US):US/Eastern
 Urban America Television:US/Eastern
 Urban Movie Channel:US/Eastern
+Urbanflix:US/Eastern
 Urdu 1:Asia/Karachi
 Ustream:US/Eastern
 V:Canada/Eastern
