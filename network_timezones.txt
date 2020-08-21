@@ -855,6 +855,7 @@ EinsExtra (DE):Europe/Berlin
 EinsPlus:Europe/Berlin
 Einsfestival:Europe/Berlin
 El Djazairia One:Africa/Algiers
+El Garage TV:America/Buenos_Aires
 El Khabar Broadcasting Company (KBC):Africa/Algiers
 El Rey:US/Eastern
 El Rey Network:US/Eastern
