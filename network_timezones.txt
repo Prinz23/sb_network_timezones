@@ -1159,6 +1159,7 @@ Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
+Heartland:US/Eastern
 Hessischer Rundfunk:Europe/Berlin
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
@@ -1522,6 +1523,7 @@ MeVue (USA):US/Eastern
 MediaCorp Channel 5:Asia/Singapore
 MediaCorp Channel 8:Asia/Singapore
 MediaCorp Channel U:Asia/Singapore
+Mediaset:Europe/Rome
 Mega:America/Santiago
 Mega Channel:Europe/Athens
 Mexicanal (US):US/Eastern
