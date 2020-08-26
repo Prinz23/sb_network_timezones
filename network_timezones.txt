@@ -986,6 +986,7 @@ Flow TV (US):US/Eastern
 Food Network:US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
+Formula 1 TV:US/Eastern
 Formula 1 TV (USA):US/Eastern
 Fox:Europe/Rome
 Fox (BZ):America/Belize
@@ -1299,6 +1300,7 @@ KYW-TV (US):US/Eastern
 Kabel 1:Europe/Berlin
 Kabel eins:Europe/Berlin
 Kabel1 (DE):Europe/Berlin
+KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
