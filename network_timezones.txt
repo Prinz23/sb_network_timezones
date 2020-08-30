@@ -223,6 +223,7 @@ Animal Planet (AU):Australia/Sydney
 Animax:Asia/Tokyo
 Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
+Anime Hodai:Asia/Tokyo
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
 Antena 1:Europe/Bucharest
@@ -1271,6 +1272,7 @@ Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting:US/Eastern
 Jupiter Broadcasting :US/Eastern
+K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS:Asia/Seoul
