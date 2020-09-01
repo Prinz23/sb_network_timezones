@@ -2140,6 +2140,7 @@ Scuzz:Europe/London
 Seeso:US/Eastern
 Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
+SescTV:America/Sao_Paulo
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
