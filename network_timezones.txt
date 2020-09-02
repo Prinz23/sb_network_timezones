@@ -1703,6 +1703,7 @@ Nine (Australia):Australia/Sydney
 Nine Network:Australia/Sydney
 Nine network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
+Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Nitro:Europe/Berlin
 NoA:US/Eastern
