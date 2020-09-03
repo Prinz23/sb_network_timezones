@@ -2405,6 +2405,7 @@ TV 2 Sport:Europe/Oslo
 TV 2 ZULU:Europe/Copenhagen
 TV 2 Zebra:Europe/Oslo
 TV 2 Zulu:Europe/Copenhagen
+TV 2/Nord:Europe/Copenhagen
 TV 3:Europe/Copenhagen
 TV 4:Europe/Warsaw
 TV Aichi:Asia/Tokyo
