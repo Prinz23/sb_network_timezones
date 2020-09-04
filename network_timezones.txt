@@ -1027,6 +1027,8 @@ Fox Life (NL):Europe/Amsterdam
 Fox Movies:America/Buenos_Aires
 Fox Nation:US/Eastern
 Fox News:US/Eastern
+Fox Premium 1 (Brazil):America/Sao_Paulo
+Fox Premium 2 (Brazil):America/Sao_Paulo
 Fox Reality:US/Eastern
 Fox Showcase:Australia/Sydney
 Fox Soccer Channel (CA):Canada/Eastern
@@ -2402,6 +2404,7 @@ TV 2 Fri:Europe/Copenhagen
 TV 2 Nyhetskanalen:Europe/Oslo
 TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
+TV 2 Sumo:Europe/Oslo
 TV 2 ZULU:Europe/Copenhagen
 TV 2 Zebra:Europe/Oslo
 TV 2 Zulu:Europe/Copenhagen
