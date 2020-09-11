@@ -251,6 +251,7 @@ Astro Prima:Asia/Kuala_Lumpur
 Astro Ria:Asia/Kuala_Lumpur
 Astro Warna:Asia/Kuala_Lumpur
 At the Races (UK):Europe/London
+AtomFilms:US/Eastern
 Audience:US/Eastern
 Audience Network:US/Eastern
 Australian Broadcasting Corporation:Australia/Sydney
@@ -1593,6 +1594,7 @@ NCRV:Europe/Amsterdam
 NDR:Europe/Berlin
 NDTV 24x7:Asia/Kolkata
 NDTV 24x7 (UK):Europe/London
+NDTV Good Times:Asia/Kolkata
 NDTV India:Asia/Kolkata
 NECN (US):US/Eastern
 NECO:Asia/Tokyo
@@ -2356,6 +2358,7 @@ TITV:Asia/Taipei
 TLC:US/Eastern
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
+TLC India:Asia/Kolkata
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
@@ -2542,6 +2545,7 @@ TVRI:Asia/Jakarta
 TVS:Australia/Sydney
 TVS China:Asia/Shanghai
 TVS Sydney:Australia/Sydney
+TVSA:Europe/Sarajevo
 TVSN (AU):Australia/Sydney
 TVT (AU):Australia/Sydney
 TVU music television (US):US/Eastern
@@ -2640,6 +2644,7 @@ Time Warner Cable News Central New York (US):US/Eastern
 Time Warner Cable News North Carolina (US):US/Eastern
 Time Warner Cable News Rochester (US):US/Eastern
 Tiny Pop (UK):Europe/London
+Tipik:Europe/Brussels
 Toei Channel:Asia/Tokyo
 Toggle:Asia/Singapore
 Tokai TV (JP):Asia/Tokyo
