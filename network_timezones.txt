@@ -2190,6 +2190,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
+Sky Documentaries:Europe/London
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
 Sky Movies:Europe/London
