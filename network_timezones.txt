@@ -1130,6 +1130,7 @@ HBO:US/Eastern
 HBO Asia:Asia/Singapore
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
+HBO España:Europe/Madrid
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
 HBO Latin America:America/Sao_Paulo
@@ -2306,6 +2307,7 @@ Super RTL (DE):Europe/Berlin
 Super Écran:Canada/Eastern
 Super!:Europe/Rome
 SuperRTL:Europe/Berlin
+Superstar TV:Europe/Belgrade
 Superstation WGN:US/Eastern
 Sveriges Television:Europe/Stockholm
 Svt:Europe/Stockholm
