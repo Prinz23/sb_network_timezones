@@ -3074,6 +3074,7 @@ nickelodeon (AU):Australia/Sydney
 nickelodeon (CA):Canada/Eastern
 nickelodeon (UK):Europe/London
 nova (CZ):Europe/Prague
+null.video:Europe/Oslo
 oksusu:Asia/Seoul
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
