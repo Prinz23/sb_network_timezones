@@ -899,6 +899,7 @@ FOUR (NZ):Pacific/Auckland
 FOX:US/Eastern
 FOX (FI):Europe/Helsinki
 FOX (PT):Europe/Lisbon
+FOX (Portugal):Europe/Lisbon
 FOX (UK):Europe/London
 FOX (US):US/Eastern
 FOX 11 (US):US/Eastern
@@ -1734,6 +1735,7 @@ OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
 ONDirecTV (Latin America):America/Buenos_Aires
 ONE (NZ):Pacific/Auckland
+OPTO:Europe/Lisbon
 ORF:Europe/Vienna
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
@@ -2525,6 +2527,7 @@ TVFPlay:Asia/Kolkata
 TVG Network:US/Eastern
 TVGN:US/Eastern
 TVI:Europe/Lisbon
+TVI Player:Europe/Lisbon
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN:Europe/Warsaw
