@@ -1,1 +1,1 @@
-zoneinfo-2020c.tar.gz 841e53e41fd3b0f2f1d5ed324210d4ff
+zoneinfo-2020d.tar.gz bce5b3d6aa431719942b019ee31c49e2
