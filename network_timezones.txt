@@ -2133,6 +2133,7 @@ Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
+Salto:Europe/Paris
 Sama Dubai TV:Asia/Dubai
 Sama TV:Asia/Damascus
 Sangat TV (UK):Europe/London
