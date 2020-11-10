@@ -1812,6 +1812,7 @@ Pac-12 Oregon (US):US/Eastern
 Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
+Pantaya:US/Eastern
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
