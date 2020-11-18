@@ -797,6 +797,7 @@ Draemong:Asia/Seoul
 Dragon TV:Asia/Shanghai
 DramaH:Asia/Seoul
 DramaX:Asia/Seoul
+DreamWorks Channel:Asia/Bangkok
 DrinkTV:US/Eastern
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
