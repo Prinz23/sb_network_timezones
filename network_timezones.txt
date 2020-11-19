@@ -2553,6 +2553,7 @@ TVP2:Europe/Warsaw
 TVQ (AU):Australia/Sydney
 TVQ (Australia):Australia/Sydney
 TVQ (Japan):Asia/Tokyo
+TVR 2:Europe/Bucharest
 TVRI:Asia/Jakarta
 TVS:Australia/Sydney
 TVS China:Asia/Shanghai
