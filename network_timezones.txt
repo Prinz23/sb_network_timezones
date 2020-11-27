@@ -535,6 +535,7 @@ Canal de las Estrellas:America/Mexico_City
 Canal de las Estrellas Latinoamerica (US):US/Eastern
 Canal+:Europe/Paris
 Canal+ (ES):Europe/Madrid
+Canal+ Africa:Africa/Dakar
 Canal+ Cyfrowy:Europe/Warsaw
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
