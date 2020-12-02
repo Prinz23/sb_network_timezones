@@ -19,6 +19,7 @@
 2BE:Europe/Brussels
 2M:Africa/Casablanca
 2be:Europe/Brussels
+2sTV:Africa/Dakar
 2×2:Europe/Kaliningrad
 3+:Europe/Zurich
 31 DIGITAL (AU):Australia/Sydney
@@ -171,6 +172,7 @@ Adult Channel:Europe/London
 Adult Swim:US/Eastern
 Adventist TV (US):US/Eastern
 Africa Channel (US):US/Eastern
+Africa Magic:Africa/Lagos
 Afrotainment (US):US/Eastern
 Afrotainment Music (US):US/Eastern
 Aftenposten:Europe/Oslo
@@ -889,6 +891,7 @@ Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Express Entertainment:Asia/Karachi
 Extreme Sports Channel (UK):Europe/London
+F1TV:US/Eastern
 FEARNet:US/Eastern
 FEARnet:US/Eastern
 FEM:Europe/London
@@ -1209,6 +1212,7 @@ IB3:Europe/Madrid
 IBC (PH):Asia/Manila
 ICE TV:Indian/Maldives
 ICI Explora:Canada/Eastern
+ICI RADIO-CANADA TÉLÉ:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICTV:Europe/Kiev
 ICTV (AU):Australia/Sydney
