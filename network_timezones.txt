@@ -318,6 +318,7 @@ BET Gospel (US):US/Eastern
 BET HIP HOP (US):US/Eastern
 BET Plus:US/Eastern
 BET+:US/Eastern
+BFM TV:Europe/Paris
 BHSN (US):US/Eastern
 BIOGRAPHY CHANNEL (CA):Canada/Eastern
 BKN (AU):Australia/Sydney
@@ -2821,6 +2822,7 @@ Victory Television Network (US):US/Eastern
 VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
+Vidi Space:US/Eastern
 Vidol:Asia/Taipei
 VijfTV:Europe/Brussels
 Viki:US/Eastern
@@ -2988,6 +2990,7 @@ comedy channel (AU):Australia/Sydney
 create (US):US/Eastern
 crime & investigation network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
+dTV:Asia/Tokyo
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
 de película clásico (US):US/Eastern
