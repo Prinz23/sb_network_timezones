@@ -697,6 +697,7 @@ DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
+DROPOUT:US/Eastern
 DSF:Europe/Berlin
 DTD (AU):Australia/Sydney
 DTOUR (CA):Canada/Eastern
