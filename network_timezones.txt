@@ -2296,6 +2296,7 @@ Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
+Streamz:Europe/Brussels
 Studio 100 TV:Europe/Brussels
 Studio 23:Asia/Manila
 Studio 4:Europe/Paris
