@@ -772,6 +772,7 @@ Discovery en Español (US):US/Eastern
 Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
+Discovery+:US/Eastern
 Dish TV:US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (BR):America/Sao_Paulo
@@ -1774,6 +1775,7 @@ One World Sport (US):US/Eastern
 Open Heaven TV (UK):Europe/London
 Open TV:Europe/Athens
 Oprah Winfrey Network:US/Eastern
+Opto:Europe/Lisbon
 Ora TV:US/Eastern
 Orange TV España:Europe/Madrid
 Orbit Network (PK):Asia/Karachi
@@ -2711,6 +2713,7 @@ Télétoon:Europe/Paris
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
+UEFA.tv:Europe/Zurich
 UFC FIGHT PASS (US):US/Eastern
 UFC Fight Pass:US/Eastern
 UK Entertainment Channel:Europe/London
