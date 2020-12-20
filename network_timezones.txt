@@ -211,6 +211,7 @@ Altitude sports (US):US/Eastern
 Amazon:US/Eastern
 Amazon (Japan):Asia/Tokyo
 Amazon Prime Instant Video (UK):Europe/London
+Amedia AS:Europe/Oslo
 America One Television Network:US/Eastern
 American Broadcasting Company:US/Eastern
 American Liberty (US):US/Eastern
@@ -1758,6 +1759,7 @@ OUFtivi:Europe/Brussels
 OUTtv (CA):Canada/Eastern
 OWN:US/Eastern
 OWN (CA):Canada/Eastern
+OWN (Canada):Canada/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
 Olive:Asia/Seoul
