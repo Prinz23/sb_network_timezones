@@ -423,6 +423,7 @@ CBC:Canada/Eastern
 CBC (CA):Canada/Eastern
 CBC (EG):Africa/Cairo
 CBC (JP):Asia/Tokyo
+CBC Gem:Canada/Eastern
 CBC News Network:Canada/Eastern
 CBC Newsworld:Canada/Eastern
 CBCnews network (CA):Canada/Eastern
