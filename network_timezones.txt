@@ -1065,6 +1065,7 @@ France Inter:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 Freeform:US/Eastern
+Fremantle:Europe/London
 Frissons TV:Canada/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
