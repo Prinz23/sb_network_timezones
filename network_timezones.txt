@@ -30,6 +30,7 @@
 3ABN Russia (US):US/Eastern
 3e:Europe/Dublin
 3e (IE):Europe/Dublin
+3net:US/Eastern
 3net (US):US/Eastern
 3sat:Europe/Berlin
 4+:Europe/Zurich
