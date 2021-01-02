@@ -882,6 +882,7 @@ Emmanuel TV (US):US/Eastern
 Encore:US/Eastern
 Encore Westerns East (US):US/Eastern
 Encuentro:America/Buenos_Aires
+Endemol Shine Brazil:America/Sao_Paulo
 Epsilon TV:Europe/Athens
 Eros Now:Asia/Kolkata
 Erstes Deutsches Fernsehen:Europe/Berlin
@@ -1079,6 +1080,7 @@ Futura:America/Sao_Paulo
 G4:US/Eastern
 G4 Canada:Canada/Eastern
 G4TechTV Canada:Canada/Eastern
+GAIN:Europe/Istanbul
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
 GEO News (UK):Europe/London
