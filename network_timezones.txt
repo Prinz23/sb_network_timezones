@@ -898,6 +898,7 @@ Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Express Entertainment:Asia/Karachi
 Extreme Sports Channel (UK):Europe/London
+Exxen:Europe/Istanbul
 F1TV:US/Eastern
 FEARNet:US/Eastern
 FEARnet:US/Eastern
