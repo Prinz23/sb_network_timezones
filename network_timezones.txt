@@ -98,6 +98,7 @@ ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
 AIT International (UK):Europe/London
+ALLBLK:US/Eastern
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC:US/Eastern
@@ -1001,6 +1002,7 @@ Fix & Foxi:Europe/Berlin
 Flooxer:Europe/Madrid
 FlopTV:Europe/Rome
 Flow TV (US):US/Eastern
+Flower Ave. Films:US/Eastern
 Food Network:US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
