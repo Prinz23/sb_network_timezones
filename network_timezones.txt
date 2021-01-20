@@ -64,6 +64,7 @@ A+:Europe/Paris
 AAG (UK):Europe/London
 AAG TV:Asia/Karachi
 AANtv (US):US/Eastern
+AB1:Europe/Paris
 ABC:US/Eastern
 ABC (AU):Australia/Sydney
 ABC (Canberra) (AU):Australia/Sydney
