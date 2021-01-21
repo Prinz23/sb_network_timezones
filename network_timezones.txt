@@ -684,6 +684,7 @@ DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
 DFamilia (US):US/Eastern
+DIA TV:Asia/Seoul
 DISCOVERY SCIENCE (CA):Canada/Eastern
 DISCOVERY home&health (UK):Europe/London
 DIY Network:US/Eastern
