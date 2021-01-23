@@ -2718,6 +2718,7 @@ Turner South:US/Eastern
 Tv2 Zulu:Europe/Copenhagen
 TvNorge:Europe/Oslo
 Twitch:US/Eastern
+Twitter:US/Eastern
 Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
