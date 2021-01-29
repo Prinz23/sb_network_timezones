@@ -1842,6 +1842,7 @@ Pantaya:US/Eastern
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
+Paramount+:US/Eastern
 Paravi:Asia/Tokyo
 Paris Première:Europe/Paris
 Paris Première (FR):Europe/Paris
