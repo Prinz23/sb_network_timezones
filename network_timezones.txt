@@ -202,6 +202,7 @@ Al Shababiyah:Africa/Tripoli
 Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
 Alibi:Europe/London
+All 4:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
 Almavision (US):US/Eastern
