@@ -2560,6 +2560,7 @@ TVG Network:US/Eastern
 TVGN:US/Eastern
 TVI:Europe/Lisbon
 TVI Player:Europe/Lisbon
+TVI24:Europe/Lisbon
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN:Europe/Warsaw
@@ -2668,6 +2669,7 @@ The History Channel International:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
 The Music Factory:Europe/Amsterdam
+The Nashville Network:US/Eastern
 The National Network:US/Eastern
 The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
