@@ -2988,6 +2988,7 @@ aux (CA):Canada/Eastern
 azteca america (US):US/Eastern
 bTV:Europe/Sofia
 bafta.org (UK):Europe/London
+beIN Connect:Europe/Istanbul
 beIN SPORT (US):US/Eastern
 beIN SPORTS:US/Eastern
 beats per minute television (CA):Canada/Eastern
