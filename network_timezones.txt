@@ -2073,6 +2073,7 @@ SABC1:Africa/Johannesburg
 SABC2:Africa/Johannesburg
 SABC3:Africa/Johannesburg
 SAMAA TV (UK):Europe/London
+SAPO Vídeos:Europe/Lisbon
 SAS (AU):Australia/Sydney
 SAT.1:Europe/Berlin
 SBS:Asia/Seoul
@@ -2562,6 +2563,7 @@ TVGN:US/Eastern
 TVI:Europe/Lisbon
 TVI Player:Europe/Lisbon
 TVI24:Europe/Lisbon
+TVING:Asia/Seoul
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN:Europe/Warsaw
