@@ -1538,6 +1538,7 @@ MUTV:Europe/London
 MX:Asia/Kolkata
 MYXTV (US):US/Eastern
 Madani Channel (UK):Europe/London
+Madd - Entertainment:Europe/Istanbul
 Made in Bristol (UK):Europe/London
 Made in Cardiff (UK):Europe/London
 Made in Leeds (UK):Europe/London
@@ -2911,6 +2912,7 @@ Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
 Watch:Europe/London
+WatchFrance:Europe/Paris
 Wavve:Asia/Seoul
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
