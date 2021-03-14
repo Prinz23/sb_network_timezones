@@ -906,6 +906,7 @@ Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Express Entertainment:Asia/Karachi
+Expresso:Europe/Lisbon
 Extreme Sports Channel (UK):Europe/London
 Exxen:Europe/Istanbul
 F1TV:US/Eastern
@@ -2489,6 +2490,7 @@ TV One:US/Eastern
 TV One (NZ):Pacific/Auckland
 TV One (US):US/Eastern
 TV Osaka:Asia/Tokyo
+TV Perú:America/Lima
 TV Pública:America/Buenos_Aires
 TV Saitama:Asia/Tokyo
 TV Saitama (JP):Asia/Tokyo
