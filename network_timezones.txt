@@ -1303,6 +1303,7 @@ Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
 Joiz (CH):Europe/Zurich
 Joiz (DE):Europe/Berlin
+Joyn:Europe/Berlin
 Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting:US/Eastern
@@ -1311,6 +1312,7 @@ K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS:Asia/Seoul
+KBS 2:Asia/Seoul
 KBS Joy:Asia/Seoul
 KBS Kyoto:Asia/Seoul
 KBS TV1:Asia/Seoul
@@ -1339,6 +1341,7 @@ Kabel eins:Europe/Berlin
 Kabel1 (DE):Europe/Berlin
 KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
+Kan:Asia/Jerusalem
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
@@ -2645,6 +2648,7 @@ Televisió de Catalunya (ES):Europe/Madrid
 Televisión de Galicia:Europe/Madrid
 Televizija Zagreb:Europe/Zagreb
 Telewizja Polska:Europe/Warsaw
+Tello:US/Eastern
 Tempo Network (US):US/Eastern
 Tencent Video:Asia/Shanghai
 Terra Viva:America/Sao_Paulo
