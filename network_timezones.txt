@@ -622,6 +622,7 @@ Cinemax:US/Eastern
 Citv (UK):Europe/London
 City:Canada/Eastern
 City Channel:Europe/Dublin
+CityTV:Canada/Eastern
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 Cloo:US/Eastern
@@ -1208,6 +1209,7 @@ Historia (ES):Europe/Madrid
 History:US/Eastern
 History (CA):Canada/Eastern
 History (UK):Europe/London
+History Canada:Canada/Eastern
 History Channel (UK):Europe/London
 History International:US/Eastern
 History Television:Canada/Eastern
@@ -1235,6 +1237,7 @@ ICE TV:Indian/Maldives
 ICI Explora:Canada/Eastern
 ICI RADIO-CANADA TÉLÉ:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
+ICI Télé:Canada/Eastern
 ICTV:Europe/Kiev
 ICTV (AU):Australia/Sydney
 IFC:US/Eastern
@@ -1361,6 +1364,8 @@ Kawish Television Network:Asia/Karachi
 Kenya Television Network:Asia/Karachi
 Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
+Keshet:Asia/Jerusalem
+Keshet 12:Asia/Jerusalem
 Ketnet:Europe/Brussels
 Ketnet (BE):Europe/Brussels
 KiKa:Europe/Berlin
@@ -2163,6 +2168,7 @@ SUN news:Asia/Kolkata
 SUN-TV (JP):Asia/Tokyo
 SUPER ÉCRAN (CA):Canada/Eastern
 SVT:Europe/Stockholm
+SVT 1:Europe/Stockholm
 SVT1:Europe/Stockholm
 SVT2:Europe/Stockholm
 SVT24:Europe/Stockholm
@@ -2278,6 +2284,7 @@ Sony Entertainment Television (PE):America/Lima
 Sony Entertainment Television Asia (UK):Europe/London
 Sony Liv:Asia/Kolkata
 Sony TV:Asia/Kolkata
+SonyLIV:Asia/Kolkata
 Soul of the South Television Network (US):US/Eastern
 Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
@@ -2524,6 +2531,7 @@ TV3 (IE):Europe/Dublin
 TV3 (MY):Asia/Kuala_Lumpur
 TV3 (NO):Europe/Oslo
 TV3 (NZ):Pacific/Auckland
+TV3 (NZ) Three:Pacific/Auckland
 TV3 (SE):Europe/Stockholm
 TV3 Denmark:Europe/Copenhagen
 TV3 Puls:Europe/Copenhagen
