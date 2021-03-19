@@ -146,6 +146,7 @@ ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
 ATV (HK):Asia/Hong_Kong
+ATV (TR):Europe/Istanbul
 ATV Türkiye:Europe/Istanbul
 AVRO:Europe/Amsterdam
 AVROTROS:Europe/Amsterdam
@@ -355,6 +356,7 @@ BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
 BTV:Asia/Shanghai
 BYU Television:US/Eastern
+BYUtv:US/Eastern
 BabyFirstTV:US/Eastern
 BabyTV:Europe/London
 BabyTV (UK):Europe/London
@@ -592,6 +594,7 @@ Channel 9 (UK):Europe/London
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
 Channel NewsAsia:Asia/Singapore
+Channel One (Russia):Europe/Kaliningrad
 Channel S (UK):Europe/London
 Channel U:Asia/Singapore
 Channel [V]:Asia/Shanghai
@@ -2057,6 +2060,7 @@ RedeTV! (BR):America/Sao_Paulo
 ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
+Reshet 13:Asia/Jerusalem
 Retail TV (UK):Europe/London
 Rete 4:Europe/Rome
 Revelation TV:Europe/London
@@ -2312,6 +2316,7 @@ Sportsnet Ontario (CA):Canada/Eastern
 Sprout (US):US/Eastern
 Stan:Australia/Sydney
 Star Bharat:Asia/Kolkata
+Star Channel (BR):America/Sao_Paulo
 Star Channel (GR):Europe/Athens
 Star Channel (Greece):Europe/Athens
 Star Gold (UK):Europe/London
@@ -2861,6 +2866,7 @@ Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viasat3:Europe/Budapest
+Vice on TV (US):US/Eastern
 Viceland (CA):Canada/Eastern
 Viceland (FR):Europe/Paris
 Viceland (NL):Europe/Amsterdam
