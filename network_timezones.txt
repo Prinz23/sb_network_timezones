@@ -2421,6 +2421,7 @@ TND (AU):Australia/Sydney
 TNN:US/Eastern
 TNQ (AU):Australia/Sydney
 TNT:US/Eastern
+TNT  (Russia):Europe/Kaliningrad
 TNT (US):US/Eastern
 TNT Brasil:America/Sao_Paulo
 TNT Comedy (Germany):Europe/Berlin
@@ -3066,6 +3067,7 @@ france.3:Europe/Paris
 france.4:Europe/Paris
 france.5:Europe/Paris
 france.tv:Europe/Paris
+france.tv slash:Europe/Paris
 france.Ô:Europe/Paris
 fridayVideo:Asia/Taipei
 funnyordie.com (US):US/Eastern
