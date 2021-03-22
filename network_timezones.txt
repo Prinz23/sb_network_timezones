@@ -513,6 +513,7 @@ CTV (TW):Asia/Taipei
 CTV Comedy:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
+CTV Sci-Fi:Canada/Eastern
 CTV Sci-Fi (Space):Canada/Eastern
 CTV Television Network:Canada/Eastern
 CTV two (CA):Canada/Eastern
@@ -808,6 +809,7 @@ Disney XD:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
 Disney+:US/Eastern
+Disney+ Hotstar:Asia/Kolkata
 DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
@@ -1318,6 +1320,7 @@ K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS:Asia/Seoul
+KBS 1:Asia/Seoul
 KBS 2:Asia/Seoul
 KBS Joy:Asia/Seoul
 KBS Kyoto:Asia/Seoul
@@ -1345,6 +1348,7 @@ KYW-TV (US):US/Eastern
 Kabel 1:Europe/Berlin
 Kabel eins:Europe/Berlin
 Kabel1 (DE):Europe/Berlin
+Kakao TV:Asia/Seoul
 KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 Kan:Asia/Jerusalem
@@ -1674,6 +1678,7 @@ NITV (AU):Australia/Sydney
 NOGGIN:US/Eastern
 NOS:Europe/Amsterdam
 NOVE:Europe/Rome
+NPO 1:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
 NPR:US/Eastern
 NPS:Europe/Amsterdam
@@ -2252,6 +2257,7 @@ Sky Movies:Europe/London
 Sky Nature:Europe/London
 Sky News:Europe/London
 Sky News Ireland:Europe/Dublin
+Sky One:Europe/London
 Sky One (DE):Europe/Berlin
 Sky Sports:Europe/London
 Sky Sports F1:Europe/London
@@ -2438,6 +2444,7 @@ TONTON:Asia/Kuala_Lumpur
 TPC (US):US/Eastern
 TPS Star (FR):Europe/Paris
 TQS:Canada/Eastern
+TRK Ukraina:Europe/Kiev
 TROS:Europe/Amsterdam
 TRT 1:Europe/Istanbul
 TRT Arabic:Europe/Istanbul
@@ -2519,6 +2526,7 @@ TV Tokjo (DE):Europe/Berlin
 TV Tokyo:Asia/Tokyo
 TV Tupi:America/Sao_Paulo
 TV Venezuela (US):US/Eastern
+TV-3 (Russia):Europe/Kaliningrad
 TV1 (MY):Asia/Kuala_Lumpur
 TV11:Europe/Stockholm
 TV2:Pacific/Auckland
@@ -2598,6 +2606,7 @@ TVNORGE:Europe/Oslo
 TVNOW:Europe/Berlin
 TVNOW (Germany):Europe/Berlin
 TVNZ:Pacific/Auckland
+TVNZ 2:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
 TVOne Global:Asia/Karachi
