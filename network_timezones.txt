@@ -2082,6 +2082,7 @@ Roya TV:Asia/Amman
 Royal News:Asia/Karachi
 Rundfunk Berlin-Brandenburg:Europe/Berlin
 Russia Today:Europe/Kaliningrad
+Russia-1:Europe/Kaliningrad
 Ruutu:Europe/Helsinki
 RÚV:Iceland
 Ríkisútvarpið (IS):Atlantic/Reykjavik
@@ -2708,6 +2709,7 @@ The Movie Network:Canada/Eastern
 The Music Factory:Europe/Amsterdam
 The Nashville Network:US/Eastern
 The National Network:US/Eastern
+The Roku Channel:US/Eastern
 The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
@@ -2784,6 +2786,7 @@ UKTV History:Europe/London
 UKTV Style:Europe/London
 UKTV Yesterday:Europe/London
 UKTV style:Europe/London
+UMC:US/Eastern
 UMP Movies (UK):Europe/London
 UMP Stars (UK):Europe/London
 UN3TV:America/Buenos_Aires
