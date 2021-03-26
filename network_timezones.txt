@@ -789,6 +789,7 @@ Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
 Discovery+:US/Eastern
+Discovery+ (NO):Europe/Oslo
 Discovery+ (SE):Europe/Stockholm
 Dish TV:US/Eastern
 Disney Channel:US/Eastern
