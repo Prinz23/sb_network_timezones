@@ -1740,6 +1740,7 @@ National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
 National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
+National Geographic Wild:US/Eastern
 National Geographiс:US/Eastern
 National Jewish Television (US):US/Eastern
 National Media Authority:Africa/Cairo
@@ -1930,6 +1931,7 @@ Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Pop:US/Eastern
 Pop Girl (UK):Europe/London
+Pop TV:US/Eastern
 Porto Canal:Europe/Lisbon
 PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
