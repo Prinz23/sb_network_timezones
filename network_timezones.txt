@@ -3290,6 +3290,7 @@ youtoo SOCIAL TV (US):US/Eastern
 ztv:Europe/Stockholm
 ¡Sorpresa! (US):US/Eastern
 À Punt:Europe/Madrid
+ÄŒeskoslovenská televize:Europe/Prague
 ÄŒeská televize:Europe/Prague
 Évasion:Canada/Eastern
 Ülke TV:Europe/Istanbul
