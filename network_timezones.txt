@@ -175,6 +175,7 @@ Action:Canada/Eastern
 Active Channel (UK):Europe/London
 Adult Channel:Europe/London
 Adult Swim:US/Eastern
+Adult Swim (FR):Europe/Paris
 Adventist TV (US):US/Eastern
 Africa Channel (US):US/Eastern
 Africa Magic:Africa/Lagos
