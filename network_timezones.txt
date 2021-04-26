@@ -1823,6 +1823,7 @@ OWN (CA):Canada/Eastern
 OWN (Canada):Canada/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
+Okoo:Europe/Paris
 Olive:Asia/Seoul
 Olive TV (UK):Europe/London
 Omega TV:Europe/Nicosia
