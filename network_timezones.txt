@@ -1273,6 +1273,7 @@ ITV Cymru Wales:Europe/London
 ITV Encore:Europe/London
 ITV Gold (US):US/Eastern
 ITV Granada:Europe/London
+ITV Hub:Europe/London
 ITV London:Europe/London
 ITV Wales:Europe/London
 ITV1:Europe/London
@@ -1654,6 +1655,7 @@ NBC 4 NEW YORK (US):US/Eastern
 NBC 4 Southern California (US):US/Eastern
 NBC 4 WASHINGTON D.C. (US):US/Eastern
 NBC 5 Chicago (US):US/Eastern
+NBC Sports Network:US/Eastern
 NBC Universo:US/Eastern
 NBCSN:US/Eastern
 NBCSN (US):US/Eastern
@@ -2863,6 +2865,7 @@ Universal Kids:US/Eastern
 Universal TV:America/Sao_Paulo
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
+Universo:US/Eastern
 Univision:US/Eastern
 Unknown (AU):Australia/Sydney
 Unknown (CA):Canada/Eastern
