@@ -1834,6 +1834,7 @@ Omroep Brabant:Europe/Amsterdam
 Omroep MAX:Europe/Amsterdam
 Omrop Fryslân (NL):Europe/Amsterdam
 OnStyle:Asia/Seoul
+One 31:Asia/Bangkok
 One America NEWS NETWORK (US):US/Eastern
 One Channel:Europe/Athens
 One Magic:Africa/Johannesburg
