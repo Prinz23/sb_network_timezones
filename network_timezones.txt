@@ -2071,6 +2071,7 @@ Radio Television of Serbia (RTS/PTC):Europe/Belgrade
 Radio Televizija Vojvodine:Europe/Belgrade
 Radio-Canada:Canada/Eastern
 Radio-Québec:Canada/Eastern
+Radiotopia:US/Eastern
 Rai:Europe/Rome
 Rai 1:Europe/Rome
 Rai 2:Europe/Rome
