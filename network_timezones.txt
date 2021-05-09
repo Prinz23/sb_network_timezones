@@ -1033,6 +1033,7 @@ Food Network:US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
 Food Network Kitchen:US/Eastern
+Forever Dog:US/Eastern
 Formula 1 TV:US/Eastern
 Formula 1 TV (USA):US/Eastern
 Fox:Europe/Rome
