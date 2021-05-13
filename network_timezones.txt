@@ -2090,6 +2090,7 @@ Really:Europe/London
 Record:America/Sao_Paulo
 Record News:America/Sao_Paulo
 Record TV (UK):Europe/London
+RecordTV:America/Sao_Paulo
 Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
