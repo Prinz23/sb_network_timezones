@@ -903,6 +903,7 @@ El Trece:America/Buenos_Aires
 Eleven:Australia/Sydney
 Eleven (AU):Australia/Sydney
 Elisa Viihde:Europe/Helsinki
+Elisa Viihde Viaplay:Europe/Helsinki
 Elle Girl:Europe/Paris
 Emmanuel TV (US):US/Eastern
 Encore:US/Eastern
