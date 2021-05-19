@@ -647,6 +647,7 @@ Colorado's Own Channel 2 (US):US/Eastern
 Colors:Asia/Kolkata
 Colors (UK):Europe/London
 Colors TV:Asia/Kolkata
+Columbia Broadcasting System, Inc.:US/Eastern
 Comcast Entertainment Television (US):US/Eastern
 Comcast Network:US/Eastern
 Comcast Television (US):US/Eastern
