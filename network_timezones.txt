@@ -2227,6 +2227,7 @@ SVT2:Europe/Stockholm
 SVT24:Europe/Stockholm
 SVTB:Europe/Stockholm
 SWR:Europe/Berlin
+SYFY:US/Eastern
 Sab TV:Asia/Kolkata
 Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
