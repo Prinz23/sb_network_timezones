@@ -1,3 +1,4 @@
+ JTBC2:Asia/Seoul
 #0:Europe/Madrid
 +Globosat:America/Sao_Paulo
 - None:US/Eastern
