@@ -290,6 +290,7 @@ BBC HD:Europe/London
 BBC Kids:Canada/Eastern
 BBC Knowledge (AU):Australia/Sydney
 BBC News:Europe/London
+BBC Northern Ireland:Europe/London
 BBC ONE:Europe/London
 BBC One:Europe/London
 BBC One East:Europe/London
