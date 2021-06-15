@@ -672,6 +672,7 @@ Comic-Con HQ:US/Eastern
 Community Channel:Europe/London
 Comédie !:Europe/Paris
 Comédie+:Europe/Paris
+Conmebol TV:America/Sao_Paulo
 Contar:America/Buenos_Aires
 Controversial TV (UK):Europe/London
 Cooking Channel:US/Eastern
@@ -839,6 +840,7 @@ DramaX:Asia/Seoul
 DreamWorks Channel:Asia/Bangkok
 DrinkTV:US/Eastern
 DuMont Television Network:US/Eastern
+Duck TV:Europe/Bratislava
 Duna TV:Europe/Budapest
 E!:US/Eastern
 E! (AU):Australia/Sydney
