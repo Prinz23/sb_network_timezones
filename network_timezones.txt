@@ -289,6 +289,7 @@ BBC Four:Europe/London
 BBC HD:Europe/London
 BBC Kids:Canada/Eastern
 BBC Knowledge (AU):Australia/Sydney
+BBC Music:Europe/London
 BBC News:Europe/London
 BBC Northern Ireland:Europe/London
 BBC ONE:Europe/London
@@ -942,6 +943,7 @@ FILM 4 (UK):Europe/London
 FLAVA (UK):Europe/London
 FLIX (US):US/Eastern
 FMC (AU):Australia/Sydney
+FOD:Asia/Tokyo
 FORO tv (US):US/Eastern
 FOUR (NZ):Pacific/Auckland
 FOX:US/Eastern
@@ -1401,6 +1403,7 @@ Ketnet (BE):Europe/Brussels
 KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
+KinoPoisk:Europe/Kaliningrad
 Kiss:Europe/London
 Kix (UK):Europe/London
 Klear TV (UK):Europe/London
