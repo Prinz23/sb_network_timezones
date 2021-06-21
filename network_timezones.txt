@@ -2271,6 +2271,7 @@ Shopping Channel (CA):Canada/Eastern
 Shout! Factory (USA):US/Eastern
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
+ShowMax Poland:Europe/Warsaw
 Showcase:Canada/Eastern
 Showcase (AU):Australia/Sydney
 Showcase (CA):Canada/Eastern
@@ -2304,6 +2305,7 @@ Sky Cinema (UK):Europe/London
 Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
+Sky Kids:Europe/London
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
 Sky Movies:Europe/London
@@ -2782,6 +2784,7 @@ TheBlaze:US/Eastern
 This TV:US/Eastern
 Tien (NL):Europe/Amsterdam
 Tik Tok:US/Eastern
+TikTok:Asia/Shanghai
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
 Time Warner Cable News Capital Region (US):US/Eastern
