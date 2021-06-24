@@ -1740,6 +1740,7 @@ NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Nagoya Broadcasting Network:Asia/Tokyo
 Nagoya Broadcasting Network (JP):Asia/Tokyo
+Namava:Asia/Tehran
 Nat Geo Kids (BR):America/Sao_Paulo
 Nat Geo Wild:US/Eastern
 National Broadcasting Company:US/Eastern
