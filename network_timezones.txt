@@ -533,6 +533,7 @@ Cable Public Affairs Channel:Canada/Eastern
 Cable Public Affairs Channel (CA):Canada/Eastern
 Cable TV:Asia/Hong_Kong
 CablePulse24 (CA):Canada/Eastern
+Cablevisión Flow:America/Buenos_Aires
 Cambridge Presents (UK):Europe/London
 Canadian Broadcasting Company:Canada/Eastern
 Canadian Learning Television:Canada/Eastern
