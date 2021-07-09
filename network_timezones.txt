@@ -1391,6 +1391,7 @@ Kanal A (Turkey):Europe/Istanbul
 Kanal D:Europe/Istanbul
 Kanal D Romania:Europe/Bucharest
 Kansai TV:Asia/Tokyo
+Kapamilya Channel:Asia/Manila
 Kapamilya Network:Asia/Manila
 Kashish TV:Asia/Karachi
 Kawish Television Network:Asia/Karachi
