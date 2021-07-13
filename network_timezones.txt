@@ -1938,6 +1938,7 @@ Play More:Europe/Brussels
 Play UK:Europe/London
 Play UK, BBC Choice:Europe/London
 PlayJam:Europe/London
+PlayPlus:America/Sao_Paulo
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
@@ -1945,6 +1946,7 @@ Playhouse Disney France:Europe/Paris
 Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
 Podcast (All Platforms):US/Eastern
+Podimo:Europe/Copenhagen
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Pop:US/Eastern
@@ -2880,6 +2882,7 @@ Ummah Channel (UK):Europe/London
 Unis TV:Canada/Eastern
 United Nations Television:US/Eastern
 United Paramount Network:US/Eastern
+Univer Video:America/Sao_Paulo
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
 Universal Kids:US/Eastern
