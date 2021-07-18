@@ -491,6 +491,7 @@ CNC World (UK):Europe/London
 CNL Russian (US):US/Eastern
 CNN:US/Eastern
 CNN (UK):Europe/London
+CNN Brasil:America/Sao_Paulo
 CNN en Español (US):US/Eastern
 CNNI:US/Eastern
 CNews:Europe/Paris
@@ -1116,6 +1117,7 @@ Fuse:US/Eastern
 Fusion:US/Eastern
 Fusion (US):US/Eastern
 Futura:America/Sao_Paulo
+G1:America/Sao_Paulo
 G4:US/Eastern
 G4 Canada:Canada/Eastern
 G4TechTV Canada:Canada/Eastern
@@ -1594,6 +1596,8 @@ Magnolia Network:US/Eastern
 Magyar Televizió:Europe/Budapest
 Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
+Mais Globosat:America/Sao_Paulo
+Mais na Tela:America/Sao_Paulo
 Mais na tela:America/Sao_Paulo
 Manchester United TV:Europe/London
 Mango TV:Asia/Shanghai
@@ -2562,6 +2566,7 @@ TV Brasil:America/Sao_Paulo
 TV Cabo:Europe/Lisbon
 TV Chile:America/Santiago
 TV Cultura:America/Sao_Paulo
+TV Diário:America/Sao_Paulo
 TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
