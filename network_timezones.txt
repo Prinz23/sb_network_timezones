@@ -672,6 +672,7 @@ Comedy MOVIES (AU):Australia/Sydney
 Comedy central:US/Eastern
 Comedy.tv (US):US/Eastern
 Comic-Con HQ:US/Eastern
+Commercial Television:Asia/Hong_Kong
 Community Channel:Europe/London
 Comédie !:Europe/Paris
 Comédie+:Europe/Paris
