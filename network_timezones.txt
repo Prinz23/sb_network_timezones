@@ -2568,6 +2568,7 @@ TV Cabo:Europe/Lisbon
 TV Chile:America/Santiago
 TV Cultura:America/Sao_Paulo
 TV Diário:America/Sao_Paulo
+TV Globo:America/Sao_Paulo
 TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
