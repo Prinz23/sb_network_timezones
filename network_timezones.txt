@@ -407,6 +407,7 @@ Boomerang:US/Eastern
 Boomerang (AU):Australia/Sydney
 Boomerang (DE):Europe/Berlin
 Boomerang (UK):Europe/London
+Bounce:US/Eastern
 Bounce TV:US/Eastern
 BoxNation (UK):Europe/London
 Bravo:US/Eastern
