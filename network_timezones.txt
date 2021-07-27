@@ -1202,6 +1202,7 @@ HBO Nordic:Europe/Stockholm
 HBO Signature (US):US/Eastern
 HBO2 (US):US/Eastern
 HDNet:US/Eastern
+HEI Network:US/Eastern
 HGTV:US/Eastern
 HGTV Canada:Canada/Eastern
 HIFI:Canada/Eastern
