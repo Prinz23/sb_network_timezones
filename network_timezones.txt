@@ -1204,6 +1204,7 @@ HBO2 (US):US/Eastern
 HDNet:US/Eastern
 HEI Network:US/Eastern
 HGTV:US/Eastern
+HGTV (UK):Europe/London
 HGTV Canada:Canada/Eastern
 HIFI:Canada/Eastern
 HISTORY (AU):Australia/Sydney
@@ -2410,6 +2411,7 @@ Star World:Asia/Hong_Kong
 Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
+Star+:America/Buenos_Aires
 Stargate Command:US/Eastern
 Start Russia:Europe/Kaliningrad
 Starz:US/Eastern
