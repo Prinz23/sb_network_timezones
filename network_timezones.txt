@@ -1278,6 +1278,7 @@ IFC:US/Eastern
 IFC (CA):Canada/Eastern
 IKON:Europe/Amsterdam
 IMDb TV:US/Eastern
+IMPACT Plus:US/Eastern
 INSP:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
@@ -1845,10 +1846,12 @@ OWN:US/Eastern
 OWN (CA):Canada/Eastern
 OWN (Canada):Canada/Eastern
 Oasis HD:Canada/Eastern
+Oho Gujarati:Asia/Kolkata
 Oireachtas TV (IE):Europe/Dublin
 Okoo:Europe/Paris
 Olive:Asia/Seoul
 Olive TV (UK):Europe/London
+Olympic Channel:US/Eastern
 Omega TV:Europe/Nicosia
 Omni:Canada/Eastern
 Omroep Brabant:Europe/Amsterdam
@@ -2842,6 +2845,7 @@ True Movies 1 (UK):Europe/London
 True Movies 2 (UK):Europe/London
 TrueID:Asia/Bangkok
 TrueVisions:Asia/Bangkok
+Tubi:US/Eastern
 Turner Network Television:US/Eastern
 Turner South:US/Eastern
 Tv2 Zulu:Europe/Copenhagen
