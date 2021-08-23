@@ -608,6 +608,7 @@ Channel 9:Asia/Saigon
 Channel 9 (UK):Europe/London
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
+Channel News Asia:Asia/Singapore
 Channel NewsAsia:Asia/Singapore
 Channel One:Europe/Kaliningrad
 Channel One (Russia):Europe/Kaliningrad
