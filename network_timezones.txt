@@ -1842,6 +1842,7 @@ ORF1 (DE):Europe/Berlin
 ORTF:Europe/Paris
 OSN:Asia/Dubai
 OUFtivi:Europe/Brussels
+OUTtv:Canada/Eastern
 OUTtv (CA):Canada/Eastern
 OWN:US/Eastern
 OWN (CA):Canada/Eastern
