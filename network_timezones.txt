@@ -1079,6 +1079,7 @@ Fox España:Europe/Madrid
 Fox Family:US/Eastern
 Fox Family (Latin America):America/Buenos_Aires
 Fox Kids:US/Eastern
+Fox Kids (FR):Europe/Paris
 Fox Life:Europe/Rome
 Fox Life (BR):America/Sao_Paulo
 Fox Life (IT):Europe/Rome
