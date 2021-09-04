@@ -643,6 +643,7 @@ Citv (UK):Europe/London
 City:Canada/Eastern
 City Channel:Europe/Dublin
 CityTV:Canada/Eastern
+Claro Video:America/Mexico_City
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 Cloo:US/Eastern
@@ -2327,12 +2328,14 @@ Sky Documentaries:Europe/London
 Sky Kids:Europe/London
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
+Sky Max:Europe/London
 Sky Movies:Europe/London
 Sky Nature:Europe/London
 Sky News:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky One:Europe/London
 Sky One (DE):Europe/Berlin
+Sky Showcase:Europe/London
 Sky Sports:Europe/London
 Sky Sports F1:Europe/London
 Sky Three:Europe/London
@@ -2502,6 +2505,7 @@ TFX:Europe/Paris
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
 THRILLER MOVIES (AU):Australia/Sydney
+THT:Europe/Kaliningrad
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TIMvision:Europe/Rome
 TITV:Asia/Taipei
