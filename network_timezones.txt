@@ -574,6 +574,7 @@ Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Central:Europe/London
 Carlton Television:Europe/London
+Carousel:Europe/Kaliningrad
 Cartoon Hangover:US/Eastern
 Cartoon Network:US/Eastern
 Cartoon Network (CA):Canada/Eastern
@@ -712,6 +713,7 @@ Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
+DAZN:Europe/London
 DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
@@ -915,6 +917,7 @@ El Rey Network:US/Eastern
 El Trece:America/Buenos_Aires
 Eleven:Australia/Sydney
 Eleven (AU):Australia/Sydney
+Elhiwar ElTounsi:Africa/Tunis
 Elisa Viihde:Europe/Helsinki
 Elisa Viihde Viaplay:Europe/Helsinki
 Elle Girl:Europe/Paris
@@ -1154,6 +1157,7 @@ GTV:Asia/Taipei
 GTV (AU):Australia/Sydney
 GWN7 (AU):Australia/Sydney
 GYAO!:Asia/Tokyo
+GZBN:Asia/Shanghai
 Gaia:US/Eastern
 Gaiam TV:US/Eastern
 Gaiam TV :US/Eastern
@@ -1549,6 +1553,7 @@ MNN:US/Eastern
 MOJO (US):US/Eastern
 MOVIE CHANNEL (US):US/Eastern
 MOVIES! (US):US/Eastern
+MPT 1:Europe/Skopje
 MSG (US):US/Eastern
 MSG+ (US):US/Eastern
 MSNBC:US/Eastern
@@ -1639,6 +1644,7 @@ More Than Movies (UK):Europe/London
 More.tv:Europe/Kaliningrad
 More4:Europe/London
 MotorTrend:US/Eastern
+MotorTrend (IT):Europe/Rome
 MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
@@ -1826,8 +1832,10 @@ Notts TV (UK):Europe/London
 Nou 24:Europe/Madrid
 Nou Televisió:Europe/Madrid
 Nova:Europe/Sofia
+Nova BH:Europe/Sarajevo
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
+Novyi Kanal:Europe/Kiev
 Now TV:Asia/Hong_Kong
 Nuevo Siglo TV:America/Montevideo
 Numéro 23:Europe/Paris
@@ -1856,6 +1864,7 @@ OWN (Canada):Canada/Eastern
 Oasis HD:Canada/Eastern
 Oho Gujarati:Asia/Kolkata
 Oireachtas TV (IE):Europe/Dublin
+Okko:Europe/Kaliningrad
 Okoo:Europe/Paris
 Olive:Asia/Seoul
 Olive TV (UK):Europe/London
@@ -1960,6 +1969,7 @@ PlayJam:Europe/London
 PlayPlus:America/Sao_Paulo
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
+Player:Europe/Warsaw
 Playhouse Disney:US/Eastern
 Playhouse Disney France:Europe/Paris
 Playz:Europe/Madrid
@@ -1996,6 +2006,7 @@ Public Broadcasting Service:US/Eastern
 Puls 4:Europe/Vienna
 Pureflix:US/Eastern
 Pursuit Channel:US/Eastern
+Pyatnitsa!:Europe/Kaliningrad
 Q (PH):Asia/Manila
 Q TV:Europe/London
 Q Television Network (US):US/Eastern
@@ -2341,6 +2352,7 @@ Sky News Ireland:Europe/Dublin
 Sky One:Europe/London
 Sky One (DE):Europe/Berlin
 Sky Showcase:Europe/London
+Sky Sport (IT):Europe/Rome
 Sky Sports:Europe/London
 Sky Sports F1:Europe/London
 Sky Three:Europe/London
@@ -2456,6 +2468,7 @@ Super Channel 2 (CA):Canada/Eastern
 Super Channel 3 (CA):Canada/Eastern
 Super Channel 4 (CA):Canada/Eastern
 Super Deluxe:US/Eastern
+Super Polsat:Europe/Warsaw
 Super RTL:Europe/Berlin
 Super RTL (DE):Europe/Berlin
 Super Écran:Canada/Eastern
@@ -2699,6 +2712,7 @@ TVM:Europe/Malta
 TVN:Europe/Warsaw
 TVN (AU):Australia/Sydney
 TVN (Televisión Nacional de Chile):America/Santiago
+TVN 7:Europe/Warsaw
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVNORGE:Europe/Oslo
@@ -3129,6 +3143,7 @@ abc spark (CA):Canada/Eastern
 abc7 (US):US/Eastern
 abo (US):US/Eastern
 addikTV:Canada/Eastern
+aha:Asia/Kolkata
 alibi (UK):Europe/London
 amc (CA):Canada/Eastern
 aptn (CA):Canada/Eastern
