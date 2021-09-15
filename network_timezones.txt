@@ -394,6 +394,7 @@ Biography Channel:US/Eastern
 Blackpills:US/Eastern
 Blaze:Europe/London
 Blim:America/Mexico_City
+Blim TV:America/Mexico_City
 Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television:US/Eastern
@@ -1187,6 +1188,7 @@ GoPlay:Asia/Jakarta
 God Channel (UK):Europe/London
 God's Learning Channel (US):US/Eastern
 Golf Channel:US/Eastern
+Golf Digest:US/Eastern
 Good Food (UK):Europe/London
 Gospel Channel (UK):Europe/London
 Great American Country:US/Eastern
