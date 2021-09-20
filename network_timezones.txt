@@ -772,6 +772,7 @@ DiSNEY Junior (UK):Europe/London
 DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
+Dice Media:Asia/Kolkata
 DirecTV Japan:Asia/Tokyo
 Direct-to-video:US/Eastern
 Discovery:US/Eastern
@@ -2608,6 +2609,7 @@ TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
+TV JOJ:Europe/Bratislava
 TV Joj:Europe/Bratislava
 TV Kanagawa:Asia/Tokyo
 TV Kanagawa (JP):Asia/Tokyo
