@@ -2969,6 +2969,7 @@ V télé:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
 VENN:US/Eastern
+VGTV:Europe/Oslo
 VH1:US/Eastern
 VH1 (UK):Europe/London
 VH1 Brasil:America/Sao_Paulo
