@@ -437,6 +437,7 @@ CARTOON NETWORK (AU):Australia/Sydney
 CARTOON NETWORK (UK):Europe/London
 CARTOON NETWORK TOO (UK):Europe/London
 CATHOLICTV (US):US/Eastern
+CAZ:Europe/Brussels
 CBBC:Europe/London
 CBC:Canada/Eastern
 CBC (CA):Canada/Eastern
@@ -2990,6 +2991,7 @@ VRT:Europe/Amsterdam
 VRV:US/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
+VTM 4:Europe/Brussels
 VTV (AU):Australia/Sydney
 VVVVID:Europe/Rome
 Varsity TV:US/Eastern
