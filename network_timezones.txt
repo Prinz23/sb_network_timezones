@@ -1969,6 +1969,8 @@ Planète+ (Canada):Canada/Eastern
 Play More:Europe/Brussels
 Play UK:Europe/London
 Play UK, BBC Choice:Europe/London
+Play4:Europe/Brussels
+Play5:Europe/Brussels
 PlayJam:Europe/London
 PlayPlus:America/Sao_Paulo
 PlayStation Network:US/Eastern
@@ -2992,6 +2994,7 @@ VRV:US/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 VTM 4:Europe/Brussels
+VTM GO:Europe/Brussels
 VTV (AU):Australia/Sydney
 VVVVID:Europe/Rome
 Varsity TV:US/Eastern
