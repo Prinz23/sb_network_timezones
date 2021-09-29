@@ -1133,6 +1133,7 @@ G1:America/Sao_Paulo
 G4:US/Eastern
 G4 Canada:Canada/Eastern
 G4TechTV Canada:Canada/Eastern
+GAC Family:US/Eastern
 GAIN:Europe/Istanbul
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
