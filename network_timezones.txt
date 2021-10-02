@@ -1657,6 +1657,7 @@ Movie Extra (AU):Australia/Sydney
 Movie Extra (Australia):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
+Movistar Series (España):Europe/Madrid
 Movistar+:Europe/Madrid
 Much:Canada/Eastern
 Much (CA):Canada/Eastern
@@ -3076,6 +3077,7 @@ Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
+WarnerTV Comedy (Germany):Europe/Berlin
 Watch:Europe/London
 WatchFrance:Europe/Paris
 Wavve:Asia/Seoul
