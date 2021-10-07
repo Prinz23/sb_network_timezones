@@ -1778,6 +1778,7 @@ National Geographic (AU):Australia/Sydney
 National Geographic (AU/NZ):Australia/Sydney
 National Geographic (BG):Europe/Sofia
 National Geographic (FI):Europe/Helsinki
+National Geographic (NO):Europe/Oslo
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
