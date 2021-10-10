@@ -1399,6 +1399,7 @@ Kakao TV:Asia/Seoul
 KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 Kan:Asia/Jerusalem
+Kan 11:Asia/Jerusalem
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
