@@ -1841,6 +1841,7 @@ Nou 24:Europe/Madrid
 Nou Televisió:Europe/Madrid
 Nova:Europe/Sofia
 Nova BH:Europe/Sarajevo
+Nova S:Europe/Belgrade
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 Novyi Kanal:Europe/Kiev
