@@ -1914,6 +1914,7 @@ PC.MAG.com Network:US/Eastern
 PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
+POPS Worldwide:Asia/Saigon
 PPTV:Asia/Bangkok
 PREMIER (Russia):Europe/Kaliningrad
 PREMIERE MOVIES (AU):Australia/Sydney
@@ -1987,6 +1988,7 @@ Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
 Podcast (All Platforms):US/Eastern
 Podimo:Europe/Copenhagen
+Podium Podcast:Europe/Madrid
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Pop:US/Eastern
