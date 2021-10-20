@@ -80,6 +80,7 @@ ABC Family:US/Eastern
 ABC Kids:Australia/Sydney
 ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
+ABC TV Plus:Australia/Sydney
 ABC iview:Australia/Sydney
 ABC1:Australia/Sydney
 ABC2:Australia/Sydney
@@ -1534,6 +1535,7 @@ MBC Drama (UAE):Asia/Dubai
 MBC Every 1:Asia/Seoul
 MBC Every1:Asia/Seoul
 MBC Masr:Africa/Cairo
+MBC Persia:Asia/Tehran
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
 MBN:Asia/Seoul
