@@ -527,6 +527,7 @@ CTV (TW):Asia/Taipei
 CTV Comedy:Canada/Eastern
 CTV Drama:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
+CTV Life Channel:Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
 CTV Sci-Fi:Canada/Eastern
 CTV Sci-Fi (Space):Canada/Eastern
@@ -2430,6 +2431,7 @@ Sportsman Channel:US/Eastern
 Sportsnet:Canada/Eastern
 Sportsnet 360 (CA):Canada/Eastern
 Sportsnet Ontario (CA):Canada/Eastern
+Spotify:Europe/Stockholm
 Sprout (US):US/Eastern
 Stan:Australia/Sydney
 Star (Latin America):America/Buenos_Aires
