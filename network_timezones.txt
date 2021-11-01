@@ -1994,6 +1994,7 @@ Podimo:Europe/Copenhagen
 Podium Podcast:Europe/Madrid
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
+Polynésie La 1re:Europe/Paris
 Pop:US/Eastern
 Pop Girl (UK):Europe/London
 Pop TV:US/Eastern
