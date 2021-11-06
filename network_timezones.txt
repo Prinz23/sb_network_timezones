@@ -2091,6 +2091,7 @@ RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL XL:Europe/Amsterdam
+RTL+:Europe/Berlin
 RTL2:Europe/Budapest
 RTL9:Europe/Paris
 RTLplus:Europe/Berlin
