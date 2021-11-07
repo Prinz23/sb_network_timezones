@@ -1039,7 +1039,9 @@ Family Gekijou (JP):Asia/Tokyo
 Fantastic TV:Asia/Hong_Kong
 Fashion TV:Europe/Paris
 Feeln:US/Eastern
+Filimo:Asia/Tehran
 Filles TV:Europe/Paris
+FilmNet:Asia/Tehran
 FilmOn.tv:US/Eastern
 Fire Hit TV (UK):Europe/London
 Fitness Channel (UK):Europe/London
@@ -1449,6 +1451,7 @@ L'Équipe 21:Europe/Paris
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
 LCI:Europe/Paris
+LCP:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
 LINE TV (TH):Asia/Bangkok
@@ -2673,6 +2676,7 @@ TV25 (CH):Europe/Zurich
 TV25 (CH) :Europe/Zurich
 TV3:Europe/Stockholm
 TV3 (ES):Europe/Madrid
+TV3 (Estonia):Europe/Tallinn
 TV3 (IE):Europe/Dublin
 TV3 (MY):Asia/Kuala_Lumpur
 TV3 (NO):Europe/Oslo
