@@ -1629,6 +1629,7 @@ Mais na Tela:America/Sao_Paulo
 Mais na tela:America/Sao_Paulo
 Manchester United TV:Europe/London
 Mango TV:Asia/Shanghai
+Manoto TV:Asia/Tehran
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
 MasterClass:US/Eastern
