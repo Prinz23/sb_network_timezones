@@ -412,6 +412,7 @@ Boomerang (DE):Europe/Berlin
 Boomerang (UK):Europe/London
 Bounce:US/Eastern
 Bounce TV:US/Eastern
+Box Brazil Play:America/Sao_Paulo
 BoxNation (UK):Europe/London
 Bravo:US/Eastern
 Bravo (CA):Canada/Eastern
