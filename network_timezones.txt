@@ -1134,6 +1134,7 @@ Fuse:US/Eastern
 Fusion:US/Eastern
 Fusion (US):US/Eastern
 Futura:America/Sao_Paulo
+G-Unit Film and Television:US/Eastern
 G1:America/Sao_Paulo
 G4:US/Eastern
 G4 Canada:Canada/Eastern
