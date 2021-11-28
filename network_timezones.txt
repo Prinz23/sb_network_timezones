@@ -699,6 +699,7 @@ Cottage Life (CA):Canada/Eastern
 Coture:Asia/Taipei
 Couleur 3:Europe/Zurich
 Country Music Television (US):US/Eastern
+Coupang Play:Asia/Seoul
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
