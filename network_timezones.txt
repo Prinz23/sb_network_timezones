@@ -1838,6 +1838,7 @@ Nine network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
 Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
+Nissi Play:America/Sao_Paulo
 Nitro:Europe/Berlin
 NoA:US/Eastern
 Noggin:US/Eastern
