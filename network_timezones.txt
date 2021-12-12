@@ -3192,6 +3192,7 @@ bafta.org (UK):Europe/London
 beIN Connect:Europe/Istanbul
 beIN SPORT (US):US/Eastern
 beIN SPORTS:US/Eastern
+beIN Sports:US/Eastern
 beats per minute television (CA):Canada/Eastern
 biTe (CA):Canada/Eastern
 bio. (AU):Australia/Sydney
