@@ -597,6 +597,7 @@ Ceskoslovenská televize:Europe/Prague
 Challenge:Europe/London
 Channel 10 (IL):Asia/Jerusalem
 Channel 101:US/Eastern
+Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
 Channel 4:Europe/London
@@ -2174,6 +2175,7 @@ RedeTV! (BR):America/Sao_Paulo
 ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
+Reshet:Asia/Jerusalem
 Reshet 13:Asia/Jerusalem
 Retail TV (UK):Europe/London
 Rete 4:Europe/Rome
@@ -2654,6 +2656,7 @@ TV One (US):US/Eastern
 TV Osaka:Asia/Tokyo
 TV Perú:America/Lima
 TV Pública:America/Buenos_Aires
+TV Rá Tim Bum:America/Sao_Paulo
 TV Saitama:Asia/Tokyo
 TV Saitama (JP):Asia/Tokyo
 TV Setouchi (JP):Asia/Tokyo
@@ -2785,6 +2788,7 @@ Tapesh TV (US):US/Eastern
 TeLe-Romántica (US):US/Eastern
 TeLeHiTs (US):US/Eastern
 TeenNick:US/Eastern
+Telad:Asia/Jerusalem
 Tele 5:Europe/Berlin
 Tele Curacao (AN):America/Lower_Princes
 TeleG:Europe/London
