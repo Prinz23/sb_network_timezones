@@ -763,6 +763,7 @@ Dave:Europe/London
 Dawn News:Asia/Karachi
 Daystar (UK):Europe/London
 Deal Channel (UK):Europe/London
+Dekkoo:US/Eastern
 Denver's 7 (US):US/Eastern
 DeporTV:America/Buenos_Aires
 Dept Store (UK):Europe/London
@@ -1622,6 +1623,7 @@ Made in Cardiff (UK):Europe/London
 Made in Leeds (UK):Europe/London
 Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
+MagellanTV:US/Eastern
 MagentaTV:Europe/Berlin
 Magic:Europe/London
 Magnolia Network:US/Eastern
