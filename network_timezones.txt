@@ -390,6 +390,7 @@ Bid Plus (UK):Europe/London
 Big Ten Network (BTN):US/Eastern
 Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
+Binge:Australia/Sydney
 Bio:US/Eastern
 Biography Channel:US/Eastern
 Blackpills:US/Eastern
