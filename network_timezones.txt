@@ -3078,6 +3078,7 @@ W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
 W9:Europe/Paris
 WAPA-TV (US):US/Eastern
+WATCH iT!:Africa/Cairo
 WB (CA):Canada/Eastern
 WBZ-TV (US):US/Eastern
 WCCO Channel 4 (US):US/Eastern
