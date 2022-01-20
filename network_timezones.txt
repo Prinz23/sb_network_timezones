@@ -358,6 +358,7 @@ BS Fuji (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS11:Asia/Tokyo
+BS12:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -2208,6 +2209,7 @@ S4C:Europe/London
 S4C2:Europe/London
 SAB tv (UK):Europe/London
 SABC 1 (ZA):Africa/Johannesburg
+SABC 2:Africa/Johannesburg
 SABC1:Africa/Johannesburg
 SABC2:Africa/Johannesburg
 SABC3:Africa/Johannesburg
@@ -3267,6 +3269,7 @@ gothamgirls.com (US):US/Eastern
 gusto tv (CA):Canada/Eastern
 hTV (US):US/Eastern
 halowaypoint.com (US):US/Eastern
+hassan-lebloc:Europe/Paris
 heartland (US):US/Eastern
 heat (UK):Europe/London
 here!:US/Eastern
