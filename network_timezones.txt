@@ -30,6 +30,7 @@
 3ABN Latino (US):US/Eastern
 3ABN Proclaim! (US):US/Eastern
 3ABN Russia (US):US/Eastern
+3Plus:Asia/Bangkok
 3e:Europe/Dublin
 3e (IE):Europe/Dublin
 3net:US/Eastern
