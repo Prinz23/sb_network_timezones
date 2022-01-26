@@ -861,6 +861,7 @@ DramaH:Asia/Seoul
 DramaX:Asia/Seoul
 DreamWorks Channel:Asia/Bangkok
 DrinkTV:US/Eastern
+Dropout:US/Eastern
 DuMont Television Network:US/Eastern
 Duck TV:Europe/Bratislava
 Duna TV:Europe/Budapest
@@ -2554,6 +2555,7 @@ TET:Europe/Kiev
 TF1:Europe/Paris
 TF1 Séries:Europe/Paris
 TF1 Séries Films:Europe/Paris
+TF6:Europe/Paris
 TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TFX:Europe/Paris
