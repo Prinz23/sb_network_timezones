@@ -502,6 +502,7 @@ CNN:US/Eastern
 CNN (UK):Europe/London
 CNN Brasil:America/Sao_Paulo
 CNN en Español (US):US/Eastern
+CNN+:US/Eastern
 CNNI:US/Eastern
 CNews:Europe/Paris
 COMCAST Sports Net Chicago (US):US/Eastern
