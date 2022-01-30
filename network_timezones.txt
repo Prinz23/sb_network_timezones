@@ -588,6 +588,7 @@ Cartoon Hangover:US/Eastern
 Cartoon Network:US/Eastern
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network (UK):Europe/London
+Cartoon Network Arabic:Asia/Dubai
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network Brasil:America/Sao_Paulo
 Cartoonito:Europe/London
