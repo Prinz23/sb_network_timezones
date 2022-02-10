@@ -2380,6 +2380,7 @@ Sky Comedy:Europe/London
 Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
+Sky History:Europe/London
 Sky Kids:Europe/London
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
