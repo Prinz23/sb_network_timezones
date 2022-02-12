@@ -103,6 +103,7 @@ ACN (US):US/Eastern
 ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
+AIS PLAY:Asia/Bangkok
 AIT International (UK):Europe/London
 ALLBLK:US/Eastern
 ALT Balaji:Asia/Kolkata
@@ -1930,6 +1931,7 @@ P5tv (IE):Europe/Dublin
 PBJ (US):US/Eastern
 PBS:US/Eastern
 PBS AMERICA (UK):Europe/London
+PBS Digital Studios:US/Eastern
 PBS Kids:US/Eastern
 PBS Kids Sprout:US/Eastern
 PC.MAG.com Network:US/Eastern
