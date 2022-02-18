@@ -3122,6 +3122,7 @@ Warner TV:US/Eastern
 WarnerTV Comedy (Germany):Europe/Berlin
 Watch:Europe/London
 WatchFrance:Europe/Paris
+Watcha:Asia/Seoul
 Wavve:Asia/Seoul
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
