@@ -2803,6 +2803,7 @@ TeLe-Romántica (US):US/Eastern
 TeLeHiTs (US):US/Eastern
 TeenNick:US/Eastern
 Telad:Asia/Jerusalem
+Telasa:Asia/Tokyo
 Tele 5:Europe/Berlin
 Tele Curacao (AN):America/Lower_Princes
 TeleG:Europe/London
