@@ -1405,6 +1405,7 @@ KRO:Europe/Amsterdam
 KRO / NCRV:Europe/Amsterdam
 KRO-NCRV:Europe/Amsterdam
 KTLA 5 (US):US/Eastern
+KTMA TV 23:US/Eastern
 KTN:Asia/Karachi
 KTV (JP):Asia/Tokyo
 KVOS:US/Eastern
