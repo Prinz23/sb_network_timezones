@@ -1288,6 +1288,7 @@ Horse & Country TV (UK):Europe/London
 Hotstar:Asia/Kolkata
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
+Hrvatska radiotelevizija (HRT):Europe/Zagreb
 Hulu:US/Eastern
 Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
@@ -1875,6 +1876,7 @@ Numéro 23:Europe/Paris
 OBS Gyeongin TV:Asia/Seoul
 OCN:Canada/Eastern
 OCS:Europe/Paris
+OLL.TV:Europe/Kiev
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
 ON E:Africa/Cairo
@@ -2622,6 +2624,7 @@ TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
 TV 2:Europe/Copenhagen
 TV 2 (DK):Europe/Copenhagen
+TV 2 (NO):Europe/Oslo
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Fri:Europe/Copenhagen
