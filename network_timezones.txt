@@ -3120,6 +3120,7 @@ WTV (AU):Australia/Sydney
 WWE Network:US/Eastern
 WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
+WZTV:Asia/Shanghai
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel:US/Eastern
