@@ -1,1 +1,1 @@
-zoneinfo-2021e.tar.gz a505ef9bedaa7d8a8fed6a6de7464f0c
+zoneinfo-2022a.tar.gz 9cdb97a4a8d6cffd28744e08836f526e
