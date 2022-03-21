@@ -2341,6 +2341,7 @@ SescTV:America/Sao_Paulo
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
+Shahid:Asia/Dubai
 Shahid (UAE):Asia/Dubai
 Shalom TV (US):US/Eastern
 Shandong Television:Asia/Shanghai
