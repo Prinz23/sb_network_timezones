@@ -1643,6 +1643,7 @@ Mainichi Broadcasting System:Asia/Tokyo
 Mais Globosat:America/Sao_Paulo
 Mais na Tela:America/Sao_Paulo
 Mais na tela:America/Sao_Paulo
+Majid:Asia/Dubai
 Manchester United TV:Europe/London
 Mango TV:Asia/Shanghai
 Manoto TV:Asia/Tehran
