@@ -1206,6 +1206,7 @@ Go90:US/Eastern
 GoPlay:Asia/Jakarta
 God Channel (UK):Europe/London
 God's Learning Channel (US):US/Eastern
+Gold:Europe/London
 Golf Channel:US/Eastern
 Golf Digest:US/Eastern
 Good Food (UK):Europe/London
@@ -2166,6 +2167,7 @@ Rai 2:Europe/Rome
 Rai 3:Europe/Rome
 Rai 4:Europe/Rome
 Rai 5:Europe/Rome
+Rai Extra:Europe/Rome
 Rai Gulp:Europe/Rome
 Rai Radiotelevisione Italiana:Europe/Rome
 Rai Uno:Europe/Rome
