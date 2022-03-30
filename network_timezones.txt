@@ -3163,6 +3163,7 @@ YTV (JP):Asia/Tokyo
 YTV (UK):Europe/London
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
+Yesterday:Europe/London
 Yle:Europe/Helsinki
 Yomiuri TV:Asia/Tokyo
 Yomiuri TV (JP):Asia/Tokyo
