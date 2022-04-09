@@ -2543,6 +2543,7 @@ Syndicated (UK):Europe/London
 Syndication:US/Eastern
 Syndication (CA):Canada/Eastern
 Syrian Drama TV:Asia/Damascus
+Séries Plus:Canada/Eastern
 Séries+:Canada/Eastern
 TBD:US/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
@@ -2844,6 +2845,7 @@ Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
 Televisión de Galicia:Europe/Madrid
 Televizija Zagreb:Europe/Zagreb
+Televizioni 7:CET
 Telewizja Polska:Europe/Warsaw
 Tello:US/Eastern
 Tempo Network (US):US/Eastern
