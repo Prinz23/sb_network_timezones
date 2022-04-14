@@ -222,6 +222,7 @@ Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
 Amazon:US/Eastern
 Amazon (Japan):Asia/Tokyo
+Amazon Freevee:US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Video:US/Eastern
 Amedia AS:Europe/Oslo
@@ -418,6 +419,7 @@ Bounce:US/Eastern
 Bounce TV:US/Eastern
 Box Brazil Play:America/Sao_Paulo
 BoxNation (UK):Europe/London
+Brat TV:US/Eastern
 Bravo:US/Eastern
 Bravo (CA):Canada/Eastern
 Bravo (NZ):Pacific/Auckland
@@ -964,6 +966,7 @@ F1TV:US/Eastern
 FEARNet:US/Eastern
 FEARnet:US/Eastern
 FEM:Europe/London
+FIFA+:Europe/Zurich
 FIGHT NETWORK (CA):Canada/Eastern
 FIGHT NOW tv (US):US/Eastern
 FILM 4 (UK):Europe/London
