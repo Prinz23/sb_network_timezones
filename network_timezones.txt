@@ -566,6 +566,7 @@ Canal Cinemundo:Europe/Lisbon
 Canal D:Canada/Eastern
 Canal Famille:Canada/Eastern
 Canal J:Europe/Paris
+Canal Nou:Europe/Madrid
 Canal Off:America/Sao_Paulo
 Canal Once:America/Mexico_City
 Canal Plus:Europe/Paris
