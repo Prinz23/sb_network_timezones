@@ -2024,6 +2024,7 @@ Plug RTL:Europe/Brussels
 Podcast (All Platforms):US/Eastern
 Podimo:Europe/Copenhagen
 Podium Podcast:Europe/Madrid
+Pogo:Asia/Kolkata
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Polynésie La 1re:Europe/Paris
