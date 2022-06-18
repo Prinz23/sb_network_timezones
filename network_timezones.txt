@@ -373,6 +373,7 @@ BabyTV:Europe/London
 BabyTV (UK):Europe/London
 Babytv (US):US/Eastern
 Baiskoafu:Indian/Maldives
+Band:America/Sao_Paulo
 Bandai Channel:Asia/Tokyo
 Bandai Channel (JP):Asia/Tokyo
 Bangla TV (UK):Europe/London
@@ -688,6 +689,7 @@ Comedy Central (Latin America):US/Eastern
 Comedy Central (NL):Europe/Amsterdam
 Comedy Central (UK):Europe/London
 Comedy Central (US):US/Eastern
+Comedy Central Animated:US/Eastern
 Comedy Channel:US/Eastern
 Comedy MOVIES (AU):Australia/Sydney
 Comedy central:US/Eastern
@@ -1055,6 +1057,7 @@ Family Gekijou (JP):Asia/Tokyo
 Fantastic TV:Asia/Hong_Kong
 Fashion TV:Europe/Paris
 Feeln:US/Eastern
+Feliz7Play:America/Sao_Paulo
 Filimo:Asia/Tehran
 Filles TV:Europe/Paris
 FilmNet:Asia/Tehran
@@ -1334,6 +1337,7 @@ ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
 ITVBe:Europe/London
+ITVX:Europe/London
 Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
 Imagen Televisión:America/Mexico_City
@@ -1532,6 +1536,7 @@ Live Well Network:US/Eastern
 Living:Europe/London
 Living Asia Channel (PH):Asia/Manila
 Living Faith TV (US):US/Eastern
+Loading TV:America/Sao_Paulo
 Local 4 (US):US/Eastern
 Logo:US/Eastern
 London Live:Europe/London
@@ -2088,6 +2093,7 @@ REVOLT (US):US/Eastern
 RFD-TV (US):US/Eastern
 RHC (AU):Australia/Sydney
 RIPE TV (US):US/Eastern
+RIT TV:America/Sao_Paulo
 RKK (NL):Europe/Amsterdam
 RLTV:US/Eastern
 RMC Découverte:Europe/Paris
@@ -2185,13 +2191,16 @@ Real Time:Europe/Rome
 Really:Europe/London
 Record:America/Sao_Paulo
 Record News:America/Sao_Paulo
+Record TV:America/Sao_Paulo
 Record TV (UK):Europe/London
+Record TV Europa:Europe/Lisbon
 RecordTV:America/Sao_Paulo
 Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
 Rede Brasil (RBTV):America/Sao_Paulo
 Rede Globo:America/Sao_Paulo
+Rede Gospel:America/Sao_Paulo
 Rede Manchete:America/Sao_Paulo
 Rede Vida:America/Sao_Paulo
 RedeTV!:America/Sao_Paulo
@@ -2659,6 +2668,7 @@ TV Asia (US):US/Eastern
 TV Azteca:America/Mexico_City
 TV Brasil:America/Sao_Paulo
 TV Cabo:Europe/Lisbon
+TV Canção Nova:America/Sao_Paulo
 TV Chile:America/Santiago
 TV Chosun:Asia/Seoul
 TV Cultura:America/Sao_Paulo
@@ -3040,6 +3050,7 @@ VH1 (UK):Europe/London
 VH1 Brasil:America/Sao_Paulo
 VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
+VICE TV (US):US/Eastern
 VIER:Europe/Brussels
 VIJF:Europe/Brussels
 VISION ZOOMER TELEVISION (CA):Canada/Eastern
