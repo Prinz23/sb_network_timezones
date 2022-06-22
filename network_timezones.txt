@@ -2794,6 +2794,7 @@ TVNORGE:Europe/Oslo
 TVNOW:Europe/Berlin
 TVNOW (Germany):Europe/Berlin
 TVNZ:Pacific/Auckland
+TVNZ 1:Pacific/Auckland
 TVNZ 2:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
@@ -2941,6 +2942,7 @@ Travel + Escape:Canada/Eastern
 Travel + Escape (CA):Canada/Eastern
 Travel Channel:US/Eastern
 Travel Channel (UK):Europe/London
+Trece:America/Asuncion
 Treehouse:Canada/Eastern
 Treehouse TV:Canada/Eastern
 Trend E:Asia/Seoul
