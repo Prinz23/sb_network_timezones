@@ -3096,6 +3096,7 @@ VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Vidi Space:US/Eastern
+Vidio:Asia/Jakarta
 Vidol:Asia/Taipei
 VijfTV:Europe/Brussels
 Viki:US/Eastern
