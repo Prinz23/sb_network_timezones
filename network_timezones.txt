@@ -249,6 +249,7 @@ Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
+Apple Podcasts:US/Eastern
 Apple TV+:US/Eastern
 AppleTV+:US/Eastern
 Arabic Channel (US):US/Eastern
@@ -2763,6 +2764,7 @@ TV9:Asia/Kolkata
 TVA:Canada/Eastern
 TVA (JP):Asia/Tokyo
 TVB:Asia/Shanghai
+TVB Jade:Asia/Hong_Kong
 TVB Jade (HK):Asia/Hong_Kong
 TVB Pearl (HK):Asia/Hong_Kong
 TVB Xing He (HK):Asia/Hong_Kong
