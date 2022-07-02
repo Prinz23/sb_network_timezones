@@ -3156,6 +3156,7 @@ Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
+Warner TV Serie:Europe/Berlin
 WarnerTV Comedy (Germany):Europe/Berlin
 Watch:Europe/London
 WatchFrance:Europe/Paris
