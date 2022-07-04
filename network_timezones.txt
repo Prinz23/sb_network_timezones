@@ -2000,6 +2000,7 @@ Peace TV Urdu (UK):Europe/London
 Peace tv (US):US/Eastern
 Peachtree TV (US):US/Eastern
 Peacock:US/Eastern
+Pervyy kanal:Europe/Kaliningrad
 Pets.tv (US):US/Eastern
 Phoenix:Europe/Berlin
 Phoenix TV:Asia/Shanghai
