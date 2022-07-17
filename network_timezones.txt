@@ -1725,6 +1725,7 @@ NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
 NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
 NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
+NAVER TV:Asia/Seoul
 NAVER tvcast:Asia/Seoul
 NBA League Pass (US):US/Eastern
 NBA TV:US/Eastern
@@ -2834,6 +2835,7 @@ Tapesh TV (US):US/Eastern
 TeLe-Romántica (US):US/Eastern
 TeLeHiTs (US):US/Eastern
 TeenNick:US/Eastern
+TeenNick Israel:Asia/Jerusalem
 Telad:Asia/Jerusalem
 Telasa:Asia/Tokyo
 Tele 5:Europe/Berlin
