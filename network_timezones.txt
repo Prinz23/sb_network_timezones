@@ -726,6 +726,7 @@ Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network (Europe):Europe/London
 Crime & Investigation Network (UK):Europe/London
 Crime & Investigation Network (US):US/Eastern
+Crime District:Europe/Luxembourg
 Crunchyroll:US/Eastern
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
