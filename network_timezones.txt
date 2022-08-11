@@ -3286,6 +3286,7 @@ dTV:Asia/Tokyo
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
 de película clásico (US):US/Eastern
+discovery+:US/Eastern
 diva tv (UK):Europe/London
 diy network (CA):Canada/Eastern
 dk4:Europe/Copenhagen
