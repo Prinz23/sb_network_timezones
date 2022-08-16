@@ -411,6 +411,7 @@ BluTV:Europe/Istanbul
 Blue Ridge Communications (US):US/Eastern
 Blue Sky (Greece):Europe/Athens
 Bnn:Canada/Eastern
+Bom Toon:Asia/Seoul
 Bon Appétit:US/Eastern
 Book TELEVISION (CA):Canada/Eastern
 Boomerang:US/Eastern
@@ -890,6 +891,7 @@ EBS:Asia/Seoul
 EBU (EU):CET
 ECC TV (RU):Europe/Kaliningrad
 EICB (US):US/Eastern
+ENA:Asia/Seoul
 ENTV:Africa/Algiers
 EO:Europe/Amsterdam
 EPIC TV:Asia/Kolkata
@@ -1272,6 +1274,7 @@ Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
 Heartland:US/Eastern
+Heavenly:Asia/Seoul
 Hessischer Rundfunk:Europe/Berlin
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
