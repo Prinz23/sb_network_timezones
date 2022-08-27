@@ -3456,6 +3456,7 @@ tvN:Asia/Seoul
 tvb8 (US):US/Eastern
 tvk:Asia/Tokyo
 tvn:Europe/Warsaw
+tvokids:Canada/Eastern
 téva:Europe/Paris
 unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
