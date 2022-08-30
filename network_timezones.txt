@@ -1406,6 +1406,7 @@ KBS 1:Asia/Seoul
 KBS 2:Asia/Seoul
 KBS Joy:Asia/Seoul
 KBS Kyoto:Asia/Seoul
+KBS Story:Asia/Seoul
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
@@ -1687,6 +1688,7 @@ Military Channel:US/Eastern
 Minnesota Channel (US):US/Eastern
 Mnet:Asia/Seoul
 Mnet AMERICA (US):US/Eastern
+Modo Viagem:America/Sao_Paulo
 Moi & Cie:Canada/Eastern
 Mondo TV:Europe/Rome
 MoonTV:Europe/Helsinki
