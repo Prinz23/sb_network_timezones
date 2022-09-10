@@ -3302,6 +3302,7 @@ e.tv:Africa/Johannesburg
 eNCA Africa (UK):Europe/London
 eXPO CHANNEL (AU):Australia/Sydney
 element14:US/Eastern
+eltrece:America/Buenos_Aires
 encore. action (US):US/Eastern
 encore. family (US):US/Eastern
 epix (US):US/Eastern
