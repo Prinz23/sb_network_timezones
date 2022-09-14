@@ -1590,6 +1590,7 @@ MGM (UK):Europe/London
 MGM HD (US):US/Eastern
 MGM Television:US/Eastern
 MGS (AU):Australia/Sydney
+MHz Choice:US/Eastern
 MHz Worldview (US):US/Eastern
 MILITARY HISTORY (US):US/Eastern
 MKTV (US):US/Eastern
@@ -2883,6 +2884,7 @@ Tencent Video:Asia/Shanghai
 Terra Viva:America/Sao_Paulo
 TestTube:US/Eastern
 TevéCiudad:America/Montevideo
+Thairath TV:Asia/Bangkok
 Thames Television:Europe/London
 Thane Direct (UK):Europe/London
 That's Hampshire (UK):Europe/London
@@ -3084,6 +3086,7 @@ VTM:Europe/Brussels
 VTM 4:Europe/Brussels
 VTM GO:Europe/Brussels
 VTV (AU):Australia/Sydney
+VTV3:Asia/Bangkok
 VVVVID:Europe/Rome
 Varsity TV:US/Eastern
 Vault (UK):Europe/London
