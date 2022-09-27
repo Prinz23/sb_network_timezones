@@ -220,6 +220,7 @@ Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
 Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
+Amarin TV:Asia/Bangkok
 Amazon:US/Eastern
 Amazon (Japan):Asia/Tokyo
 Amazon Freevee:US/Eastern
@@ -1209,6 +1210,7 @@ Gem Shopping Network (US):US/Eastern
 Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
 Geo TV:Asia/Karachi
+Gley:Europe/Skopje
 Global:Canada/Eastern
 Global Television Network:Canada/Eastern
 Globo International (AU):Australia/Sydney
@@ -1960,6 +1962,7 @@ PBJ (US):US/Eastern
 PBS:US/Eastern
 PBS AMERICA (UK):Europe/London
 PBS Digital Studios:US/Eastern
+PBS KIDS:US/Eastern
 PBS Kids:US/Eastern
 PBS Kids Sprout:US/Eastern
 PC.MAG.com Network:US/Eastern
