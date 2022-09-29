@@ -1078,6 +1078,7 @@ Five US:Europe/London
 Fix & Foxi:Europe/Berlin
 Flooxer:Europe/Madrid
 FlopTV:Europe/Rome
+Flow:America/Buenos_Aires
 Flow TV (US):US/Eastern
 Flower Ave. Films:US/Eastern
 Food Network:US/Eastern
@@ -1518,6 +1519,7 @@ La5:Europe/Rome
 La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
+Latvijas TelevÄ«zija:
 LeSEA broadcasting network (US):US/Eastern
 Lebanese Broadcasting Corporation International:Asia/Beirut
 LewSpears (Australia):Australia/Sydney
@@ -1592,6 +1594,7 @@ MEGA:America/Santiago
 MGM (UK):Europe/London
 MGM HD (US):US/Eastern
 MGM Television:US/Eastern
+MGM+:US/Eastern
 MGS (AU):Australia/Sydney
 MHz Choice:US/Eastern
 MHz Worldview (US):US/Eastern
