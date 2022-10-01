@@ -1519,7 +1519,7 @@ La5:Europe/Rome
 La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
-Latvijas TelevÄ«zija:
+Latvijas TelevÄ«zija:Europe/Riga
 LeSEA broadcasting network (US):US/Eastern
 Lebanese Broadcasting Corporation International:Asia/Beirut
 LewSpears (Australia):Australia/Sydney
