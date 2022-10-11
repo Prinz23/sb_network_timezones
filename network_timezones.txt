@@ -2354,6 +2354,7 @@ SVTB:Europe/Stockholm
 SWR:Europe/Berlin
 SYFY:US/Eastern
 Sab TV:Asia/Kolkata
+Sabor & Arte:America/Sao_Paulo
 Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
