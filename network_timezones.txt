@@ -1515,6 +1515,7 @@ La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
 La Uno (TVE1):Europe/Madrid
+La chaîne L'Équipe:Europe/Paris
 La5:Europe/Rome
 La7:Europe/Rome
 LaSexta:Europe/Rome
@@ -1686,6 +1687,7 @@ MediaCorp Channel 5:Asia/Singapore
 MediaCorp Channel 8:Asia/Singapore
 MediaCorp Channel U:Asia/Singapore
 Mediaset:Europe/Rome
+Mediaset Infinity:Europe/Rome
 Mega:America/Santiago
 Mega Channel:Europe/Athens
 Mexicanal (US):US/Eastern
