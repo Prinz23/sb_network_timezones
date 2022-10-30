@@ -2331,6 +2331,7 @@ STAR Sports Southeast Asia:Asia/Hong_Kong
 STAR Sports Taiwan:Asia/Taipei
 STAR Vijay:Asia/Kolkata
 START:Europe/Kaliningrad
+STARZ:US/Eastern
 STQ (AU):Australia/Sydney
 STUDIO (AU):Australia/Sydney
 STV:Europe/London
