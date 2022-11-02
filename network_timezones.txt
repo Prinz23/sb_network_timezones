@@ -588,6 +588,7 @@ Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
 Canvas:Europe/Brussels
 Canvas/Ketnet:Europe/Brussels
+Capital Broadcasting Center:Africa/Cairo
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Central:Europe/London
