@@ -236,6 +236,7 @@ América TV:America/Lima
 And TV:Asia/Kolkata
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
+Angel.com:US/Eastern
 Anhui TV:Asia/Shanghai
 Animal Planet:US/Eastern
 Animal Planet (AU):Australia/Sydney
@@ -2155,6 +2156,7 @@ RTL+:Europe/Berlin
 RTL2:Europe/Budapest
 RTL9:Europe/Paris
 RTLplus:Europe/Berlin
+RTLup:Europe/Berlin
 RTM2 (MY):Asia/Kuala_Lumpur
 RTP Açores:Europe/Lisbon
 RTP Internacional:Europe/Lisbon
