@@ -290,6 +290,7 @@ BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
 BBC Choice:Europe/London
+BBC Cymru Wales:Europe/London
 BBC FOUR:Europe/London
 BBC First:Australia/Sydney
 BBC Five:Europe/London
@@ -1404,6 +1405,7 @@ Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting:US/Eastern
 Jupiter Broadcasting :US/Eastern
+K+CINE:Asia/Saigon
 K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
