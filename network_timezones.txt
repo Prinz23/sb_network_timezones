@@ -586,6 +586,7 @@ Canal+:Europe/Paris
 Canal+ (ES):Europe/Madrid
 Canal+ Africa:Africa/Dakar
 Canal+ Cyfrowy:Europe/Warsaw
+Canal+ Polska:Europe/Warsaw
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
 Canvas:Europe/Brussels
