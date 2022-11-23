@@ -480,6 +480,7 @@ CBeebies:Europe/London
 CBeebies (US):US/Eastern
 CC:STUDIOS (US):US/Eastern
 CCN (US):US/Eastern
+CCN TV6:America/Port_of_Spain
 CCTV:Asia/Shanghai
 CCTV News (UK):Europe/London
 CCTV-4 (US):US/Eastern
