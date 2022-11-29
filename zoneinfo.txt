@@ -1,1 +1,1 @@
-zoneinfo-2022f.tar.gz d892ecdacba7087d2fc19a4e6c9df801
+zoneinfo-2022g.tar.gz f3290c8152453b1401c295b0244e69f1
