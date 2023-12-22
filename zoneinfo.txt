@@ -1,1 +1,1 @@
-zoneinfo-2023c.tar.gz c3f7295c228b98f15e4200685b71dedd
+zoneinfo-2023d.tar.gz d2f6fa6263aa11439b1f7220acd8b8f2
