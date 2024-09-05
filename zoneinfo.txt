@@ -1,1 +1,1 @@
-zoneinfo-2024a.tar.gz 527f309440fe6cf614dffab433266341
+zoneinfo-2024b.tar.gz 9adb30283d1bb99df31c10aa3255eb33
