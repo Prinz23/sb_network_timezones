@@ -1,8 +1,10 @@
+ Amazon miniTV:Asia/Kolkata
  JTBC2:Asia/Seoul
 #0:Europe/Madrid
 +Globosat:America/Sao_Paulo
 - None:US/Eastern
 1+1:Europe/Kiev
+1-Sky One:Asia/Bangkok
 10 Bold:Australia/Sydney
 10 Peach:Australia/Sydney
 10 Shake:Australia/Sydney
@@ -12,13 +14,16 @@
 13th Street:Europe/Berlin
 13th Street (NL):Europe/Amsterdam
 13th Street Germany:Europe/Berlin
+13ème Rue:Europe/Paris
 13ème rue:Europe/Paris
+1TV:Asia/Tbilisi
 1UP.com:US/Eastern
 2 (NZ):Pacific/Auckland
 20th Century Fox:US/Eastern
 24:Europe/Istanbul
 24/7 (US):US/Eastern
 2BE:Europe/Brussels
+2DF:Europe/Berlin
 2M:Africa/Casablanca
 2be:Europe/Brussels
 2sTV:Africa/Dakar
@@ -30,6 +35,7 @@
 3ABN Latino (US):US/Eastern
 3ABN Proclaim! (US):US/Eastern
 3ABN Russia (US):US/Eastern
+3Cat:Europe/Madrid
 3Plus:Asia/Bangkok
 3e:Europe/Dublin
 3e (IE):Europe/Dublin
@@ -81,6 +87,7 @@ ABC Family:US/Eastern
 ABC Kids:Australia/Sydney
 ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
+ABC TV (JP):Asia/Tokyo
 ABC TV Plus:Australia/Sydney
 ABC iview:Australia/Sydney
 ABC1:Australia/Sydney
@@ -88,13 +95,17 @@ ABC2:Australia/Sydney
 ABC3:Australia/Sydney
 ABC4Kids:Australia/Sydney
 ABC7 Chicago (US):US/Eastern
+ABCテレビ:Asia/Tokyo
 ABD (AU):Australia/Sydney
 ABN (AU):Australia/Sydney
 ABN (US):US/Eastern
 ABP New (UK):Europe/London
 ABQ (AU):Australia/Sydney
 ABS (AU):Australia/Sydney
+ABS-CBN:Asia/Manila
 ABS-CBN Broadcasting Company:Asia/Manila
+ABS-CBN Broadcasting Corporation:Asia/Manila
+ABS-CBN Corporation:Asia/Manila
 ABT (AU):Australia/Sydney
 ABV (AU):Australia/Sydney
 ABW (AU):Australia/Sydney
@@ -102,6 +113,7 @@ ACBN (US):US/Eastern
 ACN (US):US/Eastern
 ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
+ADtv:Asia/Dubai
 AHC:US/Eastern
 AIS PLAY:Asia/Bangkok
 AIT International (UK):Europe/London
@@ -109,6 +121,7 @@ ALLBLK:US/Eastern
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC:US/Eastern
+AMC Plus:US/Eastern
 AMC+:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 AMGTV (US):US/Eastern
@@ -120,8 +133,11 @@ ANTENNA TV (US):US/Eastern
 AOL:US/Eastern
 AOL (US):US/Eastern
 APTN:Canada/Eastern
+ARD:Europe/Berlin
+ARD alpha:Europe/Berlin
 ARISE News (UK):Europe/London
 ART TV:Europe/Athens
+ART TV Network:Asia/Riyadh
 ARTE:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
@@ -144,6 +160,8 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
+ATRESplayer:Europe/Madrid
+ATRESplayer PREMIUM:Europe/Madrid
 ATRESplayer Premium:Europe/Madrid
 ATV:Europe/Vienna
 ATV (AT):Europe/Vienna
@@ -153,6 +171,7 @@ ATV (DE):Europe/Berlin
 ATV (HK):Asia/Hong_Kong
 ATV (TR):Europe/Istanbul
 ATV Türkiye:Europe/Istanbul
+ATVP:US/Eastern
 AVRO:Europe/Amsterdam
 AVROTROS:Europe/Amsterdam
 AWE (US):US/Eastern
@@ -171,6 +190,7 @@ Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
 Abema TV:Asia/Tokyo
+Aboriginal Peoples Television Network:Canada/Eastern
 Abu Dhabi TV:Asia/Dubai
 Abu Dhabi TV (UK):Europe/London
 Acasă (RO):Europe/Bucharest
@@ -194,6 +214,7 @@ Al Alam:Asia/Tehran
 Al Aoula:Africa/Casablanca
 Al Arabiyya:Asia/Dubai
 Al Badeel:Africa/Tripoli
+Al Hayah:Africa/Cairo
 Al Hidaya Al Libiya:Africa/Tripoli
 Al Jadeed:Asia/Beirut
 Al Jamahiriya TV English:Africa/Tripoli
@@ -207,9 +228,16 @@ Al Mayadeen:Asia/Beirut
 Al Mounawaa:Africa/Tripoli
 Al Nahar:Africa/Cairo
 Al Shababiyah:Africa/Tripoli
+Al Sharqiya Television:Asia/Baghdad
 Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
+AlHayah:Africa/Cairo
+AlSharqiya:Asia/Baghdad
+Alalam TV:Asia/Tehran
+Alhayah Drama:Africa/Cairo
+Alhayah Series TV:Africa/Cairo
 Alibi:Europe/London
+Alkawthar TV:Asia/Tehran
 All 4:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
@@ -220,6 +248,7 @@ Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
 Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
+Alto Broadcasting System - Chronicle Broadcasting Network:Asia/Manila
 Amarin TV:Asia/Bangkok
 Amazon:US/Eastern
 Amazon (Japan):Asia/Tokyo
@@ -252,18 +281,22 @@ Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
 Apple Podcasts:US/Eastern
+Apple TV Plus:US/Eastern
 Apple TV+:US/Eastern
 AppleTV+:US/Eastern
+Arab Radio and Television Network:Asia/Riyadh
 Arabic Channel (US):US/Eastern
 Arena:Australia/Sydney
 Argos TV (UK):Europe/London
 Arirang TV:Asia/Seoul
 Arizona Capitol Television (US):US/Eastern
 Arizona NewsChannel (US):US/Eastern
+Aroutz 2:Asia/Jerusalem
 Arte:Europe/Paris
 Arte Creative:Europe/Paris
 Arte1:America/Sao_Paulo
 Asahi Broadcasting Corporation:Asia/Tokyo
+Asahi Television Broadcasting Corporation:Asia/Tokyo
 Associated Broadcasting Company (PH):Asia/Manila
 Astro Awani:Asia/Kuala_Lumpur
 Astro Citra:Asia/Kuala_Lumpur
@@ -273,6 +306,8 @@ Astro Ria:Asia/Kuala_Lumpur
 Astro Warna:Asia/Kuala_Lumpur
 At the Races (UK):Europe/London
 AtomFilms:US/Eastern
+Atresplayer:Europe/Madrid
+Atresplayer Premium:Europe/Madrid
 Audience:US/Eastern
 Audience Network:US/Eastern
 Australian Broadcasting Corporation:Australia/Sydney
@@ -303,16 +338,24 @@ BBC News:Europe/London
 BBC Northern Ireland:Europe/London
 BBC ONE:Europe/London
 BBC One:Europe/London
+BBC One Cambridgeshire:Europe/London
+BBC One Channel Islands:Europe/Jersey
 BBC One East:Europe/London
 BBC One East Midlands:Europe/London
+BBC One East Yorkshire and Lincolnshire:Europe/London
+BBC One North East:Europe/London
 BBC One North East & Cumbria:Europe/London
 BBC One North West:Europe/London
+BBC One Northern Ireland:Europe/London
 BBC One Oxfordshire:Europe/London
 BBC One Scotland:Europe/London
 BBC One South East:Europe/London
 BBC One South West:Europe/London
+BBC One Wales:Europe/London
 BBC One West:Europe/London
 BBC One West Midlands:Europe/London
+BBC One Yorks & Lincs:Europe/London
+BBC One Yorkshire:Europe/London
 BBC One Yorkshire & Lincolnshire:Europe/London
 BBC Parliament:Europe/London
 BBC Prime:Europe/London
@@ -357,15 +400,19 @@ BOUNCE TV (US):US/Eastern
 BR:Europe/Berlin
 BR-alpha:Europe/Berlin
 BRT:Europe/Istanbul
+BRT1:Europe/Brussels
 BRT2:Europe/Istanbul
 BRTN:Europe/Istanbul
+BRTN TV1:Europe/Brussels
 BRTN TV2:Europe/Brussels
 BS Fuji:Asia/Tokyo
 BS Fuji (JP):Asia/Tokyo
+BS Shochiku Tokyu:Asia/Tokyo
 BS-i:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS11:Asia/Tokyo
 BS12:Asia/Tokyo
+BS12 TwellV:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -402,6 +449,8 @@ Bilibili:Asia/Shanghai
 Binge:Australia/Sydney
 Bio:US/Eastern
 Biography Channel:US/Eastern
+Bis:America/Sao_Paulo
+Black Entertainment Television:US/Eastern
 Blackpills:US/Eastern
 Blaze:Europe/London
 Blim:America/Mexico_City
@@ -457,9 +506,13 @@ CBC:Canada/Eastern
 CBC (CA):Canada/Eastern
 CBC (EG):Africa/Cairo
 CBC (JP):Asia/Tokyo
+CBC Drama:Africa/Cairo
+CBC Egypt:Africa/Cairo
+CBC Extra:Africa/Cairo
 CBC Gem:Canada/Eastern
 CBC News Network:Canada/Eastern
 CBC Newsworld:Canada/Eastern
+CBC Sofra:Africa/Cairo
 CBCnews network (CA):Canada/Eastern
 CBN (AU):Australia/Sydney
 CBS:US/Eastern
@@ -485,9 +538,12 @@ CCTV:Asia/Shanghai
 CCTV News (UK):Europe/London
 CCTV-4 (US):US/Eastern
 CDA:America/Buenos_Aires
+CDT da Anhanguera:America/Sao_Paulo
 CFPL-TV:Canada/Eastern
 CGN TV (US):US/Eastern
 CGV:Asia/Seoul
+CH3:Asia/Bangkok
+CH3 Plus:Asia/Bangkok
 CHCH (CA):Canada/Eastern
 CHCH-TV:Canada/Eastern
 CHELSEA TV (UK):Europe/London
@@ -495,12 +551,15 @@ CHOCO TV:Asia/Taipei
 CI:Australia/Sydney
 CITV:Europe/London
 CLTV (US):US/Eastern
+CMC:Europe/Zagreb
 CMC (AU):Australia/Sydney
+CMC TV:Europe/Zagreb
 CMT:US/Eastern
 CMT (CA):Canada/Eastern
 CMTV:Europe/Lisbon
 CN100 (US):US/Eastern
 CN8:US/Eastern
+CNA:Asia/Singapore
 CNBC:US/Eastern
 CNBC (AU):Australia/Sydney
 CNBC TV18:Asia/Kolkata
@@ -511,6 +570,8 @@ CNL Russian (US):US/Eastern
 CNN:US/Eastern
 CNN (UK):Europe/London
 CNN Brasil:America/Sao_Paulo
+CNN Headline News:US/Eastern
+CNN Plus:US/Eastern
 CNN en Español (US):US/Eastern
 CNN+:US/Eastern
 CNNI:US/Eastern
@@ -549,6 +610,7 @@ CTV Sci-Fi (Space):Canada/Eastern
 CTV Television Network:Canada/Eastern
 CTV two (CA):Canada/Eastern
 CTi TV:Asia/Taipei
+CW:US/Eastern
 CW Seed:US/Eastern
 CWSEED.com (US):US/Eastern
 Cable Public Affairs Channel:Canada/Eastern
@@ -556,9 +618,13 @@ Cable Public Affairs Channel (CA):Canada/Eastern
 Cable TV:Asia/Hong_Kong
 CablePulse24 (CA):Canada/Eastern
 Cablevisión Flow:America/Buenos_Aires
+Cairo Centric:Africa/Cairo
+Cairo and People:Africa/Cairo
 Cambridge Presents (UK):Europe/London
 Canadian Broadcasting Company:Canada/Eastern
+Canadian Broadcasting Corporation:Canada/Eastern
 Canadian Learning Television:Canada/Eastern
+Canal 1:Europe/Lisbon
 Canal 10 (AR):America/Buenos_Aires
 Canal 10 Saeta:America/Montevideo
 Canal 11:Europe/Lisbon
@@ -567,6 +633,10 @@ Canal 13 (AR):America/Buenos_Aires
 Canal 22:America/Mexico_City
 Canal 4 Montecarlo:America/Montevideo
 Canal 5:America/Mexico_City
+Canal 7:America/Buenos_Aires
+Canal 8:Asia/Bangkok
+Canal 8:Europe/Paris
+Canal 9:Europe/Madrid
 Canal 9 (AR):America/Buenos_Aires
 Canal Brasil:America/Sao_Paulo
 Canal Cinemundo:Europe/Lisbon
@@ -576,30 +646,38 @@ Canal J:Europe/Paris
 Canal Nou:Europe/Madrid
 Canal Off:America/Sao_Paulo
 Canal Once:America/Mexico_City
+Canal Panda:Europe/Lisbon
 Canal Plus:Europe/Paris
 Canal Q:Europe/Lisbon
 Canal Sony:America/Sao_Paulo
 Canal Sur:Europe/Madrid
+Canal Trece:America/Buenos_Aires
 Canal Vie:Canada/Eastern
+Canal Z:Canada/Eastern
 Canal de las Estrellas:America/Mexico_City
 Canal de las Estrellas Latinoamerica (US):US/Eastern
 Canal+:Europe/Paris
 Canal+ (ES):Europe/Madrid
 Canal+ Africa:Africa/Dakar
+Canal+ Comédie:Europe/Paris
 Canal+ Cyfrowy:Europe/Warsaw
 Canal+ Polska:Europe/Warsaw
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
 Canvas:Europe/Brussels
 Canvas/Ketnet:Europe/Brussels
+Canção Nova:America/Sao_Paulo
 Capital Broadcasting Center:Africa/Cairo
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Central:Europe/London
+Carlton Independant Television:Europe/London
 Carlton Television:Europe/London
 Carousel:Europe/Kaliningrad
+Carousel International:Europe/Kaliningrad
 Cartoon Hangover:US/Eastern
 Cartoon Network:US/Eastern
+Cartoon Network (BR):America/Sao_Paulo
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network (UK):Europe/London
 Cartoon Network Arabic:Asia/Dubai
@@ -608,9 +686,13 @@ Cartoon Network Brasil:America/Sao_Paulo
 Cartoonito:Europe/London
 Casa:Canada/Eastern
 Caution Zero:US/Eastern
+Cavea Plus:Asia/Tbilisi
+Cavea+:Asia/Tbilisi
 Celebrity Shop (UK):Europe/London
 Centric:US/Eastern
 Centric (US):US/Eastern
+Centro de Televisão da Anhanguera:America/Sao_Paulo
+Centro de Televisão do SBT:America/Sao_Paulo
 Ceska televize:Europe/Prague
 Ceskoslovenská televize:Europe/Prague
 Challenge:Europe/London
@@ -618,6 +700,7 @@ Channel 10 (IL):Asia/Jerusalem
 Channel 101:US/Eastern
 Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
+Channel 2 Iceland:Iceland
 Channel 3:Asia/Bangkok
 Channel 4:Europe/London
 Channel 5:Asia/Singapore
@@ -635,20 +718,34 @@ Channel 9:Asia/Saigon
 Channel 9 (UK):Europe/London
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
+Channel Four:Europe/London
+Channel N:Asia/Seoul
 Channel News Asia:Asia/Singapore
 Channel NewsAsia:Asia/Singapore
+Channel ONE:Asia/Bangkok
 Channel One:Europe/Kaliningrad
 Channel One (Russia):Europe/Kaliningrad
+Channel One 31:Asia/Bangkok
+Channel S:Asia/Seoul
 Channel S (UK):Europe/London
+Channel Seven:Australia/Sydney
 Channel U:Asia/Singapore
 Channel [V]:Asia/Shanghai
 Channel i (UK):Europe/London
+Channel1:Africa/Cairo
+Channel2:Africa/Cairo
+Channel3:Africa/Cairo
 Chaos Computer Club e.V:Europe/Berlin
 Chart Show Dance (UK):Europe/London
 Chart Show TV:Europe/London
 Chat Box (UK):Europe/London
+Chaupal:Asia/Kolkata
+Chaupal Studios:Asia/Kolkata
+Chiba TV:Asia/Tokyo
 Chiba TV (JP):Asia/Tokyo
 Chiba Television Broadcasting:Asia/Tokyo
+Chiba Television Broadcasting Corporation:Asia/Tokyo
+Chiba Terebijon Hōsō Kabushiki-gaisha:Asia/Tokyo
 Chilevisión:America/Santiago
 Chiller:US/Eastern
 Chinese Central Television:Asia/Shanghai
@@ -661,10 +758,14 @@ Chubu-Nippon Broadcasting:Asia/Tokyo
 Chukyo TV (JP):Asia/Tokyo
 Church Channel (US):US/Eastern
 Chérie 25:Europe/Paris
+Chūbu Nippon Hōsō kabushiki gaisha:Asia/Tokyo
 Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
+CineBrasil TV:America/Sao_Paulo
 CineMax:US/Eastern
 Cinelatino (US):US/Eastern
+Cinema Heaven:Asia/Seoul
+Cinema One:Asia/Manila
 Cinemax:US/Eastern
 Citv (UK):Europe/London
 City:Canada/Eastern
@@ -690,6 +791,7 @@ Comcast hometown network (US):US/Eastern
 Comcast/Charter Sports Southeast (US):US/Eastern
 Comedy (CA):Canada/Eastern
 Comedy Central:US/Eastern
+Comedy Central (BR):America/Sao_Paulo
 Comedy Central (DE):Europe/Berlin
 Comedy Central (ES):Europe/Madrid
 Comedy Central (FR):Europe/Paris
@@ -705,20 +807,24 @@ Comedy.tv (US):US/Eastern
 Comic-Con HQ:US/Eastern
 Commercial Television:Asia/Hong_Kong
 Community Channel:Europe/London
+Complexo Anhanguera:America/Sao_Paulo
 Comédie !:Europe/Paris
 Comédie+:Europe/Paris
 Conmebol TV:America/Sao_Paulo
+Cont.ar:America/Buenos_Aires
 Contar:America/Buenos_Aires
 Controversial TV (UK):Europe/London
 Cooking Channel:US/Eastern
 Coptic TV (US):US/Eastern
 Cornerstone Television (US):US/Eastern
+Corporació Valenciana de Mitjans de Comunicació:Europe/Madrid
 Corus Entertainment:Canada/Eastern
 Cosmopolitan TV:America/Buenos_Aires
 Cottage Life:Canada/Eastern
 Cottage Life (CA):Canada/Eastern
 Coture:Asia/Taipei
 Couleur 3:Europe/Zurich
+Country Music Television:US/Eastern
 Country Music Television (US):US/Eastern
 Coupang Play:Asia/Seoul
 Court TV:US/Eastern
@@ -734,6 +840,7 @@ Crime & Investigation Network (Europe):Europe/London
 Crime & Investigation Network (UK):Europe/London
 Crime & Investigation Network (US):US/Eastern
 Crime District:Europe/Luxembourg
+Croatian Music Channel:Europe/Zagreb
 Crunchyroll:US/Eastern
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
@@ -757,7 +864,9 @@ DMAX (DE):Europe/Berlin
 DMAX (IT):Europe/Rome
 DMAX (UK):Europe/London
 DMC:Africa/Cairo
+DMM TV:Asia/Tokyo
 DR K:Europe/Copenhagen
+DR P3:Europe/Copenhagen
 DR Ramasjang:Europe/Copenhagen
 DR Ultra:Europe/Copenhagen
 DR1:Europe/Copenhagen
@@ -766,12 +875,16 @@ DR3:Europe/Copenhagen
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
 DROPOUT:US/Eastern
+DRS:Europe/Zurich
 DSF:Europe/Berlin
+DSNP:US/Eastern
 DTD (AU):Australia/Sydney
 DTOUR (CA):Canada/Eastern
 DUSK (CA):Canada/Eastern
 DW (Arabia):Europe/Berlin
 DaAi TV:Asia/Taipei
+Daily Wire Plus:US/Eastern
+DailyWire+:US/Eastern
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Danmarks Radio:Europe/Copenhagen
@@ -802,8 +915,10 @@ DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 Dice Media:Asia/Kolkata
 DirecTV Japan:Asia/Tokyo
+Direct 8:Europe/Paris
 Direct-to-video:US/Eastern
 Discovery:US/Eastern
+Discovery (BR):America/Sao_Paulo
 Discovery (NL):Europe/Amsterdam
 Discovery (US):US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
@@ -812,6 +927,7 @@ Discovery Canada:Canada/Eastern
 Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
+Discovery Channel (BR):America/Sao_Paulo
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
 Discovery Channel (PL):Europe/Warsaw
@@ -827,6 +943,7 @@ Discovery HISTORY (UK):Europe/London
 Discovery Health:Europe/London
 Discovery Health Channel:Europe/London
 Discovery History:Europe/London
+Discovery Home & Health (BR):America/Sao_Paulo
 Discovery Kids:US/Eastern
 Discovery Life:US/Eastern
 Discovery MAX:Europe/Madrid
@@ -845,30 +962,43 @@ Discovery turbo MAX (AU):Australia/Sydney
 Discovery+:US/Eastern
 Discovery+ (NO):Europe/Oslo
 Discovery+ (SE):Europe/Stockholm
+Discovery+ Sweden:Europe/Stockholm
 Dish TV:US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (BR):America/Sao_Paulo
 Disney Channel (DE):Europe/Berlin
 Disney Channel (FR):Europe/Paris
 Disney Channel (Germany):Europe/Berlin
+Disney Channel (IN):Asia/Kolkata
 Disney Channel (IT):Europe/Rome
+Disney Channel (LA):America/Buenos_Aires
 Disney Channel (Latin America):America/Buenos_Aires
 Disney Channel (NL):Europe/Amsterdam
 Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
+Disney Channel América Latina:America/Buenos_Aires
+Disney Channel Brasil:America/Sao_Paulo
+Disney Channel Brazil:America/Sao_Paulo
+Disney Channel India:Asia/Kolkata
+Disney Channel Latin America:America/Buenos_Aires
+Disney Channel Latinoamérica:America/Buenos_Aires
 Disney Cinemagic:Europe/London
+Disney Jr.:US/Eastern
 Disney Junior:US/Eastern
 Disney Junior (CA):Canada/Eastern
 Disney Junior (UK):Europe/London
+Disney Plus:US/Eastern
 Disney XD:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
 Disney+:US/Eastern
 Disney+ Hotstar:Asia/Kolkata
+Disney+ Star:US/Eastern
 DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
 Dmax:Europe/Berlin
+Doc TV:Asia/Tehran
 Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
 Doordarshan Sports:Asia/Kolkata
@@ -877,6 +1007,18 @@ Draemong:Asia/Seoul
 Dragon TV:Asia/Shanghai
 DramaH:Asia/Seoul
 DramaX:Asia/Seoul
+Dramax:Asia/Seoul
+Dream:Africa/Cairo
+Dream 1:Africa/Cairo
+Dream 2:Africa/Cairo
+Dream 2+:Africa/Cairo
+Dream 3:Africa/Cairo
+Dream 4:Africa/Cairo
+Dream Aflam (Concept):Africa/Cairo
+Dream Aisslam (Concept):Africa/Cairo
+Dream Drama:Africa/Cairo
+Dream Kids (Concept):Africa/Cairo
+Dream TV Egypt:Africa/Cairo
 DreamWorks Channel:Asia/Bangkok
 DrinkTV:US/Eastern
 Dropout:US/Eastern
@@ -885,18 +1027,23 @@ Duck TV:Europe/Bratislava
 Duna TV:Europe/Budapest
 E!:US/Eastern
 E! (AU):Australia/Sydney
+E! (BR):America/Sao_Paulo
 E! (CA):Canada/Eastern
 E! (UK):Europe/London
 E! Canada:Canada/Eastern
+E! Entertainment:US/Eastern
 E-Channel:Asia/Seoul
 E.tv (ZA):Africa/Johannesburg
 E4:Europe/London
 E4 (IE):Europe/Dublin
 E4 (UK):Europe/London
+EBC:Asia/Taipei
 EBS:Asia/Seoul
+EBU:Europe/Zurich
 EBU (EU):CET
 ECC TV (RU):Europe/Kaliningrad
 EICB (US):US/Eastern
+EKSEN:Europe/Istanbul
 ENA:Asia/Seoul
 ENTV:Africa/Algiers
 EO:Europe/Amsterdam
@@ -917,6 +1064,7 @@ ESPN Game Plan (US):US/Eastern
 ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
+ESPN Plus:US/Eastern
 ESPN Taiwan:Asia/Taipei
 ESPN+:US/Eastern
 ESPN2:Australia/Sydney
@@ -926,6 +1074,8 @@ ESPNU (US):US/Eastern
 ETB-2:Europe/Madrid
 ETB1:Europe/Madrid
 ETB2:Europe/Madrid
+ETC:Africa/Cairo
+ETN:Africa/Cairo
 ETTV:Asia/Taipei
 ETTV Yoyo:Asia/Taipei
 ETV:Europe/Tallinn
@@ -935,18 +1085,35 @@ EUROSPORT (AU):Australia/Sydney
 EWTN TV (UK):Europe/London
 EXXEN:Europe/Istanbul
 Earwolf Podcast Network:US/Eastern
+Eastern Broadcasting Company:Asia/Taipei
+Eastern Television:Asia/Taipei
 EbonyLife TV:Africa/Lagos
 Echorouk TV:Africa/Algiers
 Eden:Europe/London
 Educational Broadcasting System:Asia/Seoul
+Eesti Televisioon:Europe/Tallinn
+Egyptian First Channel (El Oula):Africa/Cairo
+Egyptian Second Channel (El Thaniya):Africa/Cairo
+Egyptian TV:Africa/Cairo
+Egyptian Television Network:Africa/Cairo
 EinsExtra (DE):Europe/Berlin
 EinsPlus:Europe/Berlin
 Einsfestival:Europe/Berlin
 El Djazairia One:Africa/Algiers
 El Garage TV:America/Buenos_Aires
+El Hayah:Africa/Cairo
 El Khabar Broadcasting Company (KBC):Africa/Algiers
+El Mahrousa TV Network:Africa/Cairo
+El Mehwar:Africa/Cairo
+El Nahar:Africa/Cairo
+El Nahar Drama:Africa/Cairo
+El Nahar El Youm:Africa/Cairo
+El Nahar One:Africa/Cairo
+El Nueve:America/Buenos_Aires
+El Qahera Wel Nas:Africa/Cairo
 El Rey:US/Eastern
 El Rey Network:US/Eastern
+El Shams:Africa/Cairo
 El Trece:America/Buenos_Aires
 Eleven:Australia/Sydney
 Eleven (AU):Australia/Sydney
@@ -967,6 +1134,7 @@ Esquire Network:US/Eastern
 Estação Cultura da TVE:America/Sao_Paulo
 Estrella TV:US/Eastern
 Estuary TV (UK):Europe/London
+Estudios TeleMéxico:America/Bogota
 Eternal Word Television Network (US):US/Eastern
 EuroWorld Sport (CA):Canada/Eastern
 European Broadcasting Union (EBU):Europe/Zurich
@@ -990,6 +1158,7 @@ FLIX (US):US/Eastern
 FMC (AU):Australia/Sydney
 FOD:Asia/Tokyo
 FORO tv (US):US/Eastern
+FOUR:Pacific/Auckland
 FOUR (NZ):Pacific/Auckland
 FOX:US/Eastern
 FOX (FI):Europe/Helsinki
@@ -1042,9 +1211,13 @@ FOX Traveller:Asia/Kolkata
 FOX Türkiye:Europe/Istanbul
 FOX Türkiye (TR):Europe/Istanbul
 FOX+:America/Buenos_Aires
+FR3:Europe/Paris
 FRANCE24 (US):US/Eastern
+FS1:US/Eastern
+FS2:US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
+FTV Prima:Europe/Prague
 FUEL TV (AU):Australia/Sydney
 FUNimation Channel:US/Eastern
 FX:US/Eastern
@@ -1067,6 +1240,7 @@ Family Friendly Entertainment (US):US/Eastern
 Family Gekijo:Asia/Tokyo
 Family Gekijou (JP):Asia/Tokyo
 Fantastic TV:Asia/Hong_Kong
+Farsi1:Asia/Dubai
 Fashion TV:Europe/Paris
 Feeln:US/Eastern
 Feliz7Play:America/Sao_Paulo
@@ -1075,8 +1249,11 @@ Filles TV:Europe/Paris
 FilmNet:Asia/Tehran
 FilmOn.tv:US/Eastern
 Fire Hit TV (UK):Europe/London
+First Choice:Canada/Eastern
+First Choice Superchannel:Canada/Eastern
 Fitness Channel (UK):Europe/London
 Five:Europe/London
+Five (2002-2011):Europe/London
 Five Channel:Europe/London
 Five Life:Europe/London
 Five US:Europe/London
@@ -1091,6 +1268,8 @@ Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
 Food Network Kitchen:US/Eastern
 Forever Dog:US/Eastern
+Forever Dog Podcast Network:US/Eastern
+Formula:Asia/Tbilisi
 Formula 1 TV:US/Eastern
 Formula 1 TV (USA):US/Eastern
 Fox:Europe/Rome
@@ -1108,6 +1287,7 @@ Fox 8 (NL):Europe/Amsterdam
 Fox Action (Brazil):America/Sao_Paulo
 Fox Action (Latin America):America/Buenos_Aires
 Fox Action Movies:Asia/Shanghai
+Fox Broadcasting Company:US/Eastern
 Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
 Fox Channel (BR):America/Sao_Paulo
@@ -1142,24 +1322,33 @@ Fox Sports (AU):Australia/Sydney
 Fox Sports 1:US/Eastern
 Fox Sports 2:US/Eastern
 Fox Sports Net:US/Eastern
+Fox TeleColombia:America/Bogota
 Fox Telecolombia:America/Bogota
 Fox8:Australia/Sydney
 Foxsports:US/Eastern
 Foxtel Arts:Australia/Sydney
 France 2:Europe/Paris
+France 24:Europe/Paris
 France 24 (UK):Europe/London
 France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 France Inter:Europe/Paris
+France tv Slash:Europe/Paris
+France tv slash:Europe/Paris
 France Ô:Europe/Paris
+France.tv Slash:Europe/Paris
+France.tvslash:Europe/Paris
 Fred TV:US/Eastern
+Freedive:US/Eastern
 Freeform:US/Eastern
+Freevee:US/Eastern
 Fremantle:Europe/London
 Frissons TV:Canada/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
+Fuji TV on demand:Asia/Tokyo
 Fullscreen:US/Eastern
 Fuse:US/Eastern
 Fusion:US/Eastern
@@ -1183,6 +1372,7 @@ GMA:Asia/Manila
 GMA Network:Asia/Manila
 GMC TV:US/Eastern
 GMM One:Asia/Bangkok
+GMM Z Hitz:Asia/Bangkok
 GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
@@ -1192,13 +1382,16 @@ GOLD (UK):Europe/London
 GOLD2 (AU):Australia/Sydney
 GOLF CHANNEL (US):US/Eastern
 GOLTV (US):US/Eastern
+GPB:Asia/Tbilisi
 GSN:US/Eastern
 GTS (AU):Australia/Sydney
 GTV:Asia/Taipei
 GTV (AU):Australia/Sydney
+GTV戲劇台:Asia/Taipei
 GWN7 (AU):Australia/Sydney
 GYAO!:Asia/Tokyo
 GZBN:Asia/Shanghai
+GagaOOLala:Asia/Taipei
 Gaia:US/Eastern
 Gaiam TV:US/Eastern
 Gaiam TV :US/Eastern
@@ -1216,8 +1409,10 @@ Gem Shopping Network (US):US/Eastern
 Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
 Geo TV:Asia/Karachi
+Georgian Public Broadcaster:Asia/Tbilisi
 Gley:Europe/Skopje
 Global:Canada/Eastern
+Global TV:Canada/Eastern
 Global Television Network:Canada/Eastern
 Globo International (AU):Australia/Sydney
 GloboNews:America/Sao_Paulo
@@ -1233,8 +1428,13 @@ Golf Channel:US/Eastern
 Golf Digest:US/Eastern
 Good Food (UK):Europe/London
 Gospel Channel (UK):Europe/London
+Gospel Music Channel:US/Eastern
 Great American Country:US/Eastern
+Great Courses:US/Eastern
 Greatest Hits (UK):Europe/London
+Grupo Televisa:America/Mexico_City
+Gshow:America/Sao_Paulo
+Guangzhou Broadcasting Network:Asia/Shanghai
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
 H2:US/Eastern
@@ -1242,8 +1442,10 @@ H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 HBO:US/Eastern
 HBO Asia:Asia/Singapore
+HBO Brazil:America/Sao_Paulo
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
+HBO Espana:Europe/Madrid
 HBO España:Europe/Madrid
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
@@ -1252,8 +1454,11 @@ HBO Magyarország:Europe/Budapest
 HBO Max:US/Eastern
 HBO Nordic:Europe/Stockholm
 HBO Signature (US):US/Eastern
+HBO Spain:Europe/Madrid
 HBO2 (US):US/Eastern
 HDNet:US/Eastern
+HDOne:Asia/Seoul
+HEI:US/Eastern
 HEI Network:US/Eastern
 HGTV:US/Eastern
 HGTV (UK):Europe/London
@@ -1270,6 +1475,7 @@ HRT2 (HR):Europe/Zagreb
 HRTV (US):US/Eastern
 HSN (US):US/Eastern
 HSV (AU):Australia/Sydney
+HTV Wales:Europe/London
 HUMAN:Europe/Amsterdam
 HUMAN (NL):Europe/Amsterdam
 Hakka TV:Asia/Taipei
@@ -1277,8 +1483,14 @@ Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:US/Eastern
 Hallmark Movies Now:US/Eastern
+Hallmark Mystery:US/Eastern
+Hallmark Plus:US/Eastern
+Hallmark+:US/Eastern
 Hami Video:Asia/Taipei
+HamiVideo:Asia/Taipei
+Harlech Television:Europe/London
 Harmony Channel (US):US/Eastern
+Headline News:US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
@@ -1290,6 +1502,7 @@ Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
 Histoire:Europe/Paris
+Histoire TV:Europe/Paris
 Historia:Europe/Madrid
 Historia (CA):Canada/Eastern
 Historia (ES):Europe/Madrid
@@ -1298,6 +1511,7 @@ History (CA):Canada/Eastern
 History (UK):Europe/London
 History Canada:Canada/Eastern
 History Channel (UK):Europe/London
+History Hit:Europe/London
 History International:US/Eastern
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
@@ -1305,7 +1519,9 @@ Hoichoi:Asia/Kolkata
 Hokkaido Television Broadcasting:Asia/Tokyo
 Holiday & Cruise (UK):Europe/London
 Home & Garden Television:US/Eastern
+Home Box Office:US/Eastern
 Home Team Networks (US):US/Eastern
+HonorClub:US/Eastern
 Hope CHANNEL (US):US/Eastern
 Hope Church Channel (US):US/Eastern
 Horror Channel (UK):Europe/London
@@ -1318,12 +1534,15 @@ Hulu:US/Eastern
 Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
 Hungama:Asia/Kolkata
+Hya TV:Africa/Cairo
 Hír TV:Europe/Budapest
 IB3:Europe/Madrid
 IBC (PH):Asia/Manila
 ICE TV:Indian/Maldives
+ICI ARTV:Canada/Eastern
 ICI Explora:Canada/Eastern
 ICI RADIO-CANADA TÉLÉ:Canada/Eastern
+ICI Radio-Canada Télé:Canada/Eastern
 ICI TOU.TV:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICI Télé:Canada/Eastern
@@ -1337,7 +1556,16 @@ IMPACT Plus:US/Eastern
 INSP:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
+IRIB:Asia/Tehran
+IRIB Mostanad:Asia/Tehran
+IRIB News:Asia/Tehran
 IRIB TV1:Asia/Tehran
+IRIB TV2:Asia/Tehran
+IRIB TV3:Asia/Tehran
+IRIB TV4:Asia/Tehran
+IRIB TV5:Asia/Tehran
+IRIB TV7:Asia/Tehran
+IRINN:Asia/Tehran
 ITV:Europe/London
 ITV 1:Europe/London
 ITV Central:Europe/London
@@ -1358,6 +1586,7 @@ Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
 Imagen Televisión:America/Mexico_City
 Imago TV:Europe/Paris
+Imedi TV:Asia/Tbilisi
 Impact TV (US):US/Eastern
 Imparja (AU):Australia/Sydney
 Independent Film Channel:US/Eastern
@@ -1380,27 +1609,37 @@ Ion Television:US/Eastern
 Islam Channel (UK):Europe/London
 Italia 1:Europe/Rome
 Itv:Europe/London
+J-One:Europe/Paris
 J:COMテレビ:Asia/Tokyo
 JIM:Europe/Helsinki
 JLTV (US):US/Eastern
 JML Direct (UK):Europe/London
 JML Living (UK):Europe/London
+JOAX-DTV:Asia/Tokyo
 JOJ:Europe/Bratislava
+JTBC:Asia/Seoul
 JTBC2:Asia/Seoul
 JUCE TV (US):US/Eastern
 JUS ONE (US):US/Eastern
 JUS PUNJABI (US):US/Eastern
 JUSTICE CENTRAL (US):US/Eastern
 JW.org:US/Eastern
+Jade:Asia/Hong_Kong
 Jak-TV (ID):Asia/Jakarta
+Jawwy TV:Asia/Riyadh
+Jednotka:Europe/Bratislava
+Jedynka:Europe/Warsaw
+Jedynka TVP:Europe/Warsaw
 Jetix (NL):Europe/Amsterdam
 Jeuxvideo.com:Europe/Paris
 Jewellery Channel (UK):Europe/London
 Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
+JioCinema:Asia/Kolkata
 Joi:Europe/Rome
 Joiz (CH):Europe/Zurich
 Joiz (DE):Europe/Berlin
+Joongang Tongyang Broadcasting Company:Asia/Seoul
 Jovem Pan News:America/Sao_Paulo
 Joyn:Europe/Berlin
 Joyn (Germany):Europe/Berlin
@@ -1420,7 +1659,10 @@ KBS Story:Asia/Seoul
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
+KBS1 TV:Asia/Seoul
+KBS2 TV:Asia/Seoul
 KCET:US/Eastern
+KCTV:Asia/Pyongyang
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
 KING-TV (US):US/Eastern
@@ -1448,6 +1690,7 @@ KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 Kan:Asia/Jerusalem
 Kan 11:Asia/Jerusalem
+Kan H̠inukhit:Asia/Jerusalem
 Kan Kids:Asia/Jerusalem
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
@@ -1464,6 +1707,7 @@ Kanal D Romania:Europe/Bucharest
 Kansai TV:Asia/Tokyo
 Kapamilya Channel:Asia/Manila
 Kapamilya Network:Asia/Manila
+Karusel:Europe/Kaliningrad
 Kashish TV:Asia/Karachi
 Kawish Television Network:Asia/Karachi
 Kenya Television Network:Asia/Karachi
@@ -1482,6 +1726,7 @@ Kix (UK):Europe/London
 Klear TV (UK):Europe/London
 Knowledge Network:Canada/Eastern
 Koldcast.tv (US):US/Eastern
+Korean Broadcasting System:Asia/Seoul
 Korean Central Television:Asia/Pyongyang
 Korean Channel (US):US/Eastern
 Korean_Broadcasting_System:Asia/Seoul
@@ -1492,12 +1737,16 @@ Kyushu Asahi Broadcasting (KBC):Asia/Tokyo
 L Équipe 21:Europe/Paris
 L!VETV (UK):Europe/London
 L'Équipe 21:Europe/Paris
+L'Équipe TV:Europe/Paris
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
 LCI:Europe/Paris
 LCP:Europe/Paris
+LCP - Assemblée nationale:Europe/Paris
+LCP-AN:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
+LG U+:Asia/Seoul
 LINE TV (TH):Asia/Bangkok
 LLBN Arabic (US):US/Eastern
 LLBN Chinese (US):US/Eastern
@@ -1512,23 +1761,38 @@ LONDON LIVE (UK):Europe/London
 LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
 LRS (AU):Australia/Sydney
+LRT TV:Europe/Vilnius
+LRT televizija:Europe/Vilnius
+LTV:Europe/Riga
+LTV 1:Europe/Vilnius
+La 1:Europe/Madrid
+La 2:Europe/Madrid
 La 2 (TVE2):Europe/Madrid
+La Chaîne Histoire:Europe/Paris
 La Cinq:Europe/Paris
 La Deux:Europe/Brussels
+La Dos:Europe/Madrid
 La Familia Cosmovision (US):US/Eastern
 La Red:America/Santiago
+La Sexta:Europe/Madrid
 La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
+La Uno:Europe/Madrid
 La Uno (TVE1):Europe/Madrid
 La chaîne L'Équipe:Europe/Paris
+La chaîne parlementaire:Europe/Paris
 La5:Europe/Rome
 La7:Europe/Rome
 LaSexta:Europe/Rome
+Laftel:Asia/Seoul
+Las Estrellas:America/Mexico_City
 Latest TV (UK):Europe/London
 Latvijas TelevÄ«zija:Europe/Riga
+Latvijas Televīzija:Europe/Riga
 LeSEA broadcasting network (US):US/Eastern
 Lebanese Broadcasting Corporation International:Asia/Beirut
+Lemino:Asia/Tokyo
 LewSpears (Australia):Australia/Sydney
 Liberty Channel:US/Eastern
 Liberty TV:Europe/London
@@ -1559,6 +1823,9 @@ Living Faith TV (US):US/Eastern
 Loading TV:America/Sao_Paulo
 Local 4 (US):US/Eastern
 Logo:US/Eastern
+Logo TV:US/Eastern
+Logo.:US/Eastern
+LogoTV:US/Eastern
 London Live:Europe/London
 London Weekend Television:Europe/London
 London Weekend Television (LWT):Europe/London
@@ -1571,6 +1838,8 @@ M1 (RU):Europe/Kaliningrad
 M10 TV (AU):Australia/Sydney
 M3 (CA):Canada/Eastern
 M6:Europe/Paris
+M6 Replay:Europe/Paris
+M6+:Europe/Paris
 MAD World (AU):Australia/Sydney
 MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
@@ -1579,17 +1848,34 @@ MAX:Europe/Oslo
 MAX (NL):Europe/Amsterdam
 MBC:Asia/Seoul
 MBC 1:Asia/Dubai
+MBC 2:Asia/Riyadh
 MBC 2 (UAE):Asia/Dubai
+MBC 3:Asia/Riyadh
 MBC 3 (UAE):Asia/Dubai
+MBC 4:Asia/Riyadh
 MBC 4 (UAE):Asia/Dubai
+MBC 5:Asia/Riyadh
+MBC Action:Asia/Riyadh
+MBC Bollywood:Asia/Riyadh
 MBC Drama:Asia/Seoul
 MBC Drama (UAE):Asia/Dubai
+MBC Drama +:Asia/Riyadh
+MBC Dramanet:Asia/Seoul
+MBC Egypt:Asia/Riyadh
 MBC Every 1:Asia/Seoul
 MBC Every1:Asia/Seoul
+MBC Iraq:Asia/Riyadh
+MBC MISR 2:Asia/Riyadh
 MBC Masr:Africa/Cairo
+MBC Masr 2:Asia/Riyadh
+MBC Misr:Asia/Riyadh
+MBC ON:Asia/Seoul
 MBC Persia:Asia/Tehran
+MBC Plus:Asia/Seoul
 MBC Plus Media:Asia/Seoul
+MBC QueeN:Asia/Seoul
 MBC Queen:Asia/Seoul
+MBC every1:Asia/Seoul
 MBN:Asia/Seoul
 MBS:Asia/Tokyo
 MCE TV (Ma Chaîne Étudiante):Europe/Paris
@@ -1611,6 +1897,8 @@ MLB EXTRA INNINGS (US):US/Eastern
 MLB NETWORK (US):US/Eastern
 MLB Network:US/Eastern
 MLS DIRECT KICK (US):US/Eastern
+MNC TV:Asia/Jakarta
+MNCTV:Asia/Jakarta
 MNN:US/Eastern
 MOJO (US):US/Eastern
 MOVIE CHANNEL (US):US/Eastern
@@ -1659,6 +1947,7 @@ MTV3:Europe/Helsinki
 MUNDOFOX (US):US/Eastern
 MUTV:Europe/London
 MX:Asia/Kolkata
+MX Player:Asia/Kolkata
 MYXTV (US):US/Eastern
 Madani Channel (UK):Europe/London
 Madd - Entertainment:Europe/Istanbul
@@ -1678,17 +1967,24 @@ Mais Globosat:America/Sao_Paulo
 Mais na Tela:America/Sao_Paulo
 Mais na tela:America/Sao_Paulo
 Majid:Asia/Dubai
+Mak TV:Europe/Athens
+Makedonia TV:Europe/Athens
 Manchester United TV:Europe/London
 Mango TV:Asia/Shanghai
 Manoto TV:Asia/Tehran
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
+Maspero:Africa/Cairo
 MasterClass:US/Eastern
 MavTV:US/Eastern
+Max:Europe/Oslo
+Max:US/Eastern
 Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
 MeVue (USA):US/Eastern
+Means TV:US/Eastern
+Media Nusantara Citra Televisi:Asia/Jakarta
 MediaCorp Channel 5:Asia/Singapore
 MediaCorp Channel 8:Asia/Singapore
 MediaCorp Channel U:Asia/Singapore
@@ -1696,11 +1992,13 @@ Mediaset:Europe/Rome
 Mediaset Infinity:Europe/Rome
 Mega:America/Santiago
 Mega Channel:Europe/Athens
+Mehwar:Africa/Cairo
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Midlands Asian Television:Europe/London
 Military Channel:US/Eastern
 Minnesota Channel (US):US/Eastern
+Mitteldeutscher Rundfunk:Europe/Berlin
 Mnet:Asia/Seoul
 Mnet AMERICA (US):US/Eastern
 Modo Viagem:America/Sao_Paulo
@@ -1719,8 +2017,13 @@ Movie Extra (AU):Australia/Sydney
 Movie Extra (Australia):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
+Movistar Play:America/Santiago
 Movistar Series (España):Europe/Madrid
+Movistar TV:America/Santiago
+Movistar TV App:America/Santiago
 Movistar+:Europe/Madrid
+Mtavari Arkhi:Asia/Tbilisi
+Mtavari Channel:Asia/Tbilisi
 Much:Canada/Eastern
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
@@ -1734,12 +2037,16 @@ MundoVision (US):US/Eastern
 Munhwa Broadcasting Corporation:Asia/Seoul
 MusiquePlus:Canada/Eastern
 Mustard TV (UK):Europe/London
+Mx Player:Asia/Kolkata
+Mx Player App:Asia/Kolkata
+MxPlayer:Asia/Kolkata
 My Channel (UK):Europe/London
 My family tv (US):US/Eastern
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
 MyTF1:Europe/Paris
 Mya:Europe/Rome
+Mzansi Magic:Africa/Johannesburg
 Māori Television:Pacific/Auckland
 NASA TELEVISION (US):US/Eastern
 NAT GEO PEOPLE (AU):Australia/Sydney
@@ -1747,6 +2054,7 @@ NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
 NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
 NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
+NAVER SERIES ON:Asia/Seoul
 NAVER TV:Asia/Seoul
 NAVER tvcast:Asia/Seoul
 NBA League Pass (US):US/Eastern
@@ -1785,6 +2093,7 @@ NEWS 12 TRAFFIC AND WEATHER (US):US/Eastern
 NEWS 12 WESTCHESTER (US):US/Eastern
 NEWS 13 (US):US/Eastern
 NEWS CHANNEL 9 (US):US/Eastern
+NF:US/Eastern
 NFL NETWORK (US):US/Eastern
 NFL Network:US/Eastern
 NFL Redzone (US):US/Eastern
@@ -1798,10 +2107,12 @@ NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHL Network:US/Eastern
 NHNZ:Pacific/Auckland
+NIR TV:Europe/Brussels
 NITV (AU):Australia/Sydney
 NOGGIN:US/Eastern
 NOS:Europe/Amsterdam
 NOVE:Europe/Rome
+NOW TV:Europe/Istanbul
 NPO 1:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
 NPR:US/Eastern
@@ -1818,6 +2129,7 @@ NRN (AU):Australia/Sydney
 NT1:Europe/Paris
 NTA:Africa/Lagos
 NTD (AU):Australia/Sydney
+NTN:Africa/Cairo
 NTR:Europe/Amsterdam
 NTV:Asia/Tokyo
 NTV (JP):Asia/Tokyo
@@ -1827,13 +2139,18 @@ NTV7:Asia/Kuala_Lumpur
 NUVOtv (US):US/Eastern
 NVTV (UK):Europe/London
 NWCN (US):US/Eastern
+NWDR:Europe/Berlin
 NWS (AU):Australia/Sydney
 NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Nagoya Broadcasting Network:Asia/Tokyo
 Nagoya Broadcasting Network (JP):Asia/Tokyo
 Namava:Asia/Tehran
+Namayesh TV:Asia/Tehran
+Nasim TV:Asia/Tehran
+Nat Geo:US/Eastern
 Nat Geo Kids (BR):America/Sao_Paulo
+Nat Geo TV:US/Eastern
 Nat Geo Wild:US/Eastern
 National Broadcasting Company:US/Eastern
 National Geographic:US/Eastern
@@ -1849,17 +2166,23 @@ National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographic Wild:US/Eastern
 National Geographiс:US/Eastern
+National Iranian Radio and Television:Asia/Tehran
 National Jewish Television (US):US/Eastern
 National Media Authority:Africa/Cairo
+Naver NOW.:Asia/Seoul
+Naver TV:Asia/Seoul
+Naver TVcast:Asia/Seoul
 Nebula:US/Eastern
 Nederland 3:Europe/Amsterdam
 Nederlandse Publieke Omroep 1:Europe/Amsterdam
 Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
+Neon TV:Pacific/Auckland
 Neox:Europe/Madrid
 Netflix:US/Eastern
 Netflix (UK):Europe/London
+Network 10:Australia/Sydney
 Network 10 Australia:Australia/Sydney
 Network Ten:Australia/Sydney
 New England Sports Network (US):US/Eastern
@@ -1870,6 +2193,7 @@ News9NOW (US):US/Eastern
 NewsChannel 8 (US):US/Eastern
 NewsOn6NOW (US):US/Eastern
 NewsWatch 15 (US):US/Eastern
+Nick:US/Eastern
 Nick (DE):Europe/Berlin
 Nick App:US/Eastern
 Nick GAS:US/Eastern
@@ -1878,11 +2202,13 @@ Nick at Nite:US/Eastern
 NickToons:US/Eastern
 NickToons Network:US/Eastern
 Nickelodeon:US/Eastern
+Nickelodeon (BR):America/Sao_Paulo
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (Latin America):America/Buenos_Aires
 Nickelodeon (NL):Europe/Amsterdam
 Nico Nico Douga:Asia/Tokyo
 Niconico:Asia/Tokyo
+Nile Television Network:Africa/Cairo
 Nine (Australia):Australia/Sydney
 Nine Network:Australia/Sydney
 Nine network:Australia/Sydney
@@ -1891,12 +2217,14 @@ Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Nissi Play:America/Sao_Paulo
 Nitro:Europe/Berlin
+Nittere:Asia/Tokyo
 NoA:US/Eastern
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
 Noovo:Canada/Eastern
+Norddeutscher Rundfunk (NDR):Europe/Berlin
 Northern Television (CA):Canada/Eastern
 Northern Visions Television:Europe/Dublin
 Notts TV (UK):Europe/London
@@ -1917,7 +2245,11 @@ OCS:Europe/Paris
 OLL.TV:Europe/Kiev
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
+ON:Africa/Cairo
+ON Drama:Africa/Cairo
 ON E:Africa/Cairo
+ON Live:Africa/Cairo
+ON Time Sports:Africa/Cairo
 ONDirecTV (Latin America):America/Buenos_Aires
 ONE (NZ):Pacific/Auckland
 OPTO:Europe/Lisbon
@@ -1927,6 +2259,7 @@ ORF 2:Europe/Vienna
 ORF III:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORTF:Europe/Paris
+OSI:Asia/Kolkata
 OSN:Asia/Dubai
 OUFtivi:Europe/Brussels
 OUTtv:Canada/Eastern
@@ -1934,7 +2267,9 @@ OUTtv (CA):Canada/Eastern
 OWN:US/Eastern
 OWN (CA):Canada/Eastern
 OWN (Canada):Canada/Eastern
+OWN: Oprah Winfrey Network (Canada):Canada/Eastern
 Oasis HD:Canada/Eastern
+Ofogh TV:Asia/Tehran
 Oho Gujarati:Asia/Kolkata
 Oireachtas TV (IE):Europe/Dublin
 Okko:Europe/Kaliningrad
@@ -1942,7 +2277,9 @@ Okoo:Europe/Paris
 Olive:Asia/Seoul
 Olive TV (UK):Europe/London
 Olympic Channel:US/Eastern
+Olympic Channel Services:US/Eastern
 Omega TV:Europe/Nicosia
+Omid TV:Asia/Tehran
 Omni:Canada/Eastern
 Omroep Brabant:Europe/Amsterdam
 Omroep MAX:Europe/Amsterdam
@@ -1953,10 +2290,12 @@ One America NEWS NETWORK (US):US/Eastern
 One Channel:Europe/Athens
 One Magic:Africa/Johannesburg
 One World Sport (US):US/Eastern
+One31 HD:Asia/Bangkok
 Open Heaven TV (UK):Europe/London
 Open TV:Europe/Athens
 Oprah Winfrey Network:US/Eastern
 Opto:Europe/Lisbon
+Opto SIC:Europe/Lisbon
 Ora TV:US/Eastern
 Orange TV España:Europe/Madrid
 Orbit Network (PK):Asia/Karachi
@@ -1964,6 +2303,7 @@ Orbit Showtime Network:Asia/Dubai
 Ouatch:Europe/Paris
 OutTV:Canada/Eastern
 Outdoor Channel:US/Eastern
+Outdoor Life Network:Canada/Eastern
 Outside TELEVISION (US):US/Eastern
 Ovation TV:US/Eastern
 Overcomer Ministries (US):US/Eastern
@@ -1979,6 +2319,8 @@ PBS Kids Sprout:US/Eastern
 PC.MAG.com Network:US/Eastern
 PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
+PKS:Europe/Berlin
+PLAY Premium:Europe/Zagreb
 POP (UK):Europe/London
 POPS Worldwide:Asia/Saigon
 PPTV:Asia/Bangkok
@@ -1987,6 +2329,9 @@ PREMIERE MOVIES (AU):Australia/Sydney
 PRIMA TV:Europe/Bucharest
 PRO TV:Europe/Bucharest
 PRiME7 (AU):Australia/Sydney
+PT Cipta Televisi Pendidikan Indonesia:Asia/Jakarta
+PT MNC Televisi Indonesia:Asia/Jakarta
+PT Televisi Pendidikan Indonesia:Asia/Jakarta
 PTC Global (UK):Europe/London
 PTC Prime (UK):Europe/London
 PTC Punjabi (UK):Europe/London
@@ -2014,6 +2359,7 @@ Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paramount+:US/Eastern
+Paramount+ with Showtime:US/Eastern
 Paravi:Asia/Tokyo
 Paris Première:Europe/Paris
 Paris Première (FR):Europe/Paris
@@ -2040,6 +2386,7 @@ Planet POP (UK):Europe/London
 Planète+:Europe/Paris
 Planète+ (Canada):Canada/Eastern
 Play More:Europe/Brussels
+Play Plus:America/Sao_Paulo
 Play UK:Europe/London
 Play UK, BBC Choice:Europe/London
 Play4:Europe/Brussels
@@ -2057,12 +2404,17 @@ Podcast (All Platforms):US/Eastern
 Podimo:Europe/Copenhagen
 Podium Podcast:Europe/Madrid
 Pogo:Asia/Kolkata
+PokerGO:US/Eastern
+Polish Television S.A.:Europe/Warsaw
 Polsat:Europe/Warsaw
 Polynésie 1ère:Europe/Paris
 Polynésie La 1re:Europe/Paris
+Polynésie La Première:Europe/Paris
+Pooya TV:Asia/Tehran
 Pop:US/Eastern
 Pop Girl (UK):Europe/London
 Pop TV:US/Eastern
+Popstar! TV:US/Eastern
 Porto Canal:Europe/Lisbon
 PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
@@ -2077,14 +2429,20 @@ Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
 Prime Box Brazil:America/Sao_Paulo
+Prime Video:US/Eastern
 Primetime (UK):Europe/London
 Pro TV:Europe/Bucharest
 ProSieben:Europe/Berlin
 ProSieben Maxx:Europe/Berlin
+Producciones Bernardo Romero Pereiro:America/Bogota
+Program Pierwszy TVP:Europe/Warsaw
+Program Pierwszy Telewizji Polskiej:Europe/Warsaw
+Program pierwszy:Europe/Warsaw
 Prva Srpska Televizija:Europe/Belgrade
 Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
 Public Broadcasting Service:US/Eastern
+Public Sénat:Europe/Paris
 Puls 4:Europe/Vienna
 Pureflix:US/Eastern
 Pursuit Channel:US/Eastern
@@ -2105,10 +2463,12 @@ Qatar TV:Asia/Qatar
 Queens Public Television:US/Eastern
 Quest:Europe/London
 Quibi:US/Eastern
+Quran TV:Asia/Tehran
 R&R:US/Eastern
 RAI:Europe/Rome
 RAI Fiction:Europe/Rome
 RBB:Europe/Berlin
+RBB Fernsehen:Europe/Berlin
 RCN TV:America/Bogota
 RCTI:Asia/Jakarta
 RCTV:America/Caracas
@@ -2138,8 +2498,12 @@ RSC (US):US/Eastern
 RT:Europe/Kaliningrad
 RT (UK):Europe/London
 RT America (US):US/Eastern
+RTB:Europe/Brussels
+RTB1:Europe/Brussels
 RTBF:Europe/Brussels
 RTBF Webcréation:Europe/Brussels
+RTBF1:Europe/Brussels
+RTF:Europe/Paris
 RTF Télévision:Europe/Paris
 RTHK:Asia/Hong_Kong
 RTL:Europe/Luxembourg
@@ -2149,19 +2513,28 @@ RTL 4:Europe/Amsterdam
 RTL 5:Europe/Amsterdam
 RTL 7:Europe/Amsterdam
 RTL 8:Europe/Amsterdam
+RTL Croatia:Europe/Zagreb
+RTL Hrvatska:Europe/Zagreb
 RTL II:Europe/Berlin
 RTL Klub:Europe/Budapest
+RTL Kockica:Europe/Zagreb
+RTL Magyarország:Europe/Budapest
 RTL Nitro (DE):Europe/Berlin
+RTL Play:Europe/Zagreb
 RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
+RTL Voyo:Europe/Zagreb
 RTL XL:Europe/Amsterdam
+RTL Zwei:Europe/Berlin
+RTL plus:Europe/Berlin
 RTL+:Europe/Berlin
 RTL2:Europe/Budapest
 RTL9:Europe/Paris
 RTLplus:Europe/Berlin
 RTLup:Europe/Berlin
 RTM2 (MY):Asia/Kuala_Lumpur
+RTP:Europe/Lisbon
 RTP Açores:Europe/Lisbon
 RTP Internacional:Europe/Lisbon
 RTP Madeira:Europe/Lisbon
@@ -2201,19 +2574,28 @@ Radio Television of Serbia (RTS/PTC):Europe/Belgrade
 Radio Televizija Vojvodine:Europe/Belgrade
 Radio-Canada:Canada/Eastern
 Radio-Québec:Canada/Eastern
+Radiodiffusion-Télévision Française:Europe/Paris
 Radiotopia:US/Eastern
 Rai:Europe/Rome
 Rai 1:Europe/Rome
+Rai 1 HD:Europe/Rome
 Rai 2:Europe/Rome
+Rai 2 HD:Europe/Rome
 Rai 3:Europe/Rome
+Rai 3 HD:Europe/Rome
 Rai 4:Europe/Rome
+Rai 4 HD:Europe/Rome
 Rai 5:Europe/Rome
+Rai 5 HD:Europe/Rome
 Rai Extra:Europe/Rome
 Rai Gulp:Europe/Rome
 Rai Radiotelevisione Italiana:Europe/Rome
 Rai Uno:Europe/Rome
+Rai Yoyo:Europe/Rome
 RaiPlay:Europe/Rome
 RaiUno:Europe/Rome
+Rakuten TV:Asia/Tokyo
+Rakuten Viki:US/Eastern
 Real Hip-Hop Network (US):US/Eastern
 Real Time:Europe/Rome
 Really:Europe/London
@@ -2225,11 +2607,14 @@ Record TV Europa:Europe/Lisbon
 RecordTV:America/Sao_Paulo
 Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
+Rede Bahia:America/Sao_Paulo
 Rede Bandeirantes:America/Sao_Paulo
 Rede Brasil (RBTV):America/Sao_Paulo
+Rede Canção Nova:America/Sao_Paulo
 Rede Globo:America/Sao_Paulo
 Rede Gospel:America/Sao_Paulo
 Rede Manchete:America/Sao_Paulo
+Rede Record:America/Sao_Paulo
 Rede Vida:America/Sao_Paulo
 RedeTV!:America/Sao_Paulo
 RedeTV! (BR):America/Sao_Paulo
@@ -2245,18 +2630,24 @@ Revision 3:US/Eastern
 Revision3:US/Eastern
 Revolt:US/Eastern
 Ricavision channel 7 (ES):Europe/Madrid
+Riivi:America/Santiago
 Rishtey (UK):Europe/London
 Rocks & Co. (UK):Europe/London
 Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Rooster Teeth Productions:US/Eastern
+Rossiya 1:Europe/Kaliningrad
 Roya TV:Asia/Amman
 Royal News:Asia/Karachi
 Rundfunk Berlin-Brandenburg:Europe/Berlin
 Russia Today:Europe/Kaliningrad
 Russia-1:Europe/Kaliningrad
+Rustavi 2:Asia/Tbilisi
+Rustavi 2 Broadcasting Company:Asia/Tbilisi
 Ruutu:Europe/Helsinki
 RÚV:Iceland
+Rádio e Televisão Portuguesa:Europe/Lisbon
+Ríkisútvarpið:Iceland
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 Rúv:Iceland
 S1TV:Europe/Zurich
@@ -2264,8 +2655,10 @@ S4/C:Europe/London
 S4C:Europe/London
 S4C2:Europe/London
 SAB tv (UK):Europe/London
+SABC 1:Africa/Johannesburg
 SABC 1 (ZA):Africa/Johannesburg
 SABC 2:Africa/Johannesburg
+SABC 3:Africa/Johannesburg
 SABC1:Africa/Johannesburg
 SABC2:Africa/Johannesburg
 SABC3:Africa/Johannesburg
@@ -2279,6 +2672,7 @@ SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
 SBS Multi-cultural Television:Australia/Sydney
 SBS Plus:Asia/Seoul
+SBS TV:Asia/Seoul
 SBS2 (AU):Australia/Sydney
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
@@ -2292,6 +2686,8 @@ SET TV:Asia/Taipei
 SETANTA SPORTS (AU):Australia/Sydney
 SETANTA SPORTS 1 (IE):Europe/Dublin
 SF 1:Europe/Zurich
+SF 2:Europe/Zurich
+SF DRS:Europe/Zurich
 SFR Play:Europe/Paris
 SHAW TV (CA):Canada/Eastern
 SHO NEXT (US):US/Eastern
@@ -2307,6 +2703,7 @@ SIC Mulher:Europe/Lisbon
 SIC Notícias:Europe/Lisbon
 SIC Radical:Europe/Lisbon
 SIC Sempre Gold:Europe/Lisbon
+SKY:Asia/Seoul
 SKY Business TV (AU):Australia/Sydney
 SKY International (AU):Australia/Sydney
 SKY PerfecTV!:Asia/Tokyo
@@ -2324,6 +2721,9 @@ SPORTS TIME OHIO (US):US/Eastern
 SPORTSNET WORLD (CA):Canada/Eastern
 SR:Europe/Berlin
 SRF 1:Europe/Zurich
+SRF Schweizer Radio und Fernsehen:Europe/Zurich
+SRF zwei:Europe/Zurich
+SRG SSR:Europe/Zurich
 STAR Chinese Channel:Asia/Taipei
 STAR Gold:Asia/Kolkata
 STAR Movies:Asia/Hong_Kong
@@ -2343,11 +2743,14 @@ STQ (AU):Australia/Sydney
 STUDIO (AU):Australia/Sydney
 STV:Europe/London
 STV (AU):Australia/Sydney
+STV (CN):Asia/Taipei
 STV (TW):Asia/Taipei
 STV (UK):Europe/London
 STV Edinburgh (UK):Europe/London
 STV Glasgow (UK):Europe/London
+STV1:Europe/Bratislava
 STW (AU):Australia/Sydney
+ST★R+:America/Sao_Paulo
 SUN NEWS NETWORK (CA):Canada/Eastern
 SUN TV:Asia/Kolkata
 SUN music:Asia/Kolkata
@@ -2357,43 +2760,59 @@ SUPER ÉCRAN (CA):Canada/Eastern
 SVT:Europe/Stockholm
 SVT 1:Europe/Stockholm
 SVT 2:Europe/Stockholm
+SVT Barn:Europe/Stockholm
 SVT1:Europe/Stockholm
 SVT2:Europe/Stockholm
 SVT24:Europe/Stockholm
 SVTB:Europe/Stockholm
+SVTK:Europe/Stockholm
 SWR:Europe/Berlin
 SYFY:US/Eastern
+Saarländischer Rundfunk:Europe/Berlin
 Sab TV:Asia/Kolkata
 Sabor & Arte:America/Sao_Paulo
+Sabor e Arte:America/Sao_Paulo
 Sabres Hockey Network (US):US/Eastern
+Sada Elbalad:Africa/Cairo
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
 Salto:Europe/Paris
 Sama Dubai TV:Asia/Dubai
 Sama TV:Asia/Damascus
+Samira TV:Africa/Algiers
+San Marino RTV:Europe/Rome
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
 Sat 1:Europe/Berlin
+Sat eins:Europe/Berlin
 Sat. 1 Comedy (DE):Europe/Berlin
 Sat.1:Europe/Berlin
+Schwedens Fernsehen:Europe/Stockholm
 Schweizer Fernsehen:Europe/Zurich
+Sci-Fi:US/Eastern
 Sci-Fi (NL):Europe/Amsterdam
+Sci-Fi Channel:US/Eastern
 SciFi:US/Eastern
+SciFi Universal:US/Eastern
 Science Channel:US/Eastern
 Scuzz:Europe/London
+Seda va Sima:Asia/Tehran
 Seeso:US/Eastern
 Seezn:Asia/Seoul
 Semerkand TV:Europe/Istanbul
+Seoul Broadcasting System:Asia/Seoul
 Servus TV:Europe/Vienna
 SescTV:America/Sao_Paulo
 Setanta Ireland:Europe/Dublin
+Seven:Australia/Sydney
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
 Shahid:Asia/Dubai
 Shahid (UAE):Asia/Dubai
 Shalom TV (US):US/Eastern
 Shandong Television:Asia/Shanghai
+Shanghai Television:Asia/Taipei
 Sheffield Live! (UK):Europe/London
 Shenzhen TV:Asia/Shanghai
 Shepherd's Chapel Network (US):US/Eastern
@@ -2402,25 +2821,32 @@ Shout! Factory (USA):US/Eastern
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
 ShowMax Poland:Europe/Warsaw
+ShowMax South Africa:Africa/Johannesburg
 Showcase:Canada/Eastern
 Showcase (AU):Australia/Sydney
 Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
 Showcase 2 (UK):Europe/London
+Showmax:Africa/Johannesburg
+Showmax Poland:Europe/Warsaw
 Showtime:US/Eastern
 Shudder:US/Eastern
+Sianel Pedwar Cymru:Europe/London
 Sigma TV:Europe/Nicosia
 Sikh Channel (UK):Europe/London
 Sino TV (US):US/Eastern
 Sirasa:Asia/Colombo
 SiriusXM:US/Eastern
+Sistema Brasileiro de Televisão:America/Sao_Paulo
 Sixx:Europe/Berlin
+Sjuan:Europe/Stockholm
 Sjónvarp Símans:Iceland
 Sjónvarpið (IS):Atlantic/Reykjavik
 Skai:Europe/Athens
 Skjár einn (IS):Atlantic/Reykjavik
 Skjáreinn:Atlantic/Reykjavik
 Skuff TV (AU):Australia/Sydney
+Sky 1:Europe/London
 Sky Arte:Europe/Rome
 Sky Arts:Europe/London
 Sky Atlantic:Europe/London
@@ -2436,6 +2862,7 @@ Sky Comedy:Europe/London
 Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
+Sky Drama:Asia/Seoul
 Sky History:Europe/London
 Sky Kids:Europe/London
 Sky Link TV (US):US/Eastern
@@ -2458,6 +2885,8 @@ Sky Witness:Europe/London
 Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
+SkyHD:Asia/Seoul
+SkyOne:Europe/London
 SkyPerfecTV (JP):Asia/Tokyo
 Slash:Europe/Paris
 Sleuth:US/Eastern
@@ -2477,12 +2906,14 @@ SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
 Sony Channel (BR):America/Sao_Paulo
 Sony Crackle:US/Eastern
+Sony Entertainment Network:US/Eastern
 Sony Entertainment Television:US/Eastern
 Sony Entertainment Television (BR):America/Sao_Paulo
 Sony Entertainment Television (CL):America/Santiago
 Sony Entertainment Television (IN):Asia/Kolkata
 Sony Entertainment Television (PE):America/Lima
 Sony Entertainment Television Asia (UK):Europe/London
+Sony LIV:Asia/Kolkata
 Sony Liv:Asia/Kolkata
 Sony TV:Asia/Kolkata
 SonyLIV:Asia/Kolkata
@@ -2493,6 +2924,8 @@ Southern Cross Ten (AU):Australia/Sydney
 Space:Canada/Eastern
 Space (Brasil):America/Sao_Paulo
 Space (Latin America):America/Buenos_Aires
+Space The Imagination Station:Canada/Eastern
+Special Broadcasting Service:Australia/Sydney
 Spectrum:US/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
@@ -2514,6 +2947,7 @@ Sportsnet Ontario (CA):Canada/Eastern
 Spotify:Europe/Stockholm
 Sprout (US):US/Eastern
 Stan:Australia/Sydney
+Star:US/Eastern
 Star (Latin America):America/Buenos_Aires
 Star Bharat:Asia/Kolkata
 Star Channel (BR):America/Sao_Paulo
@@ -2574,6 +3008,8 @@ SuperRTL:Europe/Berlin
 Superstar TV:Europe/Belgrade
 Superstation WGN:US/Eastern
 Sveriges Television:Europe/Stockholm
+Sveriges Television AB:Europe/Stockholm
+Sveriges Television Aktiebolag:Europe/Stockholm
 Svt:Europe/Stockholm
 Swarnawahini:Asia/Colombo
 Swearnet:Canada/Eastern
@@ -2590,6 +3026,8 @@ Syndication (CA):Canada/Eastern
 Syrian Drama TV:Asia/Damascus
 Séries Plus:Canada/Eastern
 Séries+:Canada/Eastern
+T7:CET
+TBC:Asia/Seoul
 TBD:US/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
 TBN Enlace (US):US/Eastern
@@ -2608,6 +3046,7 @@ TDT (AU):Australia/Sydney
 TEENick:US/Eastern
 TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
+TEN:Africa/Cairo
 TEN Spain:Europe/Madrid
 TEN Sports:Asia/Kolkata
 TENNIS CHANNEL (US):US/Eastern
@@ -2615,6 +3054,7 @@ TET:Europe/Kiev
 TF1:Europe/Paris
 TF1 Séries:Europe/Paris
 TF1 Séries Films:Europe/Paris
+TF1+:Europe/Paris
 TF6:Europe/Paris
 TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
@@ -2625,6 +3065,8 @@ THRILLER MOVIES (AU):Australia/Sydney
 THT:Europe/Kaliningrad
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TIMvision:Europe/Rome
+TIS:America/Bogota
+TIS Productions:America/Bogota
 TITV:Asia/Taipei
 TLC:US/Eastern
 TLC (AU):Australia/Sydney
@@ -2632,6 +3074,7 @@ TLC (UK):Europe/London
 TLC India:Asia/Kolkata
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
+TMK:Asia/Tehran
 TMS Entertainment:Asia/Tokyo
 TND (AU):Australia/Sydney
 TNN:US/Eastern
@@ -2643,15 +3086,19 @@ TNT Brasil:America/Sao_Paulo
 TNT Comedy (Germany):Europe/Berlin
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
+TNT Serie (before 2021 09 25):Europe/Berlin
 TNT Spain:Europe/Madrid
 TNU:America/Montevideo
+TOD Türkiye:Europe/Istanbul
 TONTON:Asia/Kuala_Lumpur
 TPC (US):US/Eastern
+TPI:Asia/Jakarta
 TPS Star (FR):Europe/Paris
 TQS:Canada/Eastern
 TRK Ukraina:Europe/Kiev
 TROS:Europe/Amsterdam
 TRT 1:Europe/Istanbul
+TRT 2:Europe/Istanbul
 TRT Arabic:Europe/Istanbul
 TRT Avaz:Europe/Istanbul
 TRT Belgesel:Europe/Istanbul
@@ -2668,6 +3115,8 @@ TSI1 (CH):Europe/Zurich
 TSN:Canada/Eastern
 TSR:Europe/Zurich
 TSR2 (CH):Europe/Zurich
+TTT:America/Port_of_Spain
+TTT Limited:America/Port_of_Spain
 TTV:Asia/Taipei
 TTV (PL):Europe/Warsaw
 TUFF TV (US):US/Eastern
@@ -2677,6 +3126,7 @@ TV 2:Europe/Copenhagen
 TV 2 (DK):Europe/Copenhagen
 TV 2 (NO):Europe/Oslo
 TV 2 Charlie:Europe/Copenhagen
+TV 2 Echo:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Fri:Europe/Copenhagen
 TV 2 Nyhetskanalen:Europe/Oslo
@@ -2693,9 +3143,11 @@ TV 4:Europe/Warsaw
 TV Aichi:Asia/Tokyo
 TV Aparecida:America/Sao_Paulo
 TV Asahi:Asia/Tokyo
+TV Asahi Corporation:Asia/Tokyo
 TV Asashi:Asia/Tokyo
 TV Asia (US):US/Eastern
 TV Azteca:America/Mexico_City
+TV Bahia:America/Sao_Paulo
 TV Brasil:America/Sao_Paulo
 TV Cabo:Europe/Lisbon
 TV Canção Nova:America/Sao_Paulo
@@ -2703,8 +3155,10 @@ TV Chile:America/Santiago
 TV Chosun:Asia/Seoul
 TV Cultura:America/Sao_Paulo
 TV Diário:America/Sao_Paulo
+TV Films:Africa/Cairo
 TV Globo:America/Sao_Paulo
 TV Guide Channel:US/Eastern
+TV Guide Network:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
@@ -2713,6 +3167,7 @@ TV Joj:Europe/Bratislava
 TV Kanagawa:Asia/Tokyo
 TV Kanagawa (JP):Asia/Tokyo
 TV Land:US/Eastern
+TV Maison:Europe/Paris
 TV Markíza:Europe/Bratislava
 TV Markíza (SK):Europe/Bratislava
 TV Net:Europe/Istanbul
@@ -2740,9 +3195,13 @@ TV Tokyo:Asia/Tokyo
 TV Tupi:America/Sao_Paulo
 TV Venezuela (US):US/Eastern
 TV-3 (Russia):Europe/Kaliningrad
+TV1:Europe/Brussels
 TV1 (MY):Asia/Kuala_Lumpur
+TV1 (ZA):Africa/Johannesburg
+TV1 New Zealand:Europe/Copenhagen
 TV11:Europe/Stockholm
 TV2:Pacific/Auckland
+TV2 (HU):Europe/Budapest
 TV2 (MY):Asia/Kuala_Lumpur
 TV2 (NO):Europe/Oslo
 TV2 (NZ):Pacific/Auckland
@@ -2755,6 +3214,7 @@ TV24 (CH) :Europe/Zurich
 TV25 (CH):Europe/Zurich
 TV25 (CH) :Europe/Zurich
 TV3:Europe/Stockholm
+TV3 (DK):Europe/Copenhagen
 TV3 (ES):Europe/Madrid
 TV3 (Estonia):Europe/Tallinn
 TV3 (IE):Europe/Dublin
@@ -2764,6 +3224,8 @@ TV3 (NZ):Pacific/Auckland
 TV3 (NZ) Three:Pacific/Auckland
 TV3 (SE):Europe/Stockholm
 TV3 Denmark:Europe/Copenhagen
+TV3 Norge:Europe/Oslo
+TV3 Norway:Europe/Oslo
 TV3 Puls:Europe/Copenhagen
 TV3+:Europe/Copenhagen
 TV4:Europe/Stockholm
@@ -2772,6 +3234,7 @@ TV4 (SE):Europe/Stockholm
 TV4 Fakta:Europe/Stockholm
 TV4 Guld:Europe/Stockholm
 TV4 Komedi:Europe/Stockholm
+TV4 Play:Europe/Stockholm
 TV4 Plus:Europe/Stockholm
 TV4 Science Fiction:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
@@ -2780,6 +3243,7 @@ TV5 (CA):Canada/Eastern
 TV5 (FI):Europe/Helsinki
 TV5 (PH):Asia/Manila
 TV5 Monde:Europe/Paris
+TV5 Unis:Canada/Eastern
 TV5MONDE Europe (UK):Europe/London
 TV6:Europe/Stockholm
 TV7:Europe/Stockholm
@@ -2805,6 +3269,8 @@ TVBS Entertainment Channel:Asia/Taipei
 TVBV (US):US/Eastern
 TVBe (US):US/Eastern
 TVE:Europe/Madrid
+TVE-1:Europe/Madrid
+TVE-2:Europe/Madrid
 TVE2 (ES):Europe/Madrid
 TVFPlay:Asia/Kolkata
 TVG Network:US/Eastern
@@ -2819,6 +3285,7 @@ TVN:Europe/Warsaw
 TVN (AU):Australia/Sydney
 TVN (Televisión Nacional de Chile):America/Santiago
 TVN 7:Europe/Warsaw
+TVN Player:Europe/Warsaw
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVNORGE:Europe/Oslo
@@ -2829,10 +3296,15 @@ TVNZ 1:Pacific/Auckland
 TVNZ 2:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
+TVOkids:Canada/Eastern
 TVOne Global:Asia/Karachi
+TVOntario:Canada/Eastern
 TVP:Europe/Warsaw
+TVP 1:Europe/Warsaw
 TVP SA:Europe/Warsaw
+TVP VOD:Europe/Warsaw
 TVP1:Europe/Warsaw
+TVP1 HD:Europe/Warsaw
 TVP2:Europe/Warsaw
 TVQ (AU):Australia/Sydney
 TVQ (Australia):Australia/Sydney
@@ -2854,18 +3326,23 @@ TWiT:US/Eastern
 TXCN (US):US/Eastern
 TXN (Japan):Asia/Tokyo
 TYT Network:US/Eastern
+Tahrir Egyptian Network:Africa/Cairo
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
 Talpa:Europe/Amsterdam
+Tamasha TV:Asia/Tehran
+Tamashakhoneh:Asia/Tehran
 Tapesh TV (US):US/Eastern
 TeLe-Romántica (US):US/Eastern
 TeLeHiTs (US):US/Eastern
 TeenNick:US/Eastern
+TeenNick (IL):Asia/Jerusalem
 TeenNick Israel:Asia/Jerusalem
 Telad:Asia/Jerusalem
 Telasa:Asia/Tokyo
 Tele 5:Europe/Berlin
 Tele Curacao (AN):America/Lower_Princes
+TeleColombia:America/Bogota
 TeleG:Europe/London
 TeleToon:Canada/Eastern
 TeleZüri:Europe/Zurich
@@ -2882,6 +3359,7 @@ Telemundo (MX):America/Mexico_City
 Teletama:Europe/Madrid
 Teletoon:Canada/Eastern
 Televen:America/Caracas
+Televideniye Novogo Tisyachelyetiya:Europe/Kaliningrad
 Televisa:America/Mexico_City
 Televisa S.A. de C.V:America/Mexico_City
 Televisa S.A. de C.V.:America/Mexico_City
@@ -2892,10 +3370,13 @@ Television Malta:Europe/Malta
 Television New Zealand:Pacific/Auckland
 Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
+Televisión Española:Europe/Madrid
 Televisión de Galicia:Europe/Madrid
+Televisión federal:America/Buenos_Aires
 Televizija Zagreb:Europe/Zagreb
 Televizioni 7:CET
 Telewizja Polska:Europe/Warsaw
+Telewizja Polska S.A.:Europe/Warsaw
 Tello:US/Eastern
 Tempo Network (US):US/Eastern
 Tencent Video:Asia/Shanghai
@@ -2921,24 +3402,35 @@ The Austin Systems Channel:US/Eastern
 The Box:Europe/London
 The BrewDog Network:Europe/London
 The CW:US/Eastern
+The CW Television Network:US/Eastern
+The Channel of the Stars:America/Mexico_City
 The Comedy Channel:Australia/Sydney
 The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Discovery Channel Canada:Canada/Eastern
+The Disney Channel:US/Eastern
 The Family Channel:US/Eastern
 The Great Courses:US/Eastern
+The Great Courses Plus:US/Eastern
+The Great Courses Signature Collection:US/Eastern
 The History Channel:US/Eastern
 The History Channel International:US/Eastern
 The Hub:US/Eastern
+The Independent Studios:America/Bogota
+The Learning Channel:US/Eastern
 The Movie Network:Canada/Eastern
 The Music Factory:Europe/Amsterdam
 The Nashville Network:US/Eastern
 The National Network:US/Eastern
 The Roku Channel:US/Eastern
+The Sports Network:Canada/Eastern
 The Sportsman Channel:US/Eastern
+The Teaching Company:US/Eastern
+The Treehouse:Canada/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
 The Weather Channel:US/Eastern
+The Young One:Europe/Amsterdam
 The Zeus Network:US/Eastern
 TheBlaze:US/Eastern
 This TV:US/Eastern
@@ -2979,35 +3471,56 @@ Trece:America/Asuncion
 Treehouse:Canada/Eastern
 Treehouse TV:Canada/Eastern
 Trend E:Asia/Seoul
+Trinidad and Tobago Television:America/Port_of_Spain
 Trinity Broadcasting Network:US/Eastern
 Trinity Broadcasting Network (US):US/Eastern
 TruTV:US/Eastern
+True Crime:Europe/London
 True Drama (UK):Europe/London
 True Entertainment (UK):Europe/London
+True History:US/Eastern
 True Movies 1 (UK):Europe/London
 True Movies 2 (UK):Europe/London
+True4U:Asia/Bangkok
 TrueID:Asia/Bangkok
 TrueVisions:Asia/Bangkok
 Tubi:US/Eastern
+Turkish:Europe/Istanbul
+Turner Broadcasting System:US/Eastern
 Turner Network Television:US/Eastern
 Turner South:US/Eastern
 Tv2 Zulu:Europe/Copenhagen
 TvNorge:Europe/Oslo
+Tvoyo Novoye Televideniye:Europe/Kaliningrad
 Twitch:US/Eastern
 Twitter:US/Eastern
 Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
+Télé Monte-Carlo:Europe/Monaco
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U&Alibi:Europe/London
+U&Dave:Europe/London
+U&Drama:Europe/London
+U&Gold:Europe/London
+U&W:Europe/London
+U&Yesterday:Europe/London
+U+:Asia/Seoul
+U+ Mobile TV:Asia/Seoul
 U-NEXT:Asia/Tokyo
+UATV:US/Eastern
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
 UEFA.tv:Europe/Zurich
+UER:Europe/Zurich
 UFC FIGHT PASS (US):US/Eastern
 UFC Fight Pass:US/Eastern
 UK Entertainment Channel:Europe/London
+UK History:Europe/London
 UK Play:Europe/London
+UK Yesterday:Europe/London
+UKGlimpse:Europe/London
 UKTV Documentary:Europe/London
 UKTV Drama:Europe/London
 UKTV Food:Europe/London
@@ -3015,6 +3528,7 @@ UKTV G2:Europe/London
 UKTV Gold:Europe/London
 UKTV History:Europe/London
 UKTV Style:Europe/London
+UKTV W:Europe/London
 UKTV Yesterday:Europe/London
 UKTV style:Europe/London
 UMC:US/Eastern
@@ -3046,6 +3560,7 @@ Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
 Universal Kids:US/Eastern
 Universal TV:America/Sao_Paulo
+Universal TV (UK):Europe/London
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
 Universo:US/Eastern
@@ -3067,6 +3582,7 @@ Unknown (RU):Europe/Kaliningrad
 Unknown (SE):Europe/Stockholm
 Unknown (UK):Europe/London
 Unknown (US):US/Eastern
+Uplus:Asia/Seoul
 Urban America Television:US/Eastern
 Urban Movie Channel:US/Eastern
 Urbanflix:US/Eastern
@@ -3075,7 +3591,10 @@ Ustream:US/Eastern
 V:Canada/Eastern
 V Channel (UK):Europe/London
 V LIVE:Asia/Seoul
+V Live:Asia/Seoul
 V télé:Canada/Eastern
+V+:Europe/Lisbon
+V+ TVI:Europe/Lisbon
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
 VENN:US/Eastern
@@ -3092,12 +3611,18 @@ VISION ZOOMER TELEVISION (CA):Canada/Eastern
 VIVA (DE):Europe/Berlin
 VIVA (PL):Europe/Warsaw
 VIVA (UK):Europe/London
+VIX+:America/Mexico_City
 VK3RTV (AU):Australia/Sydney
 VLIVE:Asia/Seoul
+VMAIS:Europe/Lisbon
 VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT:Europe/Amsterdam
+VRT 1:Europe/Brussels
+VRT CANVAS:Europe/Brussels
+VRT Max:Europe/Brussels
+VRT TV1:Europe/Brussels
 VRV:US/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
@@ -3107,14 +3632,17 @@ VTV (AU):Australia/Sydney
 VTV3:Asia/Bangkok
 VVVVID:Europe/Rome
 Varsity TV:US/Eastern
+Varzesh TV:Asia/Tehran
 Vault (UK):Europe/London
 Velocity:US/Eastern
 Venevision:America/Caracas
 Venevisión:America/Caracas
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
+Veronica Omroep Organisatie (VOO):Europe/Amsterdam
 Versus:US/Eastern
 Veteran Television:US/Eastern
+ViX+:America/Mexico_City
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
@@ -3141,8 +3669,11 @@ Virgin Media One:Europe/Dublin
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
+Viu:Asia/Hong_Kong
+Viu Originals:Asia/Hong_Kong
 ViuTV:Asia/Hong_Kong
 Viva:America/Sao_Paulo
+Vix+:America/Mexico_City
 Viên Thao TV (US):US/Eastern
 Vlaamse Televisie Maatschappij:Europe/Brussels
 Vme (US):US/Eastern
@@ -3150,6 +3681,9 @@ Volksmusik TV:Europe/Berlin
 Voot:Asia/Kolkata
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
+Voyo Croatia:Europe/Zagreb
+Vrai:Canada/Eastern
+Vrak:Canada/Eastern
 Vrak.TV:Canada/Eastern
 Vudu:US/Eastern
 W:Australia/Sydney
@@ -3165,6 +3699,7 @@ WCNY:US/Eastern
 WCVB Channel 5 (US):US/Eastern
 WDR:Europe/Berlin
 WE tv:US/Eastern
+WE: Women’s Entertainment:US/Eastern
 WFRZ-LD (US):US/Eastern
 WGN (US):US/Eastern
 WGN America:US/Eastern
@@ -3185,26 +3720,36 @@ WWJ-TV Detroit (US):US/Eastern
 WZTV:Asia/Shanghai
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
+Warhammer TV:Europe/London
 Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
+Warner TV Comedy:Europe/Berlin
 Warner TV Serie:Europe/Berlin
 WarnerTV Comedy (Germany):Europe/Berlin
 Watch:Europe/London
 WatchFrance:Europe/Paris
 Watcha:Asia/Seoul
 Wavve:Asia/Seoul
+WeTV:Asia/Shanghai
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
+Wenzhou Television:Asia/Shanghai
 West Digital Television (AU):Australia/Sydney
+West3:Europe/Berlin
 Westdeutscher Rundfunk:Europe/Berlin
+Westdeutscher Rundfunk (WDR):Europe/Berlin
+Weverse:Asia/Seoul
 Weverse (KR):Asia/Seoul
 Womens Entertainment Network:US/Eastern
+Wondrium:US/Eastern
+Wondrium Journeys:US/Eastern
 Word Network (UK):Europe/London
 Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
 Wowow:Asia/Tokyo
+X (social media):US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
@@ -3226,6 +3771,7 @@ Yesterday:Europe/London
 Yle:Europe/Helsinki
 Yomiuri TV:Asia/Tokyo
 Yomiuri TV (JP):Asia/Tokyo
+Yomiuriy TV:Asia/Tokyo
 Yorin:Europe/Amsterdam
 Yorin (NL):Europe/Amsterdam
 York Channel (UK):Europe/London
@@ -3263,6 +3809,7 @@ Zhejiang TV:Asia/Shanghai
 Zing (UK):Europe/London
 Ztélé:Canada/Eastern
 Zweites Deutsches Fernsehen:Europe/Berlin
+[adult swim]:US/Eastern
 [v] (AU):Australia/Sydney
 [v] HITS (AU):Australia/Sydney
 a-pac (AU):Australia/Sydney
@@ -3276,6 +3823,7 @@ amc (CA):Canada/Eastern
 aptn (CA):Canada/Eastern
 arte (DE):Europe/Berlin
 aspire TV (AU):Australia/Sydney
+atresplayer:Europe/Madrid
 aurora (AU):Australia/Sydney
 aux (CA):Canada/Eastern
 azteca america (US):US/Eastern
@@ -3313,16 +3861,19 @@ dTV:Asia/Tokyo
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
 de película clásico (US):US/Eastern
+discovery plus:US/Eastern
 discovery+:US/Eastern
 diva tv (UK):Europe/London
 diy network (CA):Canada/Eastern
 dk4:Europe/Copenhagen
+dmc:Africa/Cairo
 documentary (CA):Canada/Eastern
 documentary Channel:Canada/Eastern
 e.tv:Africa/Johannesburg
 eNCA Africa (UK):Europe/London
 eXPO CHANNEL (AU):Australia/Sydney
 element14:US/Eastern
+elnueve:America/Buenos_Aires
 eltrece:America/Buenos_Aires
 encore. action (US):US/Eastern
 encore. family (US):US/Eastern
@@ -3333,13 +3884,17 @@ euronews (UK):Europe/London
 extra (AU):Australia/Sydney
 family MOVIES (AU):Australia/Sydney
 family gekijou (japan):Asia/Tokyo
+formerly Fox & Fox Premium:America/Sao_Paulo
 france.2:Europe/Paris
 france.3:Europe/Paris
 france.4:Europe/Paris
 france.5:Europe/Paris
 france.tv:Europe/Paris
 france.tv slash:Europe/Paris
+france.tv/slash:Europe/Paris
 france.Ô:Europe/Paris
+francetv slash:Europe/Paris
+francetvslash:Europe/Paris
 fridayVideo:Asia/Taipei
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
@@ -3354,14 +3909,19 @@ halowaypoint.com (US):US/Eastern
 hassan-lebloc:Europe/Paris
 heartland (US):US/Eastern
 heat (UK):Europe/London
+hellolive:Asia/Seoul
 here!:US/Eastern
 home (UK):Europe/London
 hr-fernsehen:Europe/Berlin
 hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
+iFilm:Asia/Tehran
+iFilm Arabic:Asia/Tehran
 iQiyi:Asia/Shanghai
 iTunes:US/Eastern
 iTunes (US):US/Eastern
+iWTFC:Asia/Manila
+iWantTFC:Asia/Manila
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
 ion LIFE (US):US/Eastern
@@ -3383,6 +3943,7 @@ ivi (Russia):Europe/Kaliningrad
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
 jts.tv (US):US/Eastern
+kwntv:Africa/Cairo
 kykNET:Africa/Johannesburg
 laSexta:Europe/Madrid
 lifetime real women (US):US/Eastern
@@ -3390,6 +3951,7 @@ link TV (US):US/Eastern
 machinima.com (US):US/Eastern
 maniaTV.com (US):US/Eastern
 meGa tv (US):US/Eastern
+meWATCH:Asia/Singapore
 mega:America/Santiago
 mid-atlantic sports network (US):US/Eastern
 motorsports.tv:Europe/London
@@ -3397,6 +3959,7 @@ movieplex (US):US/Eastern
 mp (CA):Canada/Eastern
 mstv entertainment (UK):Europe/London
 mtvU (US):US/Eastern
+mun2:US/Eastern
 mun2 (US):US/Eastern
 my38 (US):US/Eastern
 my9 (US):US/Eastern
@@ -3468,6 +4031,7 @@ startreknewvoyages.com (US):US/Eastern
 starz INBLACK (US):US/Eastern
 starz KIDS & FAMILY (US):US/Eastern
 style. NETWORK (UK):Europe/London
+tabii:Europe/Istanbul
 tagesschau24 (DE):Europe/Berlin
 thebaytheseries.com (US):US/Eastern
 this TV network (US):US/Eastern
@@ -3477,6 +4041,7 @@ truTV:US/Eastern
 truTV (UK):Europe/London
 tvK (US):US/Eastern
 tvN:Asia/Seoul
+tvN Olive:Asia/Seoul
 tvb8 (US):US/Eastern
 tvk:Asia/Tokyo
 tvn:Europe/Warsaw
@@ -3484,6 +4049,7 @@ tvokids:Canada/Eastern
 téva:Europe/Paris
 unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
+vivaone:Asia/Manila
 vt4:Europe/Brussels
 vtm.be:Europe/Brussels
 vtmKzoom:Europe/Brussels
@@ -3497,6 +4063,7 @@ youtoo SOCIAL TV (US):US/Eastern
 ztv:Europe/Stockholm
 ¡Sorpresa! (US):US/Eastern
 À Punt:Europe/Madrid
+À Punt Media:Europe/Madrid
 ÄŒeskoslovenská televize:Europe/Prague
 ÄŒeská televize:Europe/Prague
 Évasion:Canada/Eastern
@@ -3509,6 +4076,7 @@ ztv:Europe/Stockholm
 Česká televize:Europe/Prague
 ΕΡΤ:Europe/Athens
 ΕΡΤ 1:Europe/Athens
+ΣΚΑΪ Τηλεόραση:Europe/Athens
 Інтер:Europe/Kiev
 ДТВ:Europe/Kaliningrad
 Дождь:Europe/Kaliningrad
@@ -3517,6 +4085,7 @@ ztv:Europe/Stockholm
 КиноПоиск HD:Europe/Kaliningrad
 Мульт:Europe/Kaliningrad
 НТВ:Europe/Kaliningrad
+Нова телевизия:Europe/Sofia
 Первый канал:Europe/Kaliningrad
 Пятый канал:Europe/Kaliningrad
 РЕН:Europe/Kaliningrad
@@ -3526,18 +4095,116 @@ ztv:Europe/Stockholm
 СТБ:Europe/Kiev
 СТС:Europe/Kaliningrad
 ТВ Центр:Europe/Kaliningrad
+ТВ-3:Europe/Kaliningrad
 ТВ3:Europe/Kaliningrad
 ТВ6 (RU):Europe/Kaliningrad
 ТВС:Europe/Kaliningrad
 ТНТ:Europe/Kaliningrad
+Твоё Новое Телевидение:Europe/Kaliningrad
+Телевидение нового тысячелетия:Europe/Kaliningrad
+דיסני פלוס:US/Eastern
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
 כאן:Asia/Jerusalem
 כאן (Kan):Asia/Jerusalem
 כאן 11:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
+ערוץ 2:Asia/Jerusalem
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 קשת 12:Asia/Jerusalem
 רשת:Asia/Jerusalem
+רשת 13:Asia/Jerusalem
+תאגיד השידור הישראלי:Asia/Jerusalem
+آی فیلم:Asia/Tehran
+أفلام التليفزيون:Africa/Cairo
+أون اي:Africa/Cairo
+أون تايم سبورتس:Africa/Cairo
+أون دراما:Africa/Cairo
+أون لايف:Africa/Cairo
+إم بي سي:Asia/Riyadh
+إم بي سي 1:Asia/Riyadh
+إم بي سي 2:Asia/Riyadh
+إم بي سي 3:Asia/Riyadh
+إم بي سي 4:Asia/Riyadh
+إم بي سي 5:Asia/Riyadh
+إم بي سي أكشن:Asia/Riyadh
+إم بي سي إيران:Asia/Riyadh
+إم بي سي العراق:Asia/Riyadh
+إم بي سي بوليوود:Asia/Riyadh
+إم بي سي دراما:Asia/Riyadh
+إم بي سي دراما +:Asia/Riyadh
+إم بي سي ماكس:Asia/Riyadh
+إم بي سي مصر:Asia/Riyadh
+إم بي سي مصر 2:Asia/Riyadh
+ابو ظبي:Asia/Dubai
+التليفزيون المصري:Africa/Cairo
+الحياة:Africa/Cairo
+الحياة دراما:Africa/Cairo
+الفضائية المصرية:Africa/Cairo
+القناة الأولى المصرية:Africa/Cairo
+القناة الثانية المصرية:Africa/Cairo
+النهار 1:Africa/Cairo
+النهار 2:Africa/Cairo
+النهار دراما:Africa/Cairo
+ايه ار تي:Asia/Riyadh
+تليفزيون دريم:Africa/Cairo
+تماشا:Asia/Tehran
+دراما سورية:Asia/Damascus
+دي ام سي:Africa/Cairo
+ديزني بلس:US/Eastern
+سي بي سي:Africa/Cairo
+سي بي سي اكسترا:Africa/Cairo
+سي بي سي دراما:Africa/Cairo
+سي بي سي سفرة:Africa/Cairo
+سي بي سي مصر:Africa/Cairo
+شبكة تليفزيون التحرير:Africa/Cairo
+شبكة تليفزيون المحروسة:Africa/Cairo
+شبكة تليفزيون النيل:Africa/Cairo
+شبکه آموزش:Asia/Tehran
+شبکه افق:Asia/Tehran
+شبکه امید:Asia/Tehran
+شبکه خبر:Asia/Tehran
+شبکه دو:Asia/Tehran
+شبکه سلامت:Asia/Tehran
+شبکه سه:Asia/Tehran
+شبکه قرآن:Asia/Tehran
+شبکه مستند:Asia/Tehran
+شبکه نسیم:Asia/Tehran
+شبکه نمایش:Asia/Tehran
+شبکه ورزش:Asia/Tehran
+شبکه پنج:Asia/Tehran
+شبکه پویا:Asia/Tehran
+شبکه چهار:Asia/Tehran
+شبکه یک:Asia/Tehran
+صدا و سیما:Asia/Tehran
+فارسی وان:Asia/Dubai
+قناة العالم:Asia/Tehran
+قناة الكوثر:Asia/Tehran
+قناة رؤيا:Asia/Amman
+قناة سوريا دراما:Asia/Damascus
+قناة ماجد للأطفال:Asia/Dubai
+كايرو سينتريك:Africa/Cairo
+ماسبيرو:Africa/Cairo
+نايل TV:Africa/Cairo
+يوتيوب:US/Eastern
 ช่อง one:Asia/Bangkok
+สถานีโทรทัศน์ช่องวัน 31:Asia/Bangkok
+პირველი არხი:Asia/Tbilisi
+らくてんティービー:Asia/Tokyo
+フールー:Asia/Tokyo
+中視:Asia/Taipei
+中视:Asia/Taipei
+千葉テレビジョン放送株式会社:Asia/Tokyo
+哔哩哔哩:Asia/Shanghai
+日テレ:Asia/Tokyo
+日本テレビ:Asia/Tokyo
+株式会社テレビ朝日:Asia/Tokyo
+無綫電視翡翠台:Asia/Hong_Kong
+臺視:Asia/Taipei
+華視:Asia/Taipei
+네이버 나우:Asia/Seoul
+네이버TVcast:Asia/Seoul
+동양텔레비전:Asia/Seoul
+스브스:Asia/Seoul
+조선중앙텔레비전:Asia/Pyongyang
