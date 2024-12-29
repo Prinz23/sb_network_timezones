@@ -1376,6 +1376,7 @@ GMM Z Hitz:Asia/Bangkok
 GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
+GO TV:Europe/Malta
 GO! (AU):Australia/Sydney
 GOLD (AU):Australia/Sydney
 GOLD (UK):Europe/London
@@ -1417,6 +1418,7 @@ Global Television Network:Canada/Eastern
 Globo International (AU):Australia/Sydney
 GloboNews:America/Sao_Paulo
 Globoplay:America/Sao_Paulo
+Globosat News Television:America/Sao_Paulo
 Gloob:America/Sao_Paulo
 Glory TV (UK):Europe/London
 Go90:US/Eastern
@@ -2289,6 +2291,7 @@ One 31:Asia/Bangkok
 One America NEWS NETWORK (US):US/Eastern
 One Channel:Europe/Athens
 One Magic:Africa/Johannesburg
+One TV:Europe/Malta
 One World Sport (US):US/Eastern
 One31 HD:Asia/Bangkok
 Open Heaven TV (UK):Europe/London
@@ -2999,6 +3002,7 @@ Super Channel 2 (CA):Canada/Eastern
 Super Channel 3 (CA):Canada/Eastern
 Super Channel 4 (CA):Canada/Eastern
 Super Deluxe:US/Eastern
+Super One Television:Europe/Malta
 Super Polsat:Europe/Warsaw
 Super RTL:Europe/Berlin
 Super RTL (DE):Europe/Berlin
