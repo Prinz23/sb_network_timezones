@@ -1258,6 +1258,7 @@ Five Channel:Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Fix & Foxi:Europe/Berlin
+Flavour Network:Canada/Eastern
 Flooxer:Europe/Madrid
 FlopTV:Europe/Rome
 Flow:America/Buenos_Aires
@@ -1522,6 +1523,7 @@ Hokkaido Television Broadcasting:Asia/Tokyo
 Holiday & Cruise (UK):Europe/London
 Home & Garden Television:US/Eastern
 Home Box Office:US/Eastern
+Home Network:Canada/Eastern
 Home Team Networks (US):US/Eastern
 HonorClub:US/Eastern
 Hope CHANNEL (US):US/Eastern
@@ -1995,6 +1997,7 @@ Mediaset Infinity:Europe/Rome
 Mega:America/Santiago
 Mega Channel:Europe/Athens
 Mehwar:Africa/Cairo
+Melody:Africa/Cairo
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Midlands Asian Television:Europe/London
@@ -2004,6 +2007,7 @@ Mitteldeutscher Rundfunk:Europe/Berlin
 Mnet:Asia/Seoul
 Mnet AMERICA (US):US/Eastern
 Modo Viagem:America/Sao_Paulo
+Moga Comedy:Africa/Cairo
 Moi & Cie:Canada/Eastern
 Mondo TV:Europe/Rome
 MoonTV:Europe/Helsinki
@@ -2357,6 +2361,7 @@ Pac-12 Oregon (US):US/Eastern
 Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
+Panorama (PNC):Africa/Cairo
 Pantaya:US/Eastern
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
@@ -3552,6 +3557,7 @@ UP TV:US/Eastern
 UPN:US/Eastern
 UPtv:US/Eastern
 USA Network:US/Eastern
+USA Network (CA):Canada/Eastern
 UTV:Europe/Dublin
 UTV (UK):Europe/London
 Ulster Television:Europe/Dublin
