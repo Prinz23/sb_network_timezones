@@ -1920,6 +1920,7 @@ MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (FR):Europe/Paris
 MTV (Lebanon):Asia/Beirut
+MTV (NL/BE):Europe/Amsterdam
 MTV (PL):Europe/Warsaw
 MTV (UK):Europe/London
 MTV (US):US/Eastern
