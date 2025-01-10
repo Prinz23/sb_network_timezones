@@ -2121,6 +2121,7 @@ NOS:Europe/Amsterdam
 NOVE:Europe/Rome
 NOW TV:Europe/Istanbul
 NPO 1:Europe/Amsterdam
+NPO 2:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
 NPR:US/Eastern
 NPS:Europe/Amsterdam
@@ -2182,6 +2183,7 @@ Naver TVcast:Asia/Seoul
 Nebula:US/Eastern
 Nederland 3:Europe/Amsterdam
 Nederlandse Publieke Omroep 1:Europe/Amsterdam
+Nederlandse Publieke Omroep 2:Europe/Amsterdam
 Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
