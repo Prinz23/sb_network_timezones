@@ -180,6 +180,7 @@ AXN (HK):Asia/Hong_Kong
 AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
+AXN Brasil:America/Sao_Paulo
 AXN España:Europe/Madrid
 AXN Polska:Europe/Warsaw
 AXS TV:US/Eastern
@@ -427,6 +428,7 @@ Baiskoafu:Indian/Maldives
 Band:America/Sao_Paulo
 Bandai Channel:Asia/Tokyo
 Bandai Channel (JP):Asia/Tokyo
+Bandplay:America/Sao_Paulo
 Bangla TV (UK):Europe/London
 Barcelona TV (ES):Europe/Madrid
 Bay TV Clywd (UK):Europe/London
@@ -1999,6 +2001,7 @@ Mega:America/Santiago
 Mega Channel:Europe/Athens
 Mehwar:Africa/Cairo
 Melody:Africa/Cairo
+Mercado Play:America/Sao_Paulo
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Midlands Asian Television:Europe/London
@@ -2301,6 +2304,7 @@ One Magic:Africa/Johannesburg
 One TV:Europe/Malta
 One World Sport (US):US/Eastern
 One31 HD:Asia/Bangkok
+OnePlus:Europe/Zurich
 Open Heaven TV (UK):Europe/London
 Open TV:Europe/Athens
 Oprah Winfrey Network:US/Eastern
@@ -2916,6 +2920,7 @@ SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
 Sony Channel (BR):America/Sao_Paulo
+Sony Channel Brazil:America/Sao_Paulo
 Sony Crackle:US/Eastern
 Sony Entertainment Network:US/Eastern
 Sony Entertainment Television:US/Eastern
@@ -3705,6 +3710,7 @@ W Network:Canada/Eastern
 W9:Europe/Paris
 WAPA-TV (US):US/Eastern
 WATCH iT!:Africa/Cairo
+WATCHIT:Africa/Cairo
 WB (CA):Canada/Eastern
 WBZ-TV (US):US/Eastern
 WCCO Channel 4 (US):US/Eastern
