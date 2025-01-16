@@ -106,6 +106,7 @@ ABS-CBN:Asia/Manila
 ABS-CBN Broadcasting Company:Asia/Manila
 ABS-CBN Broadcasting Corporation:Asia/Manila
 ABS-CBN Corporation:Asia/Manila
+ABS-CBN Studios:Asia/Manila
 ABT (AU):Australia/Sydney
 ABV (AU):Australia/Sydney
 ABW (AU):Australia/Sydney
