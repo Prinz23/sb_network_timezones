@@ -2173,6 +2173,7 @@ National Geographic (FI):Europe/Helsinki
 National Geographic (NO):Europe/Oslo
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
+National Geographic (ZA):Africa/Johannesburg
 National Geographic Adventure:US/Eastern
 National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
@@ -2403,6 +2404,7 @@ Planète+:Europe/Paris
 Planète+ (Canada):Canada/Eastern
 Play More:Europe/Brussels
 Play Plus:America/Sao_Paulo
+Play Premium:Europe/Zagreb
 Play UK:Europe/London
 Play UK, BBC Choice:Europe/London
 Play4:Europe/Brussels
