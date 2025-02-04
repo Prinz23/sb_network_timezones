@@ -3512,6 +3512,7 @@ Turner South:US/Eastern
 Tv2 Zulu:Europe/Copenhagen
 TvNorge:Europe/Oslo
 Tvoyo Novoye Televideniye:Europe/Kaliningrad
+Twist:Africa/Cairo
 Twitch:US/Eastern
 Twitter:US/Eastern
 Télé (CA):Canada/Eastern
