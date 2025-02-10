@@ -345,6 +345,7 @@ BBC One Channel Islands:Europe/Jersey
 BBC One East:Europe/London
 BBC One East Midlands:Europe/London
 BBC One East Yorkshire and Lincolnshire:Europe/London
+BBC One London:Europe/London
 BBC One North East:Europe/London
 BBC One North East & Cumbria:Europe/London
 BBC One North West:Europe/London
@@ -2053,6 +2054,7 @@ Mx Player App:Asia/Kolkata
 MxPlayer:Asia/Kolkata
 My Channel (UK):Europe/London
 My family tv (US):US/Eastern
+My5:Europe/London
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
 MyTF1:Europe/Paris
@@ -3743,7 +3745,9 @@ WWJ-TV Detroit (US):US/Eastern
 WZTV:Asia/Shanghai
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
+Warhammer Plus:Europe/London
 Warhammer TV:Europe/London
+Warhammer+:Europe/London
 Warner Channel:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner TV:US/Eastern
