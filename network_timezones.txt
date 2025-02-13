@@ -3111,6 +3111,7 @@ TNT Serie:Europe/Berlin
 TNT Serie (before 2021 09 25):Europe/Berlin
 TNT Spain:Europe/Madrid
 TNU:America/Montevideo
+TOD:Asia/Qatar
 TOD Türkiye:Europe/Istanbul
 TONTON:Asia/Kuala_Lumpur
 TPC (US):US/Eastern
