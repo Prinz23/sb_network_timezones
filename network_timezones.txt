@@ -372,6 +372,7 @@ BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
 BBC Three:Europe/London
 BBC Two:Europe/London
+BBC Two Wales:Europe/London
 BBC UKTV (AU):Australia/Sydney
 BBC Wales:Europe/London
 BBC World News:Europe/London
@@ -383,6 +384,7 @@ BBC one Wales:Europe/London
 BCV (AU):Australia/Sydney
 BET:US/Eastern
 BET (UK):Europe/London
+BET Africa:Africa/Johannesburg
 BET Gospel (US):US/Eastern
 BET HIP HOP (US):US/Eastern
 BET Plus:US/Eastern
@@ -634,6 +636,7 @@ Canal 10 Saeta:America/Montevideo
 Canal 11:Europe/Lisbon
 Canal 13:America/Santiago
 Canal 13 (AR):America/Buenos_Aires
+Canal 2:America/Mexico_City
 Canal 22:America/Mexico_City
 Canal 4 Montecarlo:America/Montevideo
 Canal 5:America/Mexico_City
@@ -775,6 +778,7 @@ Citv (UK):Europe/London
 City:Canada/Eastern
 City Channel:Europe/Dublin
 CityTV:Canada/Eastern
+Citytv:Canada/Eastern
 Claro Video:America/Mexico_City
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
@@ -3778,6 +3782,7 @@ Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
 Wowow:Asia/Tokyo
 X (social media):US/Eastern
+XEW-TDT:America/Mexico_City
 XY TV:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
