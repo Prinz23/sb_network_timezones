@@ -9,6 +9,7 @@
 10 Peach:Australia/Sydney
 10 Shake:Australia/Sydney
 111 Greats (AU):Australia/Sydney
+13:America/Santiago
 13 רשת:Asia/Jerusalem
 13TH STREET (AU):Australia/Sydney
 13th Street:Europe/Berlin
@@ -636,6 +637,7 @@ Canal 10 Saeta:America/Montevideo
 Canal 11:Europe/Lisbon
 Canal 13:America/Santiago
 Canal 13 (AR):America/Buenos_Aires
+Canal 13 HD:America/Santiago
 Canal 2:America/Mexico_City
 Canal 22:America/Mexico_City
 Canal 4 Montecarlo:America/Montevideo
@@ -1107,6 +1109,7 @@ Egyptian Television Network:Africa/Cairo
 EinsExtra (DE):Europe/Berlin
 EinsPlus:Europe/Berlin
 Einsfestival:Europe/Berlin
+El 13:America/Santiago
 El Djazairia One:Africa/Algiers
 El Garage TV:America/Buenos_Aires
 El Hayah:Africa/Cairo
@@ -3064,6 +3067,7 @@ TBS (DE):Europe/Berlin
 TBS (JP):Asia/Tokyo
 TBS (Latin America):America/Buenos_Aires
 TBS Superstation:US/Eastern
+TBS Television:Asia/Tokyo
 TCM:Europe/London
 TCN (AU):Australia/Sydney
 TCT (US):US/Eastern
@@ -4013,6 +4017,7 @@ nickelodeon (UK):Europe/London
 nova (CZ):Europe/Prague
 null.video:Europe/Oslo
 oksusu:Asia/Seoul
+one:Europe/Berlin
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
@@ -4232,6 +4237,7 @@ ztv:Europe/Stockholm
 哔哩哔哩:Asia/Shanghai
 日テレ:Asia/Tokyo
 日本テレビ:Asia/Tokyo
+株式会社TBSテレビ:Asia/Tokyo
 株式会社テレビ朝日:Asia/Tokyo
 無綫電視翡翠台:Asia/Hong_Kong
 臺視:Asia/Taipei
