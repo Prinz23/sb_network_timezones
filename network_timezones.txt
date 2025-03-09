@@ -1694,6 +1694,7 @@ KRO-NCRV:Europe/Amsterdam
 KTLA 5 (US):US/Eastern
 KTMA TV 23:US/Eastern
 KTN:Asia/Karachi
+KTV:Asia/Tokyo
 KTV (JP):Asia/Tokyo
 KVOS:US/Eastern
 KYW-TV (US):US/Eastern
