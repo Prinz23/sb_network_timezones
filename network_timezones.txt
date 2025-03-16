@@ -1651,6 +1651,7 @@ Jewellery Channel (UK):Europe/London
 Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
 JioCinema:Asia/Kolkata
+JioHotstar:Asia/Kolkata
 Joi:Europe/Rome
 Joiz (CH):Europe/Zurich
 Joiz (DE):Europe/Berlin
@@ -3955,6 +3956,7 @@ hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
 iFilm:Asia/Tehran
 iFilm Arabic:Asia/Tehran
+iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes:US/Eastern
 iTunes (US):US/Eastern
