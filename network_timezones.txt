@@ -215,6 +215,7 @@ Ahlulbayt TV (UK):Europe/London
 Aizo TV:Asia/Taipei
 Al Alam:Asia/Tehran
 Al Aoula:Africa/Casablanca
+Al Arabiya:Asia/Dubai
 Al Arabiyya:Asia/Dubai
 Al Badeel:Africa/Tripoli
 Al Hayah:Africa/Cairo
@@ -1737,6 +1738,7 @@ Ketnet (BE):Europe/Brussels
 KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
+Kids and Teens Television:US/Eastern
 KinoPoisk:Europe/Kaliningrad
 Kiss:Europe/London
 Kix (UK):Europe/London
