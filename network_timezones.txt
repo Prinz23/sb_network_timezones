@@ -5,6 +5,7 @@
 - None:US/Eastern
 1+1:Europe/Kiev
 1-Sky One:Asia/Bangkok
+10:Australia/Sydney
 10 Bold:Australia/Sydney
 10 Peach:Australia/Sydney
 10 Shake:Australia/Sydney
@@ -253,6 +254,7 @@ Alpha TV PUNJABI:Asia/Kolkata
 Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
 Alto Broadcasting System - Chronicle Broadcasting Network:Asia/Manila
+Alwayz Shortdrama:Asia/Seoul
 Amarin TV:Asia/Bangkok
 Amazon:US/Eastern
 Amazon (Japan):Asia/Tokyo
@@ -424,6 +426,7 @@ BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
 BTV:Asia/Shanghai
+BUMP:Asia/Tokyo
 BYU Television:US/Eastern
 BYUtv:US/Eastern
 BabyFirstTV:US/Eastern
@@ -706,6 +709,7 @@ Centro de Televisão do SBT:America/Sao_Paulo
 Ceska televize:Europe/Prague
 Ceskoslovenská televize:Europe/Prague
 Challenge:Europe/London
+Channel 10:Australia/Sydney
 Channel 10 (IL):Asia/Jerusalem
 Channel 101:US/Eastern
 Channel 13:Asia/Jerusalem
@@ -1789,6 +1793,7 @@ La 2:Europe/Madrid
 La 2 (TVE2):Europe/Madrid
 La Chaîne Histoire:Europe/Paris
 La Cinq:Europe/Paris
+La Cinquième:Europe/Paris
 La Deux:Europe/Brussels
 La Dos:Europe/Madrid
 La Familia Cosmovision (US):US/Eastern
@@ -2909,6 +2914,7 @@ Sky Showcase:Europe/London
 Sky Sport (IT):Europe/Rome
 Sky Sports:Europe/London
 Sky Sports F1:Europe/London
+Sky TG24:Europe/Rome
 Sky Three:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
@@ -3697,6 +3703,7 @@ Videoland Television Network:Asia/Taipei
 Vidi Space:US/Eastern
 Vidio:Asia/Jakarta
 Vidol:Asia/Taipei
+Vigloo:Asia/Seoul
 VijfTV:Europe/Brussels
 Viki:US/Eastern
 Vimeo:US/Eastern
@@ -3710,6 +3717,7 @@ Viu:Asia/Hong_Kong
 Viu Originals:Asia/Hong_Kong
 ViuTV:Asia/Hong_Kong
 Viva:America/Sao_Paulo
+Viva One:Asia/Manila
 Vix+:America/Mexico_City
 Viên Thao TV (US):US/Eastern
 Vlaamse Televisie Maatschappij:Europe/Brussels
