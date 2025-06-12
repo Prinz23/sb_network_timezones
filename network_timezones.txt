@@ -89,6 +89,7 @@ ABC Family:US/Eastern
 ABC Kids:Australia/Sydney
 ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
+ABC TV:Asia/Tokyo
 ABC TV (JP):Asia/Tokyo
 ABC TV Plus:Australia/Sydney
 ABC iview:Australia/Sydney
@@ -858,6 +859,7 @@ Crime & Investigation Network (US):US/Eastern
 Crime District:Europe/Luxembourg
 Croatian Music Channel:Europe/Zagreb
 Crunchyroll:US/Eastern
+Crunchyroll Channel:US/Eastern
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
 Current TV:US/Eastern
@@ -1368,6 +1370,7 @@ Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
 Fuji TV on demand:Asia/Tokyo
 Fullscreen:US/Eastern
+Funimation Channel:US/Eastern
 Fuse:US/Eastern
 Fusion:US/Eastern
 Fusion (US):US/Eastern
@@ -1938,9 +1941,15 @@ MTN (AU):Australia/Sydney
 MTV:US/Eastern
 MTV (AU):Australia/Sydney
 MTV (AU/NZ):Australia/Sydney
+MTV (BR):America/Sao_Paulo
 MTV (CA):Canada/Eastern
+MTV (CN/TW):Asia/Taipei
+MTV (ES):Europe/Madrid
 MTV (FI):Europe/Helsinki
 MTV (FR):Europe/Paris
+MTV (IN):Asia/Kolkata
+MTV (IT):Europe/Rome
+MTV (Latin America):US/Eastern
 MTV (Lebanon):Asia/Beirut
 MTV (NL/BE):Europe/Amsterdam
 MTV (PL):Europe/Warsaw
@@ -2169,6 +2178,7 @@ NTV (JP):Asia/Tokyo
 NTV (TW):Asia/Taipei
 NTV (UK):Europe/London
 NTV7:Asia/Kuala_Lumpur
+NUMAnimation:Asia/Tokyo
 NUVOtv (US):US/Eastern
 NVTV (UK):Europe/London
 NWCN (US):US/Eastern
@@ -2237,6 +2247,7 @@ Nick at Nite:US/Eastern
 NickSpongeBob:US/Eastern
 NickToons:US/Eastern
 NickToons Network:US/Eastern
+NickToons TV:US/Eastern
 Nickelodeon:US/Eastern
 Nickelodeon (BR):America/Sao_Paulo
 Nickelodeon (DE):Europe/Berlin
@@ -4256,6 +4267,7 @@ ztv:Europe/Stockholm
 哔哩哔哩:Asia/Shanghai
 日テレ:Asia/Tokyo
 日本テレビ:Asia/Tokyo
+朝日放送株式会社:Asia/Tokyo
 株式会社TBSテレビ:Asia/Tokyo
 株式会社テレビ朝日:Asia/Tokyo
 無綫電視翡翠台:Asia/Hong_Kong
