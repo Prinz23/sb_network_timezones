@@ -50,6 +50,7 @@
 4Music (UK):Europe/London
 4SD:US/Eastern
 4SD (US):US/Eastern
+5:Europe/London
 5 abc (US):US/Eastern
 5* (UK):Europe/London
 5+:Europe/Zurich
@@ -720,6 +721,7 @@ Channel 2 Iceland:Iceland
 Channel 3:Asia/Bangkok
 Channel 4:Europe/London
 Channel 5:Asia/Singapore
+Channel 5 (1997–2002; 2011–2025):Europe/London
 Channel 5 (England):Europe/London
 Channel 5 (SG):Asia/Singapore
 Channel 5 (TH):Asia/Bangkok
@@ -762,6 +764,7 @@ Chiba TV (JP):Asia/Tokyo
 Chiba Television Broadcasting:Asia/Tokyo
 Chiba Television Broadcasting Corporation:Asia/Tokyo
 Chiba Terebijon Hōsō Kabushiki-gaisha:Asia/Tokyo
+Children's ITV:Europe/London
 Chilevisión:America/Santiago
 Chiller:US/Eastern
 Chinese Central Television:Asia/Shanghai
