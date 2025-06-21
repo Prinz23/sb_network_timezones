@@ -3817,6 +3817,7 @@ Word Network (UK):Europe/London
 Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
 Wowow:Asia/Tokyo
+X:US/Eastern
 X (social media):US/Eastern
 XEW-TDT:America/Mexico_City
 XY TV:US/Eastern
