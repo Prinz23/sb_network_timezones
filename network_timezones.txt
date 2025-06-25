@@ -2408,6 +2408,7 @@ Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
 Panorama (PNC):Africa/Cairo
 Pantaya:US/Eastern
+Paramount + Premium:US/Eastern
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
