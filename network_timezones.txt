@@ -2413,6 +2413,7 @@ Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paramount+:US/Eastern
+Paramount+ Premium:US/Eastern
 Paramount+ with Showtime:US/Eastern
 Paravi:Asia/Tokyo
 Paris Première:Europe/Paris
