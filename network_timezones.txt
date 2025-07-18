@@ -3994,6 +3994,7 @@ iQiyi:Asia/Shanghai
 iTunes:US/Eastern
 iTunes (US):US/Eastern
 iWTFC:Asia/Manila
+iWant:Asia/Manila
 iWantTFC:Asia/Manila
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
