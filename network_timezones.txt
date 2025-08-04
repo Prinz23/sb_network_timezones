@@ -271,6 +271,7 @@ Amman TV:Asia/Amman
 América TV:America/Buenos_Aires
 América TV:America/Lima
 And TV:Asia/Kolkata
+Angel:US/Eastern
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Angel.com:US/Eastern
@@ -3719,6 +3720,7 @@ Viceland (NL):Europe/Amsterdam
 Viceland (UK):Europe/London
 Viceland (US):US/Eastern
 Victory Television Network (US):US/Eastern
+VidAngel:US/Eastern
 VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
