@@ -2074,6 +2074,7 @@ MuchMusic:Canada/Eastern
 MuchMusic (CA):Canada/Eastern
 Multimedios Television (US):US/Eastern
 Multishow:America/Sao_Paulo
+Mun TV:Asia/Karachi
 Mundo Nick (MX):America/Mexico_City
 Mundo Nick (PR):America/Puerto_Rico
 MundoVision (US):US/Eastern
