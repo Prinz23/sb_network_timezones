@@ -1937,6 +1937,7 @@ MOJO (US):US/Eastern
 MOVIE CHANNEL (US):US/Eastern
 MOVIES! (US):US/Eastern
 MPT 1:Europe/Skopje
+MS NOW:US/Eastern
 MSG (US):US/Eastern
 MSG+ (US):US/Eastern
 MSNBC:US/Eastern
@@ -2085,6 +2086,7 @@ Mx Player:Asia/Kolkata
 Mx Player App:Asia/Kolkata
 MxPlayer:Asia/Kolkata
 My Channel (UK):Europe/London
+My Source News Opinion World:US/Eastern
 My family tv (US):US/Eastern
 My5:Europe/London
 MyDestination.tv (US):US/Eastern
@@ -2250,6 +2252,7 @@ Nick GAS:US/Eastern
 Nick Jr.:US/Eastern
 Nick at Nite:US/Eastern
 NickSpongeBob:US/Eastern
+NickSpongebob:US/Eastern
 NickToons:US/Eastern
 NickToons Network:US/Eastern
 NickToons TV:US/Eastern
