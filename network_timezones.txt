@@ -563,6 +563,8 @@ CHCH (CA):Canada/Eastern
 CHCH-TV:Canada/Eastern
 CHELSEA TV (UK):Europe/London
 CHOCO TV:Asia/Taipei
+CHUKYO TV (CTV):Asia/Tokyo
+CHUKYO TV. BROADCASTING CO.,LTD.:Asia/Tokyo
 CI:Australia/Sydney
 CITV:Europe/London
 CLTV (US):US/Eastern
