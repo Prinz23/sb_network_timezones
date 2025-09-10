@@ -1167,6 +1167,7 @@ Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Express Entertainment:Asia/Karachi
+Express TV:Asia/Karachi
 Expresso:Europe/Lisbon
 Extreme Sports Channel (UK):Europe/London
 Exxen:Europe/Istanbul
