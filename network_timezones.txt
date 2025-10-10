@@ -304,6 +304,7 @@ Aroutz 2:Asia/Jerusalem
 Arte:Europe/Paris
 Arte Creative:Europe/Paris
 Arte1:America/Sao_Paulo
+Arutz Hayeladim:Asia/Jerusalem
 Asahi Broadcasting Corporation:Asia/Tokyo
 Asahi Television Broadcasting Corporation:Asia/Tokyo
 Associated Broadcasting Company (PH):Asia/Manila
@@ -1757,6 +1758,7 @@ KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
 Kids and Teens Television:US/Eastern
+KidsTV:Asia/Jerusalem
 KinoPoisk:Europe/Kaliningrad
 Kiss:Europe/London
 Kix (UK):Europe/London
