@@ -290,6 +290,7 @@ Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
 Apple Podcasts:US/Eastern
+Apple TV:US/Eastern
 Apple TV Plus:US/Eastern
 Apple TV+:US/Eastern
 AppleTV+:US/Eastern
@@ -1020,6 +1021,7 @@ Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
 Disney+:US/Eastern
 Disney+ Hotstar:Asia/Kolkata
+Disney+ Hulu:US/Eastern
 Disney+ Star:US/Eastern
 DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
@@ -1565,6 +1567,7 @@ Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hrvatska radiotelevizija (HRT):Europe/Zagreb
 Hulu:US/Eastern
+Hulu on Disney+:US/Eastern
 Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
 Hungama:Asia/Kolkata
