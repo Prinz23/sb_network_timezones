@@ -76,6 +76,7 @@ A+:Europe/Paris
 A-1 Pictures:Asia/Tokyo
 AAG (UK):Europe/London
 AAG TV:Asia/Karachi
+AAN TV:Asia/Karachi
 AANtv (US):US/Eastern
 AB1:Europe/Paris
 ABC:US/Eastern
