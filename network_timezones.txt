@@ -993,6 +993,8 @@ Discovery+ (NO):Europe/Oslo
 Discovery+ (SE):Europe/Stockholm
 Discovery+ Sweden:Europe/Stockholm
 Dish TV:US/Eastern
+Disney:US/Eastern
+Disney (US):US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (BR):America/Sao_Paulo
 Disney Channel (DE):Europe/Berlin
@@ -1013,13 +1015,16 @@ Disney Channel Latin America:America/Buenos_Aires
 Disney Channel Latinoamérica:America/Buenos_Aires
 Disney Cinemagic:Europe/London
 Disney Jr.:US/Eastern
+Disney Jr. (US):US/Eastern
 Disney Junior:US/Eastern
 Disney Junior (CA):Canada/Eastern
 Disney Junior (UK):Europe/London
+Disney Junior (US):US/Eastern
 Disney Plus:US/Eastern
 Disney XD:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Buenos_Aires
+Disney XD (US):US/Eastern
 Disney+:US/Eastern
 Disney+ Hotstar:Asia/Kolkata
 Disney+ Hulu:US/Eastern
@@ -2186,6 +2191,8 @@ NRK1:Europe/Oslo
 NRK2:Europe/Oslo
 NRK3:Europe/Oslo
 NRN (AU):Australia/Sydney
+NT KIDS:America/Sao_Paulo
+NT Play:America/Sao_Paulo
 NT1:Europe/Paris
 NTA:Africa/Lagos
 NTD (AU):Australia/Sydney
@@ -3249,6 +3256,7 @@ TV Land:US/Eastern
 TV Maison:Europe/Paris
 TV Markíza:Europe/Bratislava
 TV Markíza (SK):Europe/Bratislava
+TV NOVO TEMPO:America/Sao_Paulo
 TV Net:Europe/Istanbul
 TV Norge:Europe/Oslo
 TV Nova:Europe/Prague
@@ -3488,6 +3496,7 @@ The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Discovery Channel Canada:Canada/Eastern
 The Disney Channel:US/Eastern
+The Disney Channel (US):US/Eastern
 The Family Channel:US/Eastern
 The Great Courses:US/Eastern
 The Great Courses Plus:US/Eastern
@@ -3568,6 +3577,7 @@ Turkish:Europe/Istanbul
 Turner Broadcasting System:US/Eastern
 Turner Network Television:US/Eastern
 Turner South:US/Eastern
+Tv Novo Tempo:America/Sao_Paulo
 Tv2 Zulu:Europe/Copenhagen
 TvNorge:Europe/Oslo
 Tvoyo Novoye Televideniye:Europe/Kaliningrad
