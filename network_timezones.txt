@@ -102,6 +102,7 @@ ABC4Kids:Australia/Sydney
 ABC7 Chicago (US):US/Eastern
 ABCテレビ:Asia/Tokyo
 ABD (AU):Australia/Sydney
+ABEMA:Asia/Tokyo
 ABN (AU):Australia/Sydney
 ABN (US):US/Eastern
 ABP New (UK):Europe/London
@@ -197,6 +198,7 @@ Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
 Abema TV:Asia/Tokyo
+AbemaTV:Asia/Tokyo
 Aboriginal Peoples Television Network:Canada/Eastern
 Abu Dhabi TV:Asia/Dubai
 Abu Dhabi TV (UK):Europe/London
@@ -4295,6 +4297,8 @@ ztv:Europe/Stockholm
 สถานีโทรทัศน์ช่องวัน 31:Asia/Bangkok
 პირველი არხი:Asia/Tbilisi
 らくてんティービー:Asia/Tokyo
+アベマ:Asia/Tokyo
+アベマティーヴィー:Asia/Tokyo
 フールー:Asia/Tokyo
 中視:Asia/Taipei
 中视:Asia/Taipei
