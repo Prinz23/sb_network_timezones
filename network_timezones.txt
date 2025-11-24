@@ -880,7 +880,9 @@ CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
 DAZN:Europe/London
+DC:US/Eastern
 DC Universe:US/Eastern
+DChannel:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
 DFamilia (US):US/Eastern
@@ -889,6 +891,7 @@ DISCOVERY SCIENCE (CA):Canada/Eastern
 DISCOVERY home&health (UK):Europe/London
 DIY Network:US/Eastern
 DIY Network Canada:Canada/Eastern
+DJr.:US/Eastern
 DM Digital (UK):Europe/London
 DMAX:Europe/Berlin
 DMAX (DE):Europe/Berlin
@@ -913,6 +916,7 @@ DTD (AU):Australia/Sydney
 DTOUR (CA):Canada/Eastern
 DUSK (CA):Canada/Eastern
 DW (Arabia):Europe/Berlin
+DXD:US/Eastern
 DaAi TV:Asia/Taipei
 Daily Wire Plus:US/Eastern
 DailyWire+:US/Eastern
