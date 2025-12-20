@@ -3117,6 +3117,7 @@ Syndication (CA):Canada/Eastern
 Syrian Drama TV:Asia/Damascus
 Séries Plus:Canada/Eastern
 Séries+:Canada/Eastern
+Sýn:Iceland
 T7:CET
 TBC:Asia/Seoul
 TBD:US/Eastern
