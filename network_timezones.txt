@@ -2766,6 +2766,7 @@ SBTN (US):US/Eastern
 SEC ESPN NETWORK (US):US/Eastern
 SEC Network:US/Eastern
 SES (AU):Australia/Sydney
+SET Entertainment HD:Asia/Karachi
 SET MAX:Asia/Kolkata
 SET Max (UK):Europe/London
 SET Metro:Asia/Taipei
@@ -2891,6 +2892,7 @@ Semerkand TV:Europe/Istanbul
 Seoul Broadcasting System:Asia/Seoul
 Servus TV:Europe/Vienna
 SescTV:America/Sao_Paulo
+Set Entertainment:Asia/Karachi
 Setanta Ireland:Europe/Dublin
 Seven:Australia/Sydney
 Seven Network:Australia/Sydney
