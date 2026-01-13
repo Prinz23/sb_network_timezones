@@ -2285,6 +2285,7 @@ Nickelodeon (BR):America/Sao_Paulo
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (Latin America):America/Buenos_Aires
 Nickelodeon (NL):Europe/Amsterdam
+Nicktoons:US/Eastern
 Nico Nico Douga:Asia/Tokyo
 Niconico:Asia/Tokyo
 Nile Television Network:Africa/Cairo
