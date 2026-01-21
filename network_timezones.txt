@@ -1323,6 +1323,7 @@ Fox (GT):America/Guatemala
 Fox (HN):America/Tegucigalpa
 Fox (IT):Europe/Rome
 Fox (Latin America):America/Buenos_Aires
+Fox (MX):America/Mexico_City
 Fox (NI):America/Managua
 Fox (SV):America/El_Salvador
 Fox 1 (Brazil):America/Sao_Paulo
