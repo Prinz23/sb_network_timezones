@@ -1802,6 +1802,7 @@ LCP-AN:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
 LG U+:Asia/Seoul
+LG U+ TV:Asia/Seoul
 LINE TV (TH):Asia/Bangkok
 LLBN Arabic (US):US/Eastern
 LLBN Chinese (US):US/Eastern
