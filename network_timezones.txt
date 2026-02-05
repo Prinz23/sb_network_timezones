@@ -1580,6 +1580,7 @@ Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hrvatska radiotelevizija (HRT):Europe/Zagreb
 Hulu:US/Eastern
+Hulu Japan:Asia/Tokyo
 Hulu on Disney+:US/Eastern
 Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
