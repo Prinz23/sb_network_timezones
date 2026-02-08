@@ -3467,6 +3467,7 @@ Televisa S.A. de C.V:America/Mexico_City
 Televisa S.A. de C.V.:America/Mexico_City
 Televisi Republik Indonesia:Asia/Jakarta
 Television Broadcasts Limited:Asia/Shanghai
+Television Kanagawa:Asia/Tokyo
 Television Maldives:Indian/Maldives
 Television Malta:Europe/Malta
 Television New Zealand:Pacific/Auckland
