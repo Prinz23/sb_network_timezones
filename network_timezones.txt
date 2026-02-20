@@ -1933,6 +1933,7 @@ MBC Plus:Asia/Seoul
 MBC Plus Media:Asia/Seoul
 MBC QueeN:Asia/Seoul
 MBC Queen:Asia/Seoul
+MBC Shahid:Asia/Riyadh
 MBC every1:Asia/Seoul
 MBN:Asia/Seoul
 MBS:Asia/Tokyo
@@ -2511,6 +2512,7 @@ Premier (Russia):Europe/Kaliningrad
 Premier Sports (UK):Europe/London
 Premiere:Europe/Berlin
 Premiere (DE):Europe/Berlin
+Prende TV:America/Mexico_City
 Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
 Prima Family (CZ):Europe/Prague
@@ -3750,6 +3752,7 @@ Veronica:Europe/Amsterdam
 Veronica Omroep Organisatie (VOO):Europe/Amsterdam
 Versus:US/Eastern
 Veteran Television:US/Eastern
+ViX:America/Mexico_City
 ViX+:America/Mexico_City
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
