@@ -322,6 +322,7 @@ At the Races (UK):Europe/London
 AtomFilms:US/Eastern
 Atresplayer:Europe/Madrid
 Atresplayer Premium:Europe/Madrid
+Audible:US/Eastern
 Audience:US/Eastern
 Audience Network:US/Eastern
 Australian Broadcasting Corporation:Australia/Sydney
@@ -2474,6 +2475,7 @@ Planet Green:US/Eastern
 Planet POP (UK):Europe/London
 Planète+:Europe/Paris
 Planète+ (Canada):Canada/Eastern
+Play:Europe/Brussels
 Play More:Europe/Brussels
 Play Plus:America/Sao_Paulo
 Play Premium:Europe/Zagreb
@@ -4231,6 +4233,7 @@ ztv:Europe/Stockholm
 כאן (Kan):Asia/Jerusalem
 כאן 11:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
+ערוץ 13:Asia/Jerusalem
 ערוץ 2:Asia/Jerusalem
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
