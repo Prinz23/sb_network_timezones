@@ -2447,6 +2447,7 @@ Paramount + Premium:US/Eastern
 Paramount Channel (FR):Europe/Paris
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
+Paramount Network (-2018):US/Eastern
 Paramount+:US/Eastern
 Paramount+ Premium:US/Eastern
 Paramount+ with Showtime:US/Eastern
