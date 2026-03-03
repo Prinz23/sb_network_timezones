@@ -3932,6 +3932,7 @@ Zing (UK):Europe/London
 Ztélé:Canada/Eastern
 Zweites Deutsches Fernsehen:Europe/Berlin
 [adult swim]:US/Eastern
+[nonexistent channel included erroneously]:Asia/Tokyo
 [v] (AU):Australia/Sydney
 [v] HITS (AU):Australia/Sydney
 a-pac (AU):Australia/Sydney
