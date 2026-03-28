@@ -3763,7 +3763,10 @@ Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viasat3:Europe/Budapest
+Vice:US/Eastern
+Vice TV (US):US/Eastern
 Vice on TV (US):US/Eastern
+Viceland:US/Eastern
 Viceland (CA):Canada/Eastern
 Viceland (FR):Europe/Paris
 Viceland (NL):Europe/Amsterdam
@@ -4066,6 +4069,7 @@ itv YORKSHIRE (UK):Europe/London
 itv play (UK):Europe/London
 itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
+ivi:Europe/Kaliningrad
 ivi (Russia):Europe/Kaliningrad
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
