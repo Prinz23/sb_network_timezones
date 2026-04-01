@@ -1450,6 +1450,7 @@ Gamavision (MX):America/Mexico_City
 Game One:Europe/Paris
 Game Show Network:US/Eastern
 Game Show Network (US):US/Eastern
+GameTV:Canada/Eastern
 GameTV Canada:Canada/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
