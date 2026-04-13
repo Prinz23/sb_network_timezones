@@ -3513,6 +3513,7 @@ The Austin Systems Channel:US/Eastern
 The Box:Europe/London
 The BrewDog Network:Europe/London
 The CW:US/Eastern
+The CW App:US/Eastern
 The CW Television Network:US/Eastern
 The Channel of the Stars:America/Mexico_City
 The Comedy Channel:Australia/Sydney
