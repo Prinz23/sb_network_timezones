@@ -1850,6 +1850,7 @@ LaSexta:Europe/Rome
 Laftel:Asia/Seoul
 Las Estrellas:America/Mexico_City
 Latest TV (UK):Europe/London
+Latina Televisión:America/Lima
 Latvijas TelevÄ«zija:Europe/Riga
 Latvijas Televīzija:Europe/Riga
 LeSEA broadcasting network (US):US/Eastern
