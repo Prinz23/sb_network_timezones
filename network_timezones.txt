@@ -258,6 +258,7 @@ Alnabaa:Africa/Tripoli
 Alpha TV:Europe/Athens
 Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
+Altibox X:Europe/Oslo
 Altice Studio:Europe/Paris
 Altitude sports (US):US/Eastern
 Alto Broadcasting System - Chronicle Broadcasting Network:Asia/Manila
@@ -1799,6 +1800,7 @@ L!VETV (UK):Europe/London
 L'Équipe 21:Europe/Paris
 L'Équipe TV:Europe/Paris
 L1 (NL):Europe/Amsterdam
+LA7d:Europe/Rome
 LATV (US):US/Eastern
 LCI:Europe/Paris
 LCP:Europe/Paris
@@ -2948,6 +2950,7 @@ Skai:Europe/Athens
 Skjár einn (IS):Atlantic/Reykjavik
 Skjáreinn:Atlantic/Reykjavik
 Skuff TV (AU):Australia/Sydney
+Sky (NZ):Pacific/Auckland
 Sky 1:Europe/London
 Sky Arte:Europe/Rome
 Sky Arts:Europe/London
@@ -2972,6 +2975,7 @@ Sky Living:Europe/London
 Sky Max:Europe/London
 Sky Movies:Europe/London
 Sky Nature:Europe/London
+Sky Network Television Limited:Pacific/Auckland
 Sky News:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky One:Europe/London
@@ -3858,6 +3862,7 @@ WarnerTV Comedy (Germany):Europe/Berlin
 Watch:Europe/London
 WatchFrance:Europe/Paris
 Watcha:Asia/Seoul
+WatcherTV:US/Eastern
 Wavve:Asia/Seoul
 WeTV:Asia/Shanghai
 WealthTV:US/Eastern
