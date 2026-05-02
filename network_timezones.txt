@@ -466,6 +466,7 @@ Believe TV (UK):Europe/London
 Best Direct (UK):Europe/London
 Betevé:Europe/Madrid
 Beyaz TV:Europe/Istanbul
+Bi Kanal:Europe/Istanbul
 BiZ TELEVISION (US):US/Eastern
 Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
