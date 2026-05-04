@@ -890,6 +890,7 @@ DC Universe:US/Eastern
 DChannel:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
+DFamilia:US/Eastern
 DFamilia (US):US/Eastern
 DIA TV:Asia/Seoul
 DISCOVERY SCIENCE (CA):Canada/Eastern
