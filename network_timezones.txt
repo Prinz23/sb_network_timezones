@@ -255,6 +255,8 @@ All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
 Almavision (US):US/Eastern
 Alnabaa:Africa/Tripoli
+Alpha:Europe/Athens
+Alpha Satellite Television SA.:Europe/Athens
 Alpha TV:Europe/Athens
 Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
@@ -4220,6 +4222,7 @@ ztv:Europe/Stockholm
 ΕΡΤ 1:Europe/Athens
 ΣΚΑΪ Τηλεόραση:Europe/Athens
 Інтер:Europe/Kiev
+Бибигон:Europe/Kaliningrad
 ДТВ:Europe/Kaliningrad
 Дождь:Europe/Kaliningrad
 Домашний:Europe/Kaliningrad
@@ -4244,6 +4247,8 @@ ztv:Europe/Stockholm
 ТНТ:Europe/Kaliningrad
 Твоё Новое Телевидение:Europe/Kaliningrad
 Телевидение нового тысячелетия:Europe/Kaliningrad
+Теленяня:Europe/Kaliningrad
+Эрудит:Europe/Kaliningrad
 דיסני פלוס:US/Eastern
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
