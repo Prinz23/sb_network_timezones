@@ -2589,6 +2589,7 @@ RIT TV:America/Sao_Paulo
 RKK (NL):Europe/Amsterdam
 RLTV:US/Eastern
 RMC Découverte:Europe/Paris
+RMC Life:Europe/Paris
 RMC Sport:Europe/Paris
 RMC Story:Europe/Paris
 ROCKS TV (US):US/Eastern
