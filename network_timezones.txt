@@ -632,12 +632,15 @@ CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
 CTV Comedy:Canada/Eastern
+CTV Comedy Channel:Canada/Eastern
 CTV Drama:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
+CTV Drama Channel:Canada/Eastern
 CTV Life Channel:Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
 CTV Sci-Fi:Canada/Eastern
 CTV Sci-Fi (Space):Canada/Eastern
+CTV Sci-Fi Channel:Canada/Eastern
 CTV Television Network:Canada/Eastern
 CTV two (CA):Canada/Eastern
 CTi TV:Asia/Taipei
@@ -1494,6 +1497,7 @@ Gshow:America/Sao_Paulo
 Guangzhou Broadcasting Network:Asia/Shanghai
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
+Gusto:Canada/Eastern
 H2:US/Eastern
 H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
@@ -1905,6 +1909,7 @@ Lâlegül TV:Europe/Istanbul
 M-Net:Africa/Johannesburg
 M1 (RU):Europe/Kaliningrad
 M10 TV (AU):Australia/Sydney
+M3:Canada/Eastern
 M3 (CA):Canada/Eastern
 M6:Europe/Paris
 M6 Replay:Europe/Paris
@@ -2108,6 +2113,8 @@ Mtavari Channel:Asia/Tbilisi
 Much:Canada/Eastern
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
+MuchMore:Canada/Eastern
+MuchMoreMusic:Canada/Eastern
 MuchMusic:Canada/Eastern
 MuchMusic (CA):Canada/Eastern
 Multimedios Television (US):US/Eastern
@@ -3880,6 +3887,7 @@ Westdeutscher Rundfunk:Europe/Berlin
 Westdeutscher Rundfunk (WDR):Europe/Berlin
 Weverse:Asia/Seoul
 Weverse (KR):Asia/Seoul
+WildBrainTV:Canada/Eastern
 Womens Entertainment Network:US/Eastern
 Wondrium:US/Eastern
 Wondrium Journeys:US/Eastern
