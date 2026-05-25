@@ -3114,6 +3114,7 @@ Sun Television:Asia/Tokyo
 Sundance:US/Eastern
 SundanceTV:US/Eastern
 Sunrise TV (UK):Europe/London
+Sunu Yeuf:Africa/Dakar
 SuoimiTV:Europe/Helsinki
 Super Casino (UK):Europe/London
 Super Channel:Canada/Eastern
