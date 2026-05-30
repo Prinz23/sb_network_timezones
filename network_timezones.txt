@@ -87,6 +87,7 @@ ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
 ABC Comedy:Australia/Sydney
+ABC Entertains:Australia/Sydney
 ABC Family:US/Eastern
 ABC Kids:Australia/Sydney
 ABC Me:Australia/Sydney
