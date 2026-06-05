@@ -2269,6 +2269,7 @@ National Jewish Television (US):US/Eastern
 National Media Authority:Africa/Cairo
 Naver NOW.:Asia/Seoul
 Naver TV:Asia/Seoul
+Naver TV Cast:Asia/Seoul
 Naver TVcast:Asia/Seoul
 Nebula:US/Eastern
 Nederland 3:Europe/Amsterdam
@@ -3231,6 +3232,7 @@ TRT Arabic:Europe/Istanbul
 TRT Avaz:Europe/Istanbul
 TRT Belgesel:Europe/Istanbul
 TRT Diyanet:Europe/Istanbul
+TRT Genç:Europe/Istanbul
 TRT HD:Europe/Istanbul
 TRT Haber:Europe/Istanbul
 TRT Kurdî:Europe/Istanbul
