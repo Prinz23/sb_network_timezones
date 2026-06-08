@@ -2246,6 +2246,7 @@ Namava:Asia/Tehran
 Namayesh TV:Asia/Tehran
 Nasim TV:Asia/Tehran
 Nat Geo:US/Eastern
+Nat Geo Kids:America/Sao_Paulo
 Nat Geo Kids (BR):America/Sao_Paulo
 Nat Geo TV:US/Eastern
 Nat Geo Wild:US/Eastern
@@ -3454,6 +3455,7 @@ TVn:America/Santiago
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
+TX:Asia/Tokyo
 TXCN (US):US/Eastern
 TXN (Japan):Asia/Tokyo
 TYT Network:US/Eastern
