@@ -293,6 +293,7 @@ Animax (SG):Asia/Singapore
 Anime Hodai:Asia/Tokyo
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
+Anime Theater X:Asia/Tokyo
 Antena 1:Europe/Bucharest
 Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
@@ -3554,6 +3555,7 @@ The History Channel International:US/Eastern
 The Hub:US/Eastern
 The Independent Studios:America/Bogota
 The Learning Channel:US/Eastern
+The Life Network:Canada/Eastern
 The Movie Network:Canada/Eastern
 The Music Factory:Europe/Amsterdam
 The Nashville Network:US/Eastern
@@ -4355,8 +4357,10 @@ ztv:Europe/Stockholm
 สถานีโทรทัศน์ช่องวัน 31:Asia/Bangkok
 პირველი არხი:Asia/Tbilisi
 らくてんティービー:Asia/Tokyo
+アニメシアター・エックス:Asia/Tokyo
 アベマ:Asia/Tokyo
 アベマティーヴィー:Asia/Tokyo
+エー・ティー・エックス:Asia/Tokyo
 フールー:Asia/Tokyo
 中視:Asia/Taipei
 中视:Asia/Taipei
