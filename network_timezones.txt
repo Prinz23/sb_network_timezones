@@ -4222,6 +4222,7 @@ westlink (AU):Australia/Sydney
 yes:Asia/Jerusalem
 yesSTARS (IL):Asia/Jerusalem
 youtoo SOCIAL TV (US):US/Eastern
+zdf_neo:Europe/Berlin
 ztv:Europe/Stockholm
 ¡Sorpresa! (US):US/Eastern
 À Punt:Europe/Madrid
