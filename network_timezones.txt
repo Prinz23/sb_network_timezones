@@ -3362,6 +3362,7 @@ TV3 Norge:Europe/Oslo
 TV3 Norway:Europe/Oslo
 TV3 Puls:Europe/Copenhagen
 TV3+:Europe/Copenhagen
+TV360:Europe/Istanbul
 TV4:Europe/Stockholm
 TV4 (NZ):Pacific/Auckland
 TV4 (SE):Europe/Stockholm
