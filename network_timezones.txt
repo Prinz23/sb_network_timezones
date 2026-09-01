@@ -545,6 +545,7 @@ CBC Gem:Canada/Eastern
 CBC News Network:Canada/Eastern
 CBC Newsworld:Canada/Eastern
 CBC Sofra:Africa/Cairo
+CBC TV:Canada/Eastern
 CBC Television:Canada/Eastern
 CBCnews network (CA):Canada/Eastern
 CBN (AU):Australia/Sydney
