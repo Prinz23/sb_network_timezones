@@ -1,1 +1,1 @@
-zoneinfo-2026c.tar.gz a5f9e302ec02ff0fbb84f3939c75b49f
+zoneinfo-2026d.tar.gz 1cd4367b0d39ab6e89ff2f4f44fef23f
