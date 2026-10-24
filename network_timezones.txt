@@ -1051,6 +1051,7 @@ Disney+:US/Eastern
 Disney+ Hotstar:Asia/Kolkata
 Disney+ Hulu:US/Eastern
 Disney+ Star:US/Eastern
+Disney+ and Hulu:US/Eastern
 DisneyLife:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
