@@ -2088,6 +2088,7 @@ Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Midlands Asian Television:Europe/London
 Military Channel:US/Eastern
+Minika:Europe/Istanbul
 Minnesota Channel (US):US/Eastern
 Mitteldeutscher Rundfunk:Europe/Berlin
 Mnet:Asia/Seoul
